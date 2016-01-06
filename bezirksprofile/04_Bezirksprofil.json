@@ -193,6 +193,11 @@
 	  }
 	},
 	"Einpersonenhaushalte": {
+	  "gesamt": {
+		"Wert": 59.8,
+		"Datum": "2013",
+		"Maßeinheit": "in % aller Haushalte"
+	  },
 	  "Einpersonenhaushalte unter 65 J.": {
 		"Wert": 42.1,
 		"Datum": "2013",
