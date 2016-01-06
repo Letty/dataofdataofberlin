@@ -25,19 +25,19 @@
 		  "Datum": "31.12.2014",
 		  "Maßeinheit": "Anteil in %"
 		},
-		"deutsche Staatsangehörigkeit": {
+		"mit deutsche Staatsangehörigkeit": {
 		  "Wert": 14.9,
 		  "Datum": "31.12.2014",
 		  "Maßeinheit": "Anteil in %"
 		},
-		"ausländische Staatsangehörigkeit": {
+		"mit ausländische Staatsangehörigkeit": {
 		  "Wert": 21.9,
 		  "Datum": "31.12.2014",
 		  "Maßeinheit": "Anteil in %"
 		}
 	  }
 	},
-	"Altersgruppen": {
+	"Bevölkerung nach Altersgruppen": {
 	  "0-5": {
 		"Wert": 4.7,
 		"Datum": "31.12.2013",
