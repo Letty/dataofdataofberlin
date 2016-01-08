@@ -1,0 +1,630 @@
+{
+  "Bezirk": "Treptow - Köpenick",
+  "Bezirksnummer": "09",
+  "Quelle": "http://www.gsi-berlin.info/redirectA.asp?filename=TB0101000009201500.pdf",
+  "Bevölkerung": {
+	"Bevölkerung insgesamt": {
+	  "gesamt": {
+		"Wert": 249440,
+		"Datum": "31.12.2014",
+		"Maßeinheit": "absolut"
+	  },
+	  "männlich": {
+		"Wert": 48.6,
+		"Datum": "31.12.2014",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "weiblich": {
+		"Wert": 51.4,
+		"Datum": "31.12.2014",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "Migrationshintergrund": {
+		"gesamt": {
+		  "Wert": 9.3,
+		  "Datum": "31.12.2014",
+		  "Maßeinheit": "Anteil in %"
+		},
+		"mit deutsche Staatsangehörigkeit": {
+		  "Wert": 4.2,
+		  "Datum": "31.12.2014",
+		  "Maßeinheit": "Anteil in %"
+		},
+		"mit ausländische Staatsangehörigkeit": {
+		  "Wert": 5.2,
+		  "Datum": "31.12.2014",
+		  "Maßeinheit": "Anteil in %"
+		}
+	  }
+	},
+	"Bevölkerung nach Altersgruppen": {
+	  "0-5": {
+		"Wert": 5.5,
+		"Datum": "31.12.2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "6-14": {
+		"Wert": 6.7,
+		"Datum": "31.12.2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "15-17": {
+		"Wert": 2.1,
+		"Datum": "31.12.2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "18-39": {
+		"Wert": 27.2,
+		"Datum": "31.12.2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "40-64": {
+		"Wert": 34.8,
+		"Datum": "31.12.2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "65-74": {
+		"Wert": 11.4,
+		"Datum": "31.12.2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "75-x": {
+		"Wert": 12.4,
+		"Datum": "31.12.2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "Jugendquotient": {
+		"Wert": 22.9,
+		"Datum": "2013",
+		"Maßeinheit": "0- bis 17-jährige je 100 18- bis 64-jährige"
+	  },
+	  "Altenquotient": {
+		"Wert": 38.4,
+		"Datum": "2013",
+		"Maßeinheit": "Personen 65 J. u.ä. je 100 18- bis 64-jährige"
+	  }
+	},
+	"Bevölkerungsprognose": {
+	  "0-5": {
+		"Wert": 4.9,
+		"Datum": "2030",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "6-14": {
+		"Wert": 7.7,
+		"Datum": "2030",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "15-17": {
+		"Wert": 2.6,
+		"Datum": "2030",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "18-39": {
+		"Wert": 24.2,
+		"Datum": "2030",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "40-64": {
+		"Wert": 34.9,
+		"Datum": "2030",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "65-74": {
+		"Wert": 12.9,
+		"Datum": "2030",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "75-x": {
+		"Wert": 12.8,
+		"Datum": "2030",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "Jugendquotient": {
+		"Wert": 25.7,
+		"Datum": "2030",
+		"Maßeinheit": "0- bis 17-jährige je 100 18- bis 64-jährige"
+	  },
+	  "Altenquotient": {
+		"Wert": 43.5,
+		"Datum": "2030",
+		"Maßeinheit": "Personen 65 J. u.ä. je 100 18- bis 64-jährige"
+	  }
+	},
+	"Bevölkerungsentwicklung": {
+	  "Lebendgeborene": {
+		"Wert": 2336,
+		"Datum": "2013",
+		"Maßeinheit": "absolut"
+	  },
+	  "Geborene (außerklinisch)": {
+		"Wert": 188,
+		"Datum": "2013",
+		"Maßeinheit": "absolut"
+	  },
+	  "Geburtenziffer": {
+		"Wert": 9.6,
+		"Datum": "2013",
+		"Maßeinheit": "Lebendgeborene je 1.000 EW"
+	  },
+	  "Fruchtbarkeitsziffer": {
+		"Wert": 53.8,
+		"Datum": "2013",
+		"Maßeinheit": "Lebendgeborene je 1.000 EW 15- bis 45-j. Frauen"
+	  },
+	  "Gestorbene": {
+		"Wert": 2695,
+		"Datum": "2013",
+		"Maßeinheit": "absolut"
+	  },
+	  "Sterbeziffer": {
+		"Wert": 11.1,
+		"Datum": "2013",
+		"Maßeinheit": "Gestorben je 1.000 EW"
+	  },
+	  "Geburten- bzw. Sterbeüberschuss": {
+		"Wert": -359,
+		"Datum": "2013",
+		"Maßeinheit": "absolut"
+	  },
+	  "Wanderungssaldo": {
+		"Wert": 2364,
+		"Datum": "2013",
+		"Maßeinheit": "absolut"
+	  },
+	  "Bevölkerungszu- oder abnahme": {
+		"Wert": 2016,
+		"Datum": "2013",
+		"Maßeinheit": "absolut"
+	  }
+	}
+  },
+  "Sozioökonomische Lage": {
+	"Bildungsabschluss (Alter: 18-64 Jahre)": {
+	  "Bevölkerung ohne Schulabschluss": {
+		"Wert": 1.5,
+		"Datum": "2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "Bevölkerung ohne berufl. Ausbildungsabschluss": {
+		"Wert": 14.0,
+		"Datum": "2013",
+		"Maßeinheit": "Anteil in %"
+	  }
+	},
+	"Einpersonenhaushalte": {
+	  "gesamt": {
+		"Wert": 49.6,
+		"Datum": "2013",
+		"Maßeinheit": "in % aller Haushalte"
+	  },
+	  "Einpersonenhaushalte unter 65 J.": {
+		"Wert": 34.7,
+		"Datum": "2013",
+		"Maßeinheit": "in % aller Haushalte"
+	  },
+	  "Einpersonenhaushalte 65 J. u.ä.": {
+		"Wert": 14.8,
+		"Datum": "2013",
+		"Maßeinheit": "in % aller Haushalte"
+	  }
+	},
+	"Erwerbsstatus": {
+	  "Erwerbstätigenquote (15- bis 64-jährige Erwerbstätige an Bevölkerung gleichen Alters)": {
+		"Wert": 75.9,
+		"Datum": "2013",
+		"Maßeinheit": "in %"
+	  },
+	  "Abeitslosenquote	(Arbeitslose an allen zivilen Erwerbspersonen)": {
+		"Wert": 8.6,
+		"Datum": "2014",
+		"Maßeinheit": "in %"
+	  }
+	},
+	"Einkommen": {
+	  "HzL und bedarfsorientierte Grundsicherung außerhalb von Einrichtungen": {
+		"Wert": 13.8,
+		"Datum": "2014",
+		"Maßeinheit": "je 1.000 EW"
+	  },
+	  "Armutsquote": {
+		"Wert": 9.9,
+		"Datum": "2014",
+		"Maßeinheit": "in %"
+	  }
+	}
+  },
+  "Gesundheitszustand": {
+	"Lebenserwartung": {
+	  "bei Geburt": {
+		"männlich": {
+		  "Wert": 78.1,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "in Jahren"
+		},
+		"weiblich": {
+		  "Wert": 83.8,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "in Jahren"
+		}
+	  },
+	  "mit 80 Jahren": {
+		"männlich": {
+		  "Wert": 8.5,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "in Jahren"
+		},
+		"weiblich": {
+		  "Wert": 9.8,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "in Jahren"
+		}
+	  }
+	},
+	"Allgemeine Sterblichkeit": {
+	  "Gesamtsterblichkeit": {
+		"gesamt": {
+		  "Wert": 528.4,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"männlich": {
+		  "Wert": 669.5,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 409.3,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Vorzeitige Sterblichkeit (0-64 Jahre)": {
+		"gesamt": {
+		  "Wert": 1218,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 257.9,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 113.2,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Sterblichkeit 65 Jahre u.ä.": {
+		"gesamt": {
+		  "Wert": 6496,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 3999.8,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 2804.4,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Perinatale Sterblichkeit": [
+		{
+		  "Wert": 49,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		{
+		  "Wert": 7.1,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 1.000 Geborene"
+		}
+	  ]
+	},
+	"Vermeidbare Sterbefälle": {
+	  "Lungenkrebs": {
+		"Klassifikation": "ICD-10 Nrn.: C33 - C34 / Alter: 15 - 64 Jahre",
+		"gesamt": {
+		  "Wert": 85,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 24.0,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 9.2,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Ischämiche Herzkrankheiten": {
+		"Klassifikation": "ICD-10 Nrn.: I20 - I25 / Alter: 35 - 64 Jahre",
+		"gesamt": {
+		  "Wert": 94,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 55.4,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 7.7,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Akuter Myokardinfarkt": {
+		"Klassifikation": "ICD-10 Nr: I21 / Alter: 0 - 64 Jahre",
+		"gesamt": {
+		  "Wert": 63,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 16.8,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 1.7,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Hypertonie und zerebrovaskuläre Krankheiten": {
+		"Klassifikation": "ICD-10 Nrn.: I10 - I15, I60 - I69 / Alter: 35 - 64 Jahre",
+		"gesamt": {
+		  "Wert": 52,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 20.3,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 14.8,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Krankheiten der Leber": {
+		"Klassifikation": "ICD-10 Nrn.: K70 - K77 / Alter: 15 - 74 Jahre",
+		"gesamt": {
+		  "Wert": 128,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 30.6,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 9.2,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Alkoholische Leberkrankheit": {
+		"Klassifikation": "ICD-10 Nr.: K70 / Alter: 15 - 74 Jahre",
+		"gesamt": {
+		  "Wert": 75,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 18.5,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 4.7,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Bösartige Neubildung der Brustdrüse": {
+		"Klassifikation": "ICD-10 Nr.: C50 / Alter 25 - 64 Jahre",
+		"gesamt": {
+		  "Wert": 41,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "absolut"
+		},
+		"weiblich": {
+		  "Wert": 20.1,
+		  "Datum": "2011/13",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  }
+	},
+	"Morbidität": {
+	  "Neuerkrankungsrate an bösartigen Neubildungen": {
+		"Klassifikation": "ICD-10 Nr.: C00-C97, ohne C44, mit D09.0, D41.4",
+		"männlich": {
+		  "Wert": 382.0,
+		  "Datum": "2010/12",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 319.7,
+		  "Datum": "2010/12",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Neuerkrankungsrate an tabakassoziierten bösartigen Neubildungen": {
+		"Klassifikation": "ICD-10 Nr.: C00-C14, C15, C25, C32, C33-C34. C67, D09.0, D41.4",
+		"männlich": {
+		  "Wert": 123.9,
+		  "Datum": "2010/12",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"weiblich": {
+		  "Wert": 53.0,
+		  "Datum": "2010/12",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Pflegebedürftige in ambulanter oder stationärer Pflege": {
+		"gesamt": {
+		  "Wert": 4106,
+		  "Datum": "2013",
+		  "Maßeinheit": "absolut"
+		},
+		"ambulante Pflege": {
+		  "Wert": 758.1,
+		  "Datum": "2013",
+		  "Maßeinheit": "je 100.000 EW"
+		},
+		"stationäre Pflege": {
+		  "Wert": 924.5,
+		  "Datum": "2013",
+		  "Maßeinheit": "je 100.000 EW"
+		}
+	  },
+	  "Schwerbehinderte Personen mit Schwb-Ausweis": {
+		"gesamt": {
+		  "Wert": 24391,
+		  "Datum": "2013",
+		  "Maßeinheit": "absolut"
+		},
+		"männlich": {
+		  "Wert": 6856.5,
+		  "Datum": "2013",
+		  "Maßeinheit": "je 100.000 DMR"
+		},
+		"stationäre Pflege": {
+		  "Wert": 6608.1,
+		  "Datum": "2013",
+		  "Maßeinheit": "je 100.000 DMR"
+		}
+	  },
+	  "Zahnstatus behandlungsbedürftig bei vom ZÄD untersuchten Kindern": {
+		"3-Jährige": {
+		  "Wert": 8.7,
+		  "Datum": "2013/14",
+		  "Maßeinheit": "Anteil in %"
+		},
+		"6-Jährige": {
+		  "Wert": 27.9,
+		  "Datum": "2013/14",
+		  "Maßeinheit": "Anteil in %"
+		},
+		"12-Jährige": {
+		  "Wert": 9.7,
+		  "Datum": "2013/14",
+		  "Maßeinheit": "Anteil in %"
+		}
+	  },
+	  "Übergewicht (im Rahmen der Einschulungsunter- suchung untersuchte Kinder; mittleres Alter: 5,8 Jahre)": {
+		"untersuchte Kinder": {
+		  "Wert": 1932,
+		  "Datum": "2013",
+		  "Maßeinheit": "absolut"
+		},
+		"übergewichtig (>90. bis 97. Perzentil)": {
+		  "Wert": 4.0,
+		  "Datum": "2013",
+		  "Maßeinheit": "Anteil in %"
+		},
+		  "adipös (>97. Perzentil)": {
+		  "Wert": 2.2,
+		  "Datum": "2013",
+		  "Maßeinheit": "Anteil in %"
+		}
+	  }
+	}
+  },
+  "Gesundheitsvorsorge im Kindesalter": {
+	"Inanspruchnahme des Krankheitsfrüherkennungsprogramms": {
+	  "untersuchte Kinder": {
+		"Wert": 1903,
+		"Datum": "2013",
+		"Maßeinheit": "absolut"
+	  },
+	  "Kinder ohne Dokumentation": {
+		"Wert": 6.3,
+		"Datum": "2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "Teilnahme an U 8 (Anteil an Einschülern mit Dokumentation)": {
+		"Wert": 93.0,
+		"Datum": "2013",
+		"Maßeinheit": "Anteil in %"
+	  }
+	},
+	"Impfquoten": {
+	  "untersuchte Kinder": {
+		"Wert": 1961,
+		"Datum": "2013",
+		"Maßeinheit": "absolut"
+	  },
+	  "Kinder ohne Impfdokumentation": {
+		"Wert": 7.4,
+		"Datum": "2013",
+		"Maßeinheit": "Anteil in %"
+	  },
+	  "Impfquoten 2. Masernimpf. bei Kindern mit Dokumentation": {
+		"Wert": 89.6,
+		"Datum": "2013",
+		"Maßeinheit": "Anteil in %"
+	  }
+	}
+  },
+  "Versorgung": {
+	"Ambulant": {
+	  "Ärzte": {
+		"Wert": 540,
+		"Datum": "01.01.2015",
+		"Maßeinheit": "EW je Arzt"
+	  },
+	  "Hausärzte": {
+		"Wert": 1554,
+		"Datum": "01.01.2015",
+		"Maßeinheit": "EW je Hausarzt"
+	  },
+	  "Zahnärzte": {
+		"Wert": 1165,
+		"Datum": "31.12.2014",
+		"Maßeinheit": "EW je Zahnarzt"
+	  },
+	  "Psychotherapeut": {
+		"Wert": 2837,
+		"Datum": "2015",
+		"Maßeinheit": "EW je Psychotherapeut"
+	  }
+	},
+	"Stationär": {
+	  "Krankenhausbetten": {
+		"Wert": 4.0,
+		"Datum": "31.12.2014",
+		"Maßeinheit": "je 100.000 EW"
+	  }
+	},
+	"Pflegerisch": {
+	  "Plätze in stationären Pflegeeinrichtungen": [
+		{
+		  "Wert": 2660,
+		  "Datum": "15.12.2013",
+		  "Maßeinheit": "absolut"
+		},
+		{
+		  "Wert": 4564.2,
+		  "Datum": "15.12.2013",
+		  "Maßeinheit": "je 100.000 EW 65 J. u.ä."
+		}
+	  ]
+	}
+  }
+}
