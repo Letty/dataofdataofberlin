@@ -215,7 +215,7 @@
 		"Datum": "2013",
 		"Maßeinheit": "in %"
 	  },
-	  "Abeitslosenquote	(Arbeitslose an allen zivilen Erwerbspersonen)": {
+	  "Arbeitslosenquote (Arbeitslose an allen zivilen Erwerbspersonen)": {
 		"Wert": 9.2,
 		"Datum": "2014",
 		"Maßeinheit": "in %"
@@ -250,7 +250,7 @@
 	  },
 	  "mit 80 Jahren": {
 		"männlich": {
-		  "Wert":7. 8,
+		  "Wert": 7.8,
 		  "Datum": "2011/13",
 		  "Maßeinheit": "in Jahren"
 		},
