@@ -10,9 +10,9 @@
 			"url": "http://www.statistik-berlin-brandenburg.de"
 		}
 	},
-	"data": [
+	"values": [
 		{
-			"prognoseraum": "01011101",
+			"planungsraum": "01011101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -169,7 +169,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011102",
+			"planungsraum": "01011102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -326,7 +326,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011103",
+			"planungsraum": "01011103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -483,7 +483,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011104",
+			"planungsraum": "01011104",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -640,7 +640,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011105",
+			"planungsraum": "01011105",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -797,7 +797,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011201",
+			"planungsraum": "01011201",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -954,7 +954,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011202",
+			"planungsraum": "01011202",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -1111,7 +1111,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011203",
+			"planungsraum": "01011203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -1268,7 +1268,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011204",
+			"planungsraum": "01011204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -1425,7 +1425,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011301",
+			"planungsraum": "01011301",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -1582,7 +1582,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011302",
+			"planungsraum": "01011302",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -1739,7 +1739,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011303",
+			"planungsraum": "01011303",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -1896,7 +1896,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011304",
+			"planungsraum": "01011304",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -2053,7 +2053,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011305",
+			"planungsraum": "01011305",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -2210,7 +2210,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011306",
+			"planungsraum": "01011306",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -2367,7 +2367,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011401",
+			"planungsraum": "01011401",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -2524,7 +2524,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01011402",
+			"planungsraum": "01011402",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -2681,7 +2681,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022101",
+			"planungsraum": "01022101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -2838,7 +2838,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022102",
+			"planungsraum": "01022102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -2995,7 +2995,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022103",
+			"planungsraum": "01022103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -3152,7 +3152,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022104",
+			"planungsraum": "01022104",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -3309,7 +3309,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022105",
+			"planungsraum": "01022105",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -3466,7 +3466,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022106",
+			"planungsraum": "01022106",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -3623,7 +3623,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022201",
+			"planungsraum": "01022201",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -3780,7 +3780,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022202",
+			"planungsraum": "01022202",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -3937,7 +3937,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022203",
+			"planungsraum": "01022203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -4094,7 +4094,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022204",
+			"planungsraum": "01022204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -4251,7 +4251,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022205",
+			"planungsraum": "01022205",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -4408,7 +4408,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022206",
+			"planungsraum": "01022206",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -4565,7 +4565,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01022207",
+			"planungsraum": "01022207",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -4722,7 +4722,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01033101",
+			"planungsraum": "01033101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -4879,7 +4879,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01033102",
+			"planungsraum": "01033102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -5036,7 +5036,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01033201",
+			"planungsraum": "01033201",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -5193,7 +5193,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01033202",
+			"planungsraum": "01033202",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -5350,7 +5350,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01033203",
+			"planungsraum": "01033203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -5507,7 +5507,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01044101",
+			"planungsraum": "01044101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -5664,7 +5664,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01044102",
+			"planungsraum": "01044102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -5821,7 +5821,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01044103",
+			"planungsraum": "01044103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -5978,7 +5978,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01044201",
+			"planungsraum": "01044201",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -6135,7 +6135,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01044202",
+			"planungsraum": "01044202",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -6292,7 +6292,7 @@
 			]
 		},
 		{
-			"prognoseraum": "01044203",
+			"planungsraum": "01044203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -6449,7 +6449,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02010101",
+			"planungsraum": "02010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -6606,7 +6606,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02010102",
+			"planungsraum": "02010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -6763,7 +6763,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02010103",
+			"planungsraum": "02010103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -6920,7 +6920,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02010104",
+			"planungsraum": "02010104",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -7077,7 +7077,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02020201",
+			"planungsraum": "02020201",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -7234,7 +7234,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02020202",
+			"planungsraum": "02020202",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -7391,7 +7391,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02020203",
+			"planungsraum": "02020203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -7548,7 +7548,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02020204",
+			"planungsraum": "02020204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -7705,7 +7705,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02020205",
+			"planungsraum": "02020205",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -7862,7 +7862,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02020206",
+			"planungsraum": "02020206",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -8019,7 +8019,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02030301",
+			"planungsraum": "02030301",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -8176,7 +8176,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02030302",
+			"planungsraum": "02030302",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -8333,7 +8333,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02030401",
+			"planungsraum": "02030401",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -8490,7 +8490,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02030402",
+			"planungsraum": "02030402",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -8647,7 +8647,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02040501",
+			"planungsraum": "02040501",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -8804,7 +8804,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02040502",
+			"planungsraum": "02040502",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -8961,7 +8961,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02040503",
+			"planungsraum": "02040503",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -9118,7 +9118,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02040701",
+			"planungsraum": "02040701",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -9275,7 +9275,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02040702",
+			"planungsraum": "02040702",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -9432,7 +9432,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02040703",
+			"planungsraum": "02040703",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -9589,7 +9589,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02050601",
+			"planungsraum": "02050601",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -9746,7 +9746,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02050602",
+			"planungsraum": "02050602",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -9903,7 +9903,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02050801",
+			"planungsraum": "02050801",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -10060,7 +10060,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02050802",
+			"planungsraum": "02050802",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -10217,7 +10217,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02050803",
+			"planungsraum": "02050803",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -10374,7 +10374,7 @@
 			]
 		},
 		{
-			"prognoseraum": "02050804",
+			"planungsraum": "02050804",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -10531,7 +10531,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03010101",
+			"planungsraum": "03010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -10688,7 +10688,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03010102",
+			"planungsraum": "03010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -10845,7 +10845,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03010104",
+			"planungsraum": "03010104",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -11002,7 +11002,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03020203",
+			"planungsraum": "03020203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -11159,7 +11159,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03020209",
+			"planungsraum": "03020209",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -11316,7 +11316,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03020210",
+			"planungsraum": "03020210",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -11473,7 +11473,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03020307",
+			"planungsraum": "03020307",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -11630,7 +11630,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03030405",
+			"planungsraum": "03030405",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -11787,7 +11787,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03030406",
+			"planungsraum": "03030406",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -11944,7 +11944,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03030711",
+			"planungsraum": "03030711",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -12101,7 +12101,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03030715",
+			"planungsraum": "03030715",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -12258,7 +12258,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03030716",
+			"planungsraum": "03030716",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -12415,7 +12415,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03040508",
+			"planungsraum": "03040508",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -12572,7 +12572,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03040512",
+			"planungsraum": "03040512",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -12729,7 +12729,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03040513",
+			"planungsraum": "03040513",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -12886,7 +12886,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03040614",
+			"planungsraum": "03040614",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -13043,7 +13043,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03040818",
+			"planungsraum": "03040818",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -13200,7 +13200,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03050919",
+			"planungsraum": "03050919",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -13357,7 +13357,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03050920",
+			"planungsraum": "03050920",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -13514,7 +13514,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03050923",
+			"planungsraum": "03050923",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -13671,7 +13671,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03050924",
+			"planungsraum": "03050924",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -13828,7 +13828,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03050925",
+			"planungsraum": "03050925",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -13985,7 +13985,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03051017",
+			"planungsraum": "03051017",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -14142,7 +14142,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03051021",
+			"planungsraum": "03051021",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -14299,7 +14299,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03051022",
+			"planungsraum": "03051022",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -14456,7 +14456,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061126",
+			"planungsraum": "03061126",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -14613,7 +14613,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061131",
+			"planungsraum": "03061131",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -14770,7 +14770,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061227",
+			"planungsraum": "03061227",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -14927,7 +14927,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061228",
+			"planungsraum": "03061228",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -15084,7 +15084,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061332",
+			"planungsraum": "03061332",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -15241,7 +15241,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061429",
+			"planungsraum": "03061429",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -15398,7 +15398,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061430",
+			"planungsraum": "03061430",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -15555,7 +15555,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061434",
+			"planungsraum": "03061434",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -15712,7 +15712,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061435",
+			"planungsraum": "03061435",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -15869,7 +15869,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03061441",
+			"planungsraum": "03061441",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -16026,7 +16026,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03071536",
+			"planungsraum": "03071536",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -16183,7 +16183,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03071537",
+			"planungsraum": "03071537",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -16340,7 +16340,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03071633",
+			"planungsraum": "03071633",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -16497,7 +16497,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03071638",
+			"planungsraum": "03071638",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -16654,7 +16654,7 @@
 			]
 		},
 		{
-			"prognoseraum": "03071639",
+			"planungsraum": "03071639",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -16811,7 +16811,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04010101",
+			"planungsraum": "04010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -16968,7 +16968,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04010102",
+			"planungsraum": "04010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -17125,7 +17125,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04010103",
+			"planungsraum": "04010103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -17282,7 +17282,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020204",
+			"planungsraum": "04020204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -17439,7 +17439,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020205",
+			"planungsraum": "04020205",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -17596,7 +17596,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020206",
+			"planungsraum": "04020206",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -17753,7 +17753,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020207",
+			"planungsraum": "04020207",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -17910,7 +17910,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020208",
+			"planungsraum": "04020208",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -18067,7 +18067,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020209",
+			"planungsraum": "04020209",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -18224,7 +18224,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020310",
+			"planungsraum": "04020310",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -18381,7 +18381,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020311",
+			"planungsraum": "04020311",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -18538,7 +18538,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020312",
+			"planungsraum": "04020312",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -18695,7 +18695,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020313",
+			"planungsraum": "04020313",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -18852,7 +18852,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04020314",
+			"planungsraum": "04020314",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -19009,7 +19009,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030415",
+			"planungsraum": "04030415",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -19166,7 +19166,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030416",
+			"planungsraum": "04030416",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -19323,7 +19323,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030417",
+			"planungsraum": "04030417",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -19480,7 +19480,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030518",
+			"planungsraum": "04030518",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -19637,7 +19637,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030519",
+			"planungsraum": "04030519",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -19794,7 +19794,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030620",
+			"planungsraum": "04030620",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -19951,7 +19951,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030621",
+			"planungsraum": "04030621",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -20108,7 +20108,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030622",
+			"planungsraum": "04030622",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -20265,7 +20265,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030623",
+			"planungsraum": "04030623",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -20422,7 +20422,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030724",
+			"planungsraum": "04030724",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -20579,7 +20579,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030725",
+			"planungsraum": "04030725",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -20736,7 +20736,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030726",
+			"planungsraum": "04030726",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -20893,7 +20893,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030827",
+			"planungsraum": "04030827",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -21050,7 +21050,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030828",
+			"planungsraum": "04030828",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -21207,7 +21207,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030929",
+			"planungsraum": "04030929",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -21364,7 +21364,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030930",
+			"planungsraum": "04030930",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -21521,7 +21521,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04030931",
+			"planungsraum": "04030931",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -21678,7 +21678,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04031032",
+			"planungsraum": "04031032",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -21835,7 +21835,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041133",
+			"planungsraum": "04041133",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -21992,7 +21992,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041134",
+			"planungsraum": "04041134",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -22149,7 +22149,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041135",
+			"planungsraum": "04041135",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -22306,7 +22306,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041136",
+			"planungsraum": "04041136",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -22463,7 +22463,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041137",
+			"planungsraum": "04041137",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -22620,7 +22620,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041238",
+			"planungsraum": "04041238",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -22777,7 +22777,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041239",
+			"planungsraum": "04041239",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -22934,7 +22934,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041240",
+			"planungsraum": "04041240",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -23091,7 +23091,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041241",
+			"planungsraum": "04041241",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -23248,7 +23248,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041342",
+			"planungsraum": "04041342",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -23405,7 +23405,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041343",
+			"planungsraum": "04041343",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -23562,7 +23562,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04041344",
+			"planungsraum": "04041344",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -23719,7 +23719,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051445",
+			"planungsraum": "04051445",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -23876,7 +23876,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051446",
+			"planungsraum": "04051446",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -24033,7 +24033,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051447",
+			"planungsraum": "04051447",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -24190,7 +24190,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051448",
+			"planungsraum": "04051448",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -24347,7 +24347,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051549",
+			"planungsraum": "04051549",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -24504,7 +24504,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051550",
+			"planungsraum": "04051550",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -24661,7 +24661,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051551",
+			"planungsraum": "04051551",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -24818,7 +24818,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051652",
+			"planungsraum": "04051652",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -24975,7 +24975,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051653",
+			"planungsraum": "04051653",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -25132,7 +25132,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051654",
+			"planungsraum": "04051654",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -25289,7 +25289,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051655",
+			"planungsraum": "04051655",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -25446,7 +25446,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04051656",
+			"planungsraum": "04051656",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -25603,7 +25603,7 @@
 			]
 		},
 		{
-			"prognoseraum": "04061757",
+			"planungsraum": "04061757",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -25760,7 +25760,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010101",
+			"planungsraum": "05010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -25917,7 +25917,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010102",
+			"planungsraum": "05010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -26074,7 +26074,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010103",
+			"planungsraum": "05010103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -26231,7 +26231,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010204",
+			"planungsraum": "05010204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -26388,7 +26388,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010205",
+			"planungsraum": "05010205",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -26545,7 +26545,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010206",
+			"planungsraum": "05010206",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -26702,7 +26702,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010207",
+			"planungsraum": "05010207",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -26859,7 +26859,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010208",
+			"planungsraum": "05010208",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -27016,7 +27016,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010209",
+			"planungsraum": "05010209",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -27173,7 +27173,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010310",
+			"planungsraum": "05010310",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -27330,7 +27330,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010311",
+			"planungsraum": "05010311",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -27487,7 +27487,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010312",
+			"planungsraum": "05010312",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -27644,7 +27644,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010313",
+			"planungsraum": "05010313",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -27801,7 +27801,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010314",
+			"planungsraum": "05010314",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -27958,7 +27958,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05010339",
+			"planungsraum": "05010339",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -28115,7 +28115,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020415",
+			"planungsraum": "05020415",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -28272,7 +28272,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020416",
+			"planungsraum": "05020416",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -28429,7 +28429,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020417",
+			"planungsraum": "05020417",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -28586,7 +28586,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020418",
+			"planungsraum": "05020418",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -28743,7 +28743,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020419",
+			"planungsraum": "05020419",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -28900,7 +28900,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020420",
+			"planungsraum": "05020420",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -29057,7 +29057,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020521",
+			"planungsraum": "05020521",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -29214,7 +29214,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020522",
+			"planungsraum": "05020522",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -29371,7 +29371,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020523",
+			"planungsraum": "05020523",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -29528,7 +29528,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020524",
+			"planungsraum": "05020524",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -29685,7 +29685,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020625",
+			"planungsraum": "05020625",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -29842,7 +29842,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020626",
+			"planungsraum": "05020626",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -29999,7 +29999,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020627",
+			"planungsraum": "05020627",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -30156,7 +30156,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020628",
+			"planungsraum": "05020628",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -30313,7 +30313,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05020629",
+			"planungsraum": "05020629",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -30470,7 +30470,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05030730",
+			"planungsraum": "05030730",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -30627,7 +30627,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05030731",
+			"planungsraum": "05030731",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -30784,7 +30784,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05030832",
+			"planungsraum": "05030832",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -30941,7 +30941,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05030833",
+			"planungsraum": "05030833",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -31098,7 +31098,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05040934",
+			"planungsraum": "05040934",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -31255,7 +31255,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05040935",
+			"planungsraum": "05040935",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -31412,7 +31412,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05040936",
+			"planungsraum": "05040936",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -31569,7 +31569,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05040937",
+			"planungsraum": "05040937",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -31726,7 +31726,7 @@
 			]
 		},
 		{
-			"prognoseraum": "05040938",
+			"planungsraum": "05040938",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -31883,7 +31883,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010101",
+			"planungsraum": "06010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -32040,7 +32040,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010102",
+			"planungsraum": "06010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -32197,7 +32197,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010103",
+			"planungsraum": "06010103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -32354,7 +32354,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010204",
+			"planungsraum": "06010204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -32511,7 +32511,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010205",
+			"planungsraum": "06010205",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -32668,7 +32668,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010206",
+			"planungsraum": "06010206",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -32825,7 +32825,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010207",
+			"planungsraum": "06010207",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -32982,7 +32982,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010208",
+			"planungsraum": "06010208",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -33139,7 +33139,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010209",
+			"planungsraum": "06010209",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -33296,7 +33296,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06010210",
+			"planungsraum": "06010210",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -33453,7 +33453,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020301",
+			"planungsraum": "06020301",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -33610,7 +33610,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020302",
+			"planungsraum": "06020302",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -33767,7 +33767,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020303",
+			"planungsraum": "06020303",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -33924,7 +33924,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020304",
+			"planungsraum": "06020304",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -34081,7 +34081,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020305",
+			"planungsraum": "06020305",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -34238,7 +34238,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020306",
+			"planungsraum": "06020306",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -34395,7 +34395,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020407",
+			"planungsraum": "06020407",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -34552,7 +34552,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020408",
+			"planungsraum": "06020408",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -34709,7 +34709,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020409",
+			"planungsraum": "06020409",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -34866,7 +34866,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020410",
+			"planungsraum": "06020410",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -35023,7 +35023,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06020411",
+			"planungsraum": "06020411",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -35180,7 +35180,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030501",
+			"planungsraum": "06030501",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -35337,7 +35337,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030502",
+			"planungsraum": "06030502",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -35494,7 +35494,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030503",
+			"planungsraum": "06030503",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -35651,7 +35651,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030504",
+			"planungsraum": "06030504",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -35808,7 +35808,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030605",
+			"planungsraum": "06030605",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -35965,7 +35965,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030606",
+			"planungsraum": "06030606",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -36122,7 +36122,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030607",
+			"planungsraum": "06030607",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -36279,7 +36279,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030608",
+			"planungsraum": "06030608",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -36436,7 +36436,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030609",
+			"planungsraum": "06030609",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -36593,7 +36593,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06030610",
+			"planungsraum": "06030610",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -36750,7 +36750,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040701",
+			"planungsraum": "06040701",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -36907,7 +36907,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040702",
+			"planungsraum": "06040702",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -37064,7 +37064,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040703",
+			"planungsraum": "06040703",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -37221,7 +37221,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040804",
+			"planungsraum": "06040804",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -37378,7 +37378,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040805",
+			"planungsraum": "06040805",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -37535,7 +37535,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040806",
+			"planungsraum": "06040806",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -37692,7 +37692,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040807",
+			"planungsraum": "06040807",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -37849,7 +37849,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040808",
+			"planungsraum": "06040808",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -38006,7 +38006,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040809",
+			"planungsraum": "06040809",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -38163,7 +38163,7 @@
 			]
 		},
 		{
-			"prognoseraum": "06040810",
+			"planungsraum": "06040810",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -38320,7 +38320,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07010101",
+			"planungsraum": "07010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -38477,7 +38477,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07010102",
+			"planungsraum": "07010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -38634,7 +38634,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07010103",
+			"planungsraum": "07010103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -38791,7 +38791,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07010104",
+			"planungsraum": "07010104",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -38948,7 +38948,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07020201",
+			"planungsraum": "07020201",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -39105,7 +39105,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07020202",
+			"planungsraum": "07020202",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -39262,7 +39262,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07020203",
+			"planungsraum": "07020203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -39419,7 +39419,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07020204",
+			"planungsraum": "07020204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -39576,7 +39576,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07030301",
+			"planungsraum": "07030301",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -39733,7 +39733,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07030302",
+			"planungsraum": "07030302",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -39890,7 +39890,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07030303",
+			"planungsraum": "07030303",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -40047,7 +40047,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07040401",
+			"planungsraum": "07040401",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -40204,7 +40204,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07040402",
+			"planungsraum": "07040402",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -40361,7 +40361,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07040403",
+			"planungsraum": "07040403",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -40518,7 +40518,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07040404",
+			"planungsraum": "07040404",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -40675,7 +40675,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07040405",
+			"planungsraum": "07040405",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -40832,7 +40832,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07040406",
+			"planungsraum": "07040406",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -40989,7 +40989,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07050501",
+			"planungsraum": "07050501",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -41146,7 +41146,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07050502",
+			"planungsraum": "07050502",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -41303,7 +41303,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07050503",
+			"planungsraum": "07050503",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -41460,7 +41460,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07050504",
+			"planungsraum": "07050504",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -41617,7 +41617,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07050505",
+			"planungsraum": "07050505",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -41774,7 +41774,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07050506",
+			"planungsraum": "07050506",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -41931,7 +41931,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07060601",
+			"planungsraum": "07060601",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -42088,7 +42088,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07060602",
+			"planungsraum": "07060602",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -42245,7 +42245,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07060603",
+			"planungsraum": "07060603",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -42402,7 +42402,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07060604",
+			"planungsraum": "07060604",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -42559,7 +42559,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07070701",
+			"planungsraum": "07070701",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -42716,7 +42716,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07070702",
+			"planungsraum": "07070702",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -42873,7 +42873,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07070703",
+			"planungsraum": "07070703",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -43030,7 +43030,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07070704",
+			"planungsraum": "07070704",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -43187,7 +43187,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07070705",
+			"planungsraum": "07070705",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -43344,7 +43344,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07070706",
+			"planungsraum": "07070706",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -43501,7 +43501,7 @@
 			]
 		},
 		{
-			"prognoseraum": "07070707",
+			"planungsraum": "07070707",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -43658,7 +43658,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010115",
+			"planungsraum": "08010115",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -43815,7 +43815,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010116",
+			"planungsraum": "08010116",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -43972,7 +43972,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010117",
+			"planungsraum": "08010117",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -44129,7 +44129,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010118",
+			"planungsraum": "08010118",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -44286,7 +44286,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010211",
+			"planungsraum": "08010211",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -44443,7 +44443,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010212",
+			"planungsraum": "08010212",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -44600,7 +44600,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010213",
+			"planungsraum": "08010213",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -44757,7 +44757,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010214",
+			"planungsraum": "08010214",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -44914,7 +44914,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010301",
+			"planungsraum": "08010301",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -45071,7 +45071,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010302",
+			"planungsraum": "08010302",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -45228,7 +45228,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010303",
+			"planungsraum": "08010303",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -45385,7 +45385,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010404",
+			"planungsraum": "08010404",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -45542,7 +45542,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010405",
+			"planungsraum": "08010405",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -45699,7 +45699,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010406",
+			"planungsraum": "08010406",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -45856,7 +45856,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010407",
+			"planungsraum": "08010407",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -46013,7 +46013,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010508",
+			"planungsraum": "08010508",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -46170,7 +46170,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010509",
+			"planungsraum": "08010509",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -46327,7 +46327,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08010510",
+			"planungsraum": "08010510",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -46484,7 +46484,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020619",
+			"planungsraum": "08020619",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -46641,7 +46641,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020620",
+			"planungsraum": "08020620",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -46798,7 +46798,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020621",
+			"planungsraum": "08020621",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -46955,7 +46955,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020622",
+			"planungsraum": "08020622",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -47112,7 +47112,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020623",
+			"planungsraum": "08020623",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -47269,7 +47269,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020624",
+			"planungsraum": "08020624",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -47426,7 +47426,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020625",
+			"planungsraum": "08020625",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -47583,7 +47583,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020726",
+			"planungsraum": "08020726",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -47740,7 +47740,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020727",
+			"planungsraum": "08020727",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -47897,7 +47897,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08020728",
+			"planungsraum": "08020728",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -48054,7 +48054,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08030829",
+			"planungsraum": "08030829",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -48211,7 +48211,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08030830",
+			"planungsraum": "08030830",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -48368,7 +48368,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08030831",
+			"planungsraum": "08030831",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -48525,7 +48525,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08040932",
+			"planungsraum": "08040932",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -48682,7 +48682,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08040933",
+			"planungsraum": "08040933",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -48839,7 +48839,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08040934",
+			"planungsraum": "08040934",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -48996,7 +48996,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08041035",
+			"planungsraum": "08041035",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -49153,7 +49153,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08041036",
+			"planungsraum": "08041036",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -49310,7 +49310,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08041037",
+			"planungsraum": "08041037",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -49467,7 +49467,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08041038",
+			"planungsraum": "08041038",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -49624,7 +49624,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08041039",
+			"planungsraum": "08041039",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -49781,7 +49781,7 @@
 			]
 		},
 		{
-			"prognoseraum": "08041040",
+			"planungsraum": "08041040",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -49938,7 +49938,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09010101",
+			"planungsraum": "09010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -50095,7 +50095,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09010102",
+			"planungsraum": "09010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -50252,7 +50252,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09010201",
+			"planungsraum": "09010201",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -50409,7 +50409,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09010202",
+			"planungsraum": "09010202",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -50566,7 +50566,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09010301",
+			"planungsraum": "09010301",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -50723,7 +50723,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09010302",
+			"planungsraum": "09010302",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -50880,7 +50880,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09010401",
+			"planungsraum": "09010401",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -51037,7 +51037,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09010402",
+			"planungsraum": "09010402",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -51194,7 +51194,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09020501",
+			"planungsraum": "09020501",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -51351,7 +51351,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09020502",
+			"planungsraum": "09020502",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -51508,7 +51508,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09020601",
+			"planungsraum": "09020601",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -51665,7 +51665,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09020602",
+			"planungsraum": "09020602",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -51822,7 +51822,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09020701",
+			"planungsraum": "09020701",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -51979,7 +51979,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09020702",
+			"planungsraum": "09020702",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -52136,7 +52136,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09020801",
+			"planungsraum": "09020801",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -52293,7 +52293,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09020802",
+			"planungsraum": "09020802",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -52450,7 +52450,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09030901",
+			"planungsraum": "09030901",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -52607,7 +52607,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09030902",
+			"planungsraum": "09030902",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -52764,7 +52764,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09030903",
+			"planungsraum": "09030903",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -52921,7 +52921,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09031001",
+			"planungsraum": "09031001",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -53078,7 +53078,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09031101",
+			"planungsraum": "09031101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -53235,7 +53235,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09031201",
+			"planungsraum": "09031201",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -53392,7 +53392,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09031202",
+			"planungsraum": "09031202",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -53549,7 +53549,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09041301",
+			"planungsraum": "09041301",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -53706,7 +53706,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09041302",
+			"planungsraum": "09041302",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -53863,7 +53863,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09041401",
+			"planungsraum": "09041401",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -54020,7 +54020,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09041402",
+			"planungsraum": "09041402",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -54177,7 +54177,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09041501",
+			"planungsraum": "09041501",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -54334,7 +54334,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09041601",
+			"planungsraum": "09041601",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -54491,7 +54491,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09051701",
+			"planungsraum": "09051701",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -54648,7 +54648,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09051702",
+			"planungsraum": "09051702",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -54805,7 +54805,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09051801",
+			"planungsraum": "09051801",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -54962,7 +54962,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09051901",
+			"planungsraum": "09051901",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -55119,7 +55119,7 @@
 			]
 		},
 		{
-			"prognoseraum": "09052001",
+			"planungsraum": "09052001",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -55276,7 +55276,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010101",
+			"planungsraum": "10010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -55433,7 +55433,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010102",
+			"planungsraum": "10010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -55590,7 +55590,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010203",
+			"planungsraum": "10010203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -55747,7 +55747,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010204",
+			"planungsraum": "10010204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -55904,7 +55904,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010205",
+			"planungsraum": "10010205",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -56061,7 +56061,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010206",
+			"planungsraum": "10010206",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -56218,7 +56218,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010207",
+			"planungsraum": "10010207",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -56375,7 +56375,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010308",
+			"planungsraum": "10010308",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -56532,7 +56532,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010309",
+			"planungsraum": "10010309",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -56689,7 +56689,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010310",
+			"planungsraum": "10010310",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -56846,7 +56846,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10010311",
+			"planungsraum": "10010311",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -57003,7 +57003,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020412",
+			"planungsraum": "10020412",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -57160,7 +57160,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020413",
+			"planungsraum": "10020413",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -57317,7 +57317,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020414",
+			"planungsraum": "10020414",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -57474,7 +57474,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020415",
+			"planungsraum": "10020415",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -57631,7 +57631,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020416",
+			"planungsraum": "10020416",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -57788,7 +57788,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020517",
+			"planungsraum": "10020517",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -57945,7 +57945,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020518",
+			"planungsraum": "10020518",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -58102,7 +58102,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020519",
+			"planungsraum": "10020519",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -58259,7 +58259,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020620",
+			"planungsraum": "10020620",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -58416,7 +58416,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020621",
+			"planungsraum": "10020621",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -58573,7 +58573,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020622",
+			"planungsraum": "10020622",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -58730,7 +58730,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10020623",
+			"planungsraum": "10020623",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -58887,7 +58887,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10030724",
+			"planungsraum": "10030724",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -59044,7 +59044,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10030725",
+			"planungsraum": "10030725",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -59201,7 +59201,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10030726",
+			"planungsraum": "10030726",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -59358,7 +59358,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10030727",
+			"planungsraum": "10030727",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -59515,7 +59515,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10040828",
+			"planungsraum": "10040828",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -59672,7 +59672,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10040829",
+			"planungsraum": "10040829",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -59829,7 +59829,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10040830",
+			"planungsraum": "10040830",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -59986,7 +59986,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10040931",
+			"planungsraum": "10040931",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -60143,7 +60143,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10040932",
+			"planungsraum": "10040932",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -60300,7 +60300,7 @@
 			]
 		},
 		{
-			"prognoseraum": "10040933",
+			"planungsraum": "10040933",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -60457,7 +60457,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010101",
+			"planungsraum": "11010101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -60614,7 +60614,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010102",
+			"planungsraum": "11010102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -60771,7 +60771,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010103",
+			"planungsraum": "11010103",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -60928,7 +60928,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010204",
+			"planungsraum": "11010204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -61085,7 +61085,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010205",
+			"planungsraum": "11010205",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -61242,7 +61242,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010206",
+			"planungsraum": "11010206",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -61399,7 +61399,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010207",
+			"planungsraum": "11010207",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -61556,7 +61556,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010308",
+			"planungsraum": "11010308",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -61713,7 +61713,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010309",
+			"planungsraum": "11010309",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -61870,7 +61870,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11010310",
+			"planungsraum": "11010310",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -62027,7 +62027,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11020411",
+			"planungsraum": "11020411",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -62184,7 +62184,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11020412",
+			"planungsraum": "11020412",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -62341,7 +62341,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11020513",
+			"planungsraum": "11020513",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -62498,7 +62498,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11020514",
+			"planungsraum": "11020514",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -62655,7 +62655,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11020515",
+			"planungsraum": "11020515",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -62812,7 +62812,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11020516",
+			"planungsraum": "11020516",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -62969,7 +62969,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11030617",
+			"planungsraum": "11030617",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -63126,7 +63126,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11030618",
+			"planungsraum": "11030618",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -63283,7 +63283,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11030619",
+			"planungsraum": "11030619",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -63440,7 +63440,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11030720",
+			"planungsraum": "11030720",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -63597,7 +63597,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11030721",
+			"planungsraum": "11030721",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -63754,7 +63754,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11030824",
+			"planungsraum": "11030824",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -63911,7 +63911,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11040925",
+			"planungsraum": "11040925",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -64068,7 +64068,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11040926",
+			"planungsraum": "11040926",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -64225,7 +64225,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11041022",
+			"planungsraum": "11041022",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -64382,7 +64382,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11041023",
+			"planungsraum": "11041023",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -64539,7 +64539,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11041027",
+			"planungsraum": "11041027",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -64696,7 +64696,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11041128",
+			"planungsraum": "11041128",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -64853,7 +64853,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11051229",
+			"planungsraum": "11051229",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -65010,7 +65010,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11051330",
+			"planungsraum": "11051330",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -65167,7 +65167,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11051331",
+			"planungsraum": "11051331",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -65324,7 +65324,7 @@
 			]
 		},
 		{
-			"prognoseraum": "11051332",
+			"planungsraum": "11051332",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -65481,7 +65481,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12103115",
+			"planungsraum": "12103115",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -65638,7 +65638,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12103116",
+			"planungsraum": "12103116",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -65795,7 +65795,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12103117",
+			"planungsraum": "12103117",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -65952,7 +65952,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12103218",
+			"planungsraum": "12103218",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -66109,7 +66109,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12103219",
+			"planungsraum": "12103219",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -66266,7 +66266,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12103220",
+			"planungsraum": "12103220",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -66423,7 +66423,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12214125",
+			"planungsraum": "12214125",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -66580,7 +66580,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12214126",
+			"planungsraum": "12214126",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -66737,7 +66737,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12214421",
+			"planungsraum": "12214421",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -66894,7 +66894,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12214422",
+			"planungsraum": "12214422",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -67051,7 +67051,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12214423",
+			"planungsraum": "12214423",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -67208,7 +67208,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12214424",
+			"planungsraum": "12214424",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -67365,7 +67365,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12214527",
+			"planungsraum": "12214527",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -67522,7 +67522,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12214528",
+			"planungsraum": "12214528",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -67679,7 +67679,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12224229",
+			"planungsraum": "12224229",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -67836,7 +67836,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12224230",
+			"planungsraum": "12224230",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -67993,7 +67993,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12231101",
+			"planungsraum": "12231101",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -68150,7 +68150,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12231102",
+			"planungsraum": "12231102",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -68307,7 +68307,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12301203",
+			"planungsraum": "12301203",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -68464,7 +68464,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12301204",
+			"planungsraum": "12301204",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -68621,7 +68621,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12301205",
+			"planungsraum": "12301205",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -68778,7 +68778,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12301206",
+			"planungsraum": "12301206",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -68935,7 +68935,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12302107",
+			"planungsraum": "12302107",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -69092,7 +69092,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12302108",
+			"planungsraum": "12302108",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -69249,7 +69249,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12302109",
+			"planungsraum": "12302109",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -69406,7 +69406,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12302110",
+			"planungsraum": "12302110",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -69563,7 +69563,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12302211",
+			"planungsraum": "12302211",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -69720,7 +69720,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12302212",
+			"planungsraum": "12302212",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -69877,7 +69877,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12304313",
+			"planungsraum": "12304313",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
@@ -70034,7 +70034,7 @@
 			]
 		},
 		{
-			"prognoseraum": "12304314",
+			"planungsraum": "12304314",
 			"values": [
 				{
 					"name": "Bevölkerung insgesamt",
