@@ -1,0 +1,3255 @@
+{
+	"name": "Kinder bei der Einschulungsuntersuchung",
+	"date": "31.12.2014",
+	"src": {
+		"name": "Einschulungsuntersuchungen",
+		"url": "http://daten.berlin.de/datensaetze/gesundheitsberichterstattung-berlin-grundauswertungen-einschulungsuntersuchungen",
+		"license": "CC-BY",
+		"publisher": {
+			"name": "Senatsverwaltung für Gesundheit und Soziales Berlin",
+			"url": "http://www.gsi-berlin.info/gsi_suchen.asp?seite=1&cbfest=Kategorie,Bereich,Thema,Unterthema&kategorie=Berichte&bereich=GBE&thema=Grundauswertungen&unterthema=Einschulungsuntersuchungen"
+		}
+	},
+	"values": [
+		{
+			"prognoseraum": "1001",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 26.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 20.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 51.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 20.9,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 11.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 36.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 30.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 85.2,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1002",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 15.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 19.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 58.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 25.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 10.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 29.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 37,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 80.8,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1003",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 8.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 97,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 11.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 17.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 4.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 12,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 2.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 94.7,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1004",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 4.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 3.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 25.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 5.8,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 15.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 16.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 94.1,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1101",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 27.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 19.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 54.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 22.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 8.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 26.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 29.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 88.1,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1102",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 27.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 93.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 10.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 35.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 8.1,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 9.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 20.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 30.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 88,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1103",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 41.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 92.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 11.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 38.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 12.6,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 11,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 22.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 29.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 88.4,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1104",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 32.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 91.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 14.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 38.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 11.3,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 6.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 25.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 24.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 87.2,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1105",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 88.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 3.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 20,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 2.5,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 18,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 6.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 96.3,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1210",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 10.5
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 63.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 91.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 29.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 45.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 17.9,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 16.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 27.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 47.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 80.9,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1221",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 56.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 93.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 24.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 43.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 15.4,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 10.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 15.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 37.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 81,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1222",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 12.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 6.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 20.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 3.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 18.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 7.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 94.8,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1223",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 14.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 89.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 5.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 14.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 3.3,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 4.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 9.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 6.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 95.8,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "1230",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 52.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 92.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 27.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 44.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 15.2,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 9.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 25.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 45.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 77.4,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0101",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 48.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 88.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 9.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 22.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 14.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 17.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 89.6,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0102",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 67.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 91.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 15.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 32.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 11.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 13.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 21.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 34.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 88.5,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0103",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 8
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 86.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 91.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 36,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 47.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 18.2,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 16.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 36.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 59.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 72,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0104",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 9
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 77.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 92.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 26.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 47.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 18.3,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 17.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 28.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 43.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 74.6,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0201",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 7
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 87.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 91.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 19.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 46.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 12.3,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 19.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 22.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 48.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 84.3,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0202",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 38.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 84.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 9.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 24.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 2.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 7.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 15.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 18.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 92.7,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0203",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 56.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 84.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 11.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 42.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 13,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 17.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 31.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 88.8,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0204",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 36.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 91.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 7.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 30.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4.8,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 7.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 11.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 11.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 94.3,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0205",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 26.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 84.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 5.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 31.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 3.4,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 4.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 9.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 6.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 95.5,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0301",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 14.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 94.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 12.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 53.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 19.5,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 7.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 31.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 24.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 84.6,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0302",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 9.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 94.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 5.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 27.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 3.6,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 6.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 21.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 12.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 95.9,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0303",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 14
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 7.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 96,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 28.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 7.3,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 19.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 12.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 97,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0304",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 13,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 89.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 4.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 25.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 3.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 4.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 19.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 10.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 95.1,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0305",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 12.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 88.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 6.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 31.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4.8,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 23.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 12.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 92.9,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0306",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 23.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 86.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 4.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 18.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 2.5,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 3.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 17.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 11.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 94.8,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0307",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 17
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 21.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 86.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 2.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 16.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 1.2,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 1.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 15.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 10.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 96.3,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0401",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 59.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 93.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 13.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 39.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 16.1,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 11.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 19.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 28.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 83.4,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0402",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 37.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 92.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 2.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 20.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4.9,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 7.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 9.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 10.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 94,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0403",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 49.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 92.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 24.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 5.1,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 7.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 16.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 24.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 89.1,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0404",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 44.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 92.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 7.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 17.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 3.1,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 21.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 19,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 92.4,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0405",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 43.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 90.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 8.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 23.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 3.6,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 6.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 22.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 29,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 86.6,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0406",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": "/"
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": "/",
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": "/",
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": "/",
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": "/",
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": "/",
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": "/",
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": "/",
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": "/",
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": "/",
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0501",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 44.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 17.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 45.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 17.5,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 13.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 21.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 30.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 80,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0502",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 42.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 94.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 19.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 40,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 15.3,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 10.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 24.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 28.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 81.1,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0503",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 48.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 14.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 42,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 12.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 21.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 27.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 84.6,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0504",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 25.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 78.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 7.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 17.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 2.2,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 3.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 16.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 12.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 92.2,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0601",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 34.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 93.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 12.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 27.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4.8,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 15.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 17.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 90.3,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0602",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 14
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 23.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 10.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 30.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 6.1,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 5.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 24.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 17.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 90,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0603",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 18.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 91.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 5.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 17.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 2.6,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 6.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 11.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 10.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 91.9,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0604",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 11.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 86.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 1.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 9.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 1.5,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 3.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 6.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 5.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 91.5,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0701",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 55,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 93.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 13.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 35.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 5.8,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 12,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 17.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 41.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 90.5,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0702",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 52.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 90.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 10.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 28.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4.1,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 9.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 16.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 24.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 88.8,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0703",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 16
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 32.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 92.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 4.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 24,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 3.3,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 6.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 12.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 13,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 92.9,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0704",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 52.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 94.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 18.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 35.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 11.1,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 8.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 25,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 30.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 87.6,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0705",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 47.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 93.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 17.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 41.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 12.6,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 10.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 31,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 27.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 85.9,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0706",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 12
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 52,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 94.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 16.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 38.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 13.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 9.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 22.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 22,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 82.5,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0707",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 31.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 93.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 13.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 37.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 12.1,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 9.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 18.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 21.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 88.5,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0801",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 9
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 80.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 88.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 23,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 42.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 12,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 17,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 27.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 51.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 75.1,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0802",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 52.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 94.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 14.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 33.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 13,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 8.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 22.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 30.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 86.1,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0803",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 10
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 74.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 94.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 23,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 48.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 18,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 15.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 31.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 51.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 81.8,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0804",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 13
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 42,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 95.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 12.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 27.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 12.5,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 10.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 22.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 24.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 85,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0901",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 14
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 89.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 32,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4.8,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 7.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 11.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 5.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 94.1,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0902",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 14
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 11.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 90,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 5.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 43.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 9.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 7.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 12.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 9.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 89.5,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0903",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 14
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 7.5,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 93.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 7.3,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 38.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 4.8,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 8.6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 12.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 9.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 94.9,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0904",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 14
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 10,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 90,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 8.2,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 37.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 8.7,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 6,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 14.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 7.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 92.4,
+					"unit": "%"
+				}
+			]
+		},
+		{
+			"prognoseraum": "0905",
+			"values": [
+				{
+					"name": "Mittlerer Sozialstatusindex",
+					"value": 15
+				},
+				{
+					"name": "Kinder nichtdeutscher Herkunft",
+					"value": 9.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit 2 oder mehr Impfdosen gegen Masern",
+					"value": 85.1,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit unversorgten Zähnen",
+					"value": 2.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder, bei denen mindestens eine Person im Haushalt raucht,",
+					"value": 23.9,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit eigenem Fernseher",
+					"value": 5.6,
+					"unit": "%"
+				},
+				{
+					"name": "übergewichtigen Kinder (Referenzsystem nach Kromeyer-Hauschild)",
+					"value": 3.7,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit auffälligen Testergebnissen in der Visuomotorik",
+					"value": 10.8,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit Sprachdefiziten (kombinierter Indikator)",
+					"value": 5.4,
+					"unit": "%"
+				},
+				{
+					"name": "Kinder mit einer Kita-Besuchsdauer von über 2 Jahren",
+					"value": 96.1,
+					"unit": "%"
+				}
+			]
+		}
+	]
+}
