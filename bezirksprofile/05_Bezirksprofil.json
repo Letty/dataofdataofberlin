@@ -521,7 +521,7 @@
 		  "Datum": "2013/14",
 		  "Maßeinheit": "Anteil in %"
 		},
-		  "adipös (>97. Perzentil)": {
+		  "12-Jährige": {
 		  "Wert": 21.8,
 		  "Datum": "2013/14",
 		  "Maßeinheit": "Anteil in %"
@@ -538,7 +538,7 @@
 		  "Datum": "2013",
 		  "Maßeinheit": "Anteil in %"
 		},
-		"12-Jährige": {
+		"adipös (>97. Perzentil)": {
 		  "Wert": 3.8,
 		  "Datum": "2013",
 		  "Maßeinheit": "Anteil in %"
