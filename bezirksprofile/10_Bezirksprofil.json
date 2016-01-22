@@ -43,7 +43,7 @@
                            "unit": "Anteil in %"
                         },
                         {
-                           "name": "mit ausländische Staatsangehörigkeit",
+                           "name": "mit ausländischer Staatsangehörigkeit",
                            "value": 5.9,
                            "date": "31.12.2014",
                            "unit": "Anteil in %"
@@ -719,7 +719,7 @@
                      ]
                   },
                   {
-                     "name": "Übergewicht (im Rahmen der Einschulungsunter- suchung untersuchte Kinder; mittleres Alter: 5,8 Jahre)",
+                     "name": "Übergewicht (im Rahmen der Einschulungsuntersuchung untersuchte Kinder; mittleres Alter: 5,8 Jahre)",
                      "values": [
                         {
                            "name": "untersuchte Kinder",
