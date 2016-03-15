@@ -23,13 +23,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1606",
-							"unit": "%"
+							"value": "1606"
 						},
 						{
 							"name": "weiblich",
-							"value": "1508",
-							"unit": "%"
+							"value": "1508"
 						}
 					]
 				},
@@ -180,13 +178,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "110",
-							"unit": "%"
+							"value": "110"
 						},
 						{
 							"name": "weiblich",
-							"value": "84",
-							"unit": "%"
+							"value": "84"
 						}
 					]
 				},
@@ -337,13 +333,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2788",
-							"unit": "%"
+							"value": "2788"
 						},
 						{
 							"name": "weiblich",
-							"value": "2342",
-							"unit": "%"
+							"value": "2342"
 						}
 					]
 				},
@@ -494,13 +488,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2372",
-							"unit": "%"
+							"value": "2372"
 						},
 						{
 							"name": "weiblich",
-							"value": "2031",
-							"unit": "%"
+							"value": "2031"
 						}
 					]
 				},
@@ -651,13 +643,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "602",
-							"unit": "%"
+							"value": "602"
 						},
 						{
 							"name": "weiblich",
-							"value": "495",
-							"unit": "%"
+							"value": "495"
 						}
 					]
 				},
@@ -808,13 +798,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1067",
-							"unit": "%"
+							"value": "1067"
 						},
 						{
 							"name": "weiblich",
-							"value": "988",
-							"unit": "%"
+							"value": "988"
 						}
 					]
 				},
@@ -965,13 +953,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "260",
-							"unit": "%"
+							"value": "260"
 						},
 						{
 							"name": "weiblich",
-							"value": "238",
-							"unit": "%"
+							"value": "238"
 						}
 					]
 				},
@@ -1122,13 +1108,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "473",
-							"unit": "%"
+							"value": "473"
 						},
 						{
 							"name": "weiblich",
-							"value": "459",
-							"unit": "%"
+							"value": "459"
 						}
 					]
 				},
@@ -1279,13 +1263,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3199",
-							"unit": "%"
+							"value": "3199"
 						},
 						{
 							"name": "weiblich",
-							"value": "3225",
-							"unit": "%"
+							"value": "3225"
 						}
 					]
 				},
@@ -1436,13 +1418,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2864",
-							"unit": "%"
+							"value": "2864"
 						},
 						{
 							"name": "weiblich",
-							"value": "2733",
-							"unit": "%"
+							"value": "2733"
 						}
 					]
 				},
@@ -1593,13 +1573,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6193",
-							"unit": "%"
+							"value": "6193"
 						},
 						{
 							"name": "weiblich",
-							"value": "5944",
-							"unit": "%"
+							"value": "5944"
 						}
 					]
 				},
@@ -1750,13 +1728,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4531",
-							"unit": "%"
+							"value": "4531"
 						},
 						{
 							"name": "weiblich",
-							"value": "4077",
-							"unit": "%"
+							"value": "4077"
 						}
 					]
 				},
@@ -1907,13 +1883,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3914",
-							"unit": "%"
+							"value": "3914"
 						},
 						{
 							"name": "weiblich",
-							"value": "4510",
-							"unit": "%"
+							"value": "4510"
 						}
 					]
 				},
@@ -2064,13 +2038,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3582",
-							"unit": "%"
+							"value": "3582"
 						},
 						{
 							"name": "weiblich",
-							"value": "3493",
-							"unit": "%"
+							"value": "3493"
 						}
 					]
 				},
@@ -2221,13 +2193,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4352",
-							"unit": "%"
+							"value": "4352"
 						},
 						{
 							"name": "weiblich",
-							"value": "4264",
-							"unit": "%"
+							"value": "4264"
 						}
 					]
 				},
@@ -2378,13 +2348,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7747",
-							"unit": "%"
+							"value": "7747"
 						},
 						{
 							"name": "weiblich",
-							"value": "7488",
-							"unit": "%"
+							"value": "7488"
 						}
 					]
 				},
@@ -2535,13 +2503,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6337",
-							"unit": "%"
+							"value": "6337"
 						},
 						{
 							"name": "weiblich",
-							"value": "6329",
-							"unit": "%"
+							"value": "6329"
 						}
 					]
 				},
@@ -2692,13 +2658,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1908",
-							"unit": "%"
+							"value": "1908"
 						},
 						{
 							"name": "weiblich",
-							"value": "1482",
-							"unit": "%"
+							"value": "1482"
 						}
 					]
 				},
@@ -2849,13 +2813,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3437",
-							"unit": "%"
+							"value": "3437"
 						},
 						{
 							"name": "weiblich",
-							"value": "2818",
-							"unit": "%"
+							"value": "2818"
 						}
 					]
 				},
@@ -3006,13 +2968,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "151",
-							"unit": "%"
+							"value": "151"
 						},
 						{
 							"name": "weiblich",
-							"value": "102",
-							"unit": "%"
+							"value": "102"
 						}
 					]
 				},
@@ -3163,13 +3123,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "9297",
-							"unit": "%"
+							"value": "9297"
 						},
 						{
 							"name": "weiblich",
-							"value": "8509",
-							"unit": "%"
+							"value": "8509"
 						}
 					]
 				},
@@ -3320,13 +3278,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2676",
-							"unit": "%"
+							"value": "2676"
 						},
 						{
 							"name": "weiblich",
-							"value": "2429",
-							"unit": "%"
+							"value": "2429"
 						}
 					]
 				},
@@ -3477,13 +3433,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5801",
-							"unit": "%"
+							"value": "5801"
 						},
 						{
 							"name": "weiblich",
-							"value": "5930",
-							"unit": "%"
+							"value": "5930"
 						}
 					]
 				},
@@ -3634,13 +3588,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5521",
-							"unit": "%"
+							"value": "5521"
 						},
 						{
 							"name": "weiblich",
-							"value": "4948",
-							"unit": "%"
+							"value": "4948"
 						}
 					]
 				},
@@ -3791,13 +3743,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "721",
-							"unit": "%"
+							"value": "721"
 						},
 						{
 							"name": "weiblich",
-							"value": "727",
-							"unit": "%"
+							"value": "727"
 						}
 					]
 				},
@@ -3948,13 +3898,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3439",
-							"unit": "%"
+							"value": "3439"
 						},
 						{
 							"name": "weiblich",
-							"value": "3334",
-							"unit": "%"
+							"value": "3334"
 						}
 					]
 				},
@@ -4105,13 +4053,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2917",
-							"unit": "%"
+							"value": "2917"
 						},
 						{
 							"name": "weiblich",
-							"value": "2909",
-							"unit": "%"
+							"value": "2909"
 						}
 					]
 				},
@@ -4262,13 +4208,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1628",
-							"unit": "%"
+							"value": "1628"
 						},
 						{
 							"name": "weiblich",
-							"value": "1579",
-							"unit": "%"
+							"value": "1579"
 						}
 					]
 				},
@@ -4419,13 +4363,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1620",
-							"unit": "%"
+							"value": "1620"
 						},
 						{
 							"name": "weiblich",
-							"value": "1440",
-							"unit": "%"
+							"value": "1440"
 						}
 					]
 				},
@@ -4576,13 +4518,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2800",
-							"unit": "%"
+							"value": "2800"
 						},
 						{
 							"name": "weiblich",
-							"value": "2677",
-							"unit": "%"
+							"value": "2677"
 						}
 					]
 				},
@@ -4733,13 +4673,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "13613",
-							"unit": "%"
+							"value": "13613"
 						},
 						{
 							"name": "weiblich",
-							"value": "12334",
-							"unit": "%"
+							"value": "12334"
 						}
 					]
 				},
@@ -4890,13 +4828,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6013",
-							"unit": "%"
+							"value": "6013"
 						},
 						{
 							"name": "weiblich",
-							"value": "5573",
-							"unit": "%"
+							"value": "5573"
 						}
 					]
 				},
@@ -5047,13 +4983,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6481",
-							"unit": "%"
+							"value": "6481"
 						},
 						{
 							"name": "weiblich",
-							"value": "6404",
-							"unit": "%"
+							"value": "6404"
 						}
 					]
 				},
@@ -5204,13 +5138,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4785",
-							"unit": "%"
+							"value": "4785"
 						},
 						{
 							"name": "weiblich",
-							"value": "4912",
-							"unit": "%"
+							"value": "4912"
 						}
 					]
 				},
@@ -5361,13 +5293,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7374",
-							"unit": "%"
+							"value": "7374"
 						},
 						{
 							"name": "weiblich",
-							"value": "6517",
-							"unit": "%"
+							"value": "6517"
 						}
 					]
 				},
@@ -5518,13 +5448,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "10291",
-							"unit": "%"
+							"value": "10291"
 						},
 						{
 							"name": "weiblich",
-							"value": "9612",
-							"unit": "%"
+							"value": "9612"
 						}
 					]
 				},
@@ -5675,13 +5603,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7597",
-							"unit": "%"
+							"value": "7597"
 						},
 						{
 							"name": "weiblich",
-							"value": "8195",
-							"unit": "%"
+							"value": "8195"
 						}
 					]
 				},
@@ -5832,13 +5758,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4325",
-							"unit": "%"
+							"value": "4325"
 						},
 						{
 							"name": "weiblich",
-							"value": "3751",
-							"unit": "%"
+							"value": "3751"
 						}
 					]
 				},
@@ -5989,13 +5913,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "12184",
-							"unit": "%"
+							"value": "12184"
 						},
 						{
 							"name": "weiblich",
-							"value": "10919",
-							"unit": "%"
+							"value": "10919"
 						}
 					]
 				},
@@ -6146,13 +6068,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "9071",
-							"unit": "%"
+							"value": "9071"
 						},
 						{
 							"name": "weiblich",
-							"value": "7565",
-							"unit": "%"
+							"value": "7565"
 						}
 					]
 				},
@@ -6303,13 +6223,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8485",
-							"unit": "%"
+							"value": "8485"
 						},
 						{
 							"name": "weiblich",
-							"value": "7500",
-							"unit": "%"
+							"value": "7500"
 						}
 					]
 				},
@@ -6460,13 +6378,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3330",
-							"unit": "%"
+							"value": "3330"
 						},
 						{
 							"name": "weiblich",
-							"value": "2776",
-							"unit": "%"
+							"value": "2776"
 						}
 					]
 				},
@@ -6617,13 +6533,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6502",
-							"unit": "%"
+							"value": "6502"
 						},
 						{
 							"name": "weiblich",
-							"value": "6545",
-							"unit": "%"
+							"value": "6545"
 						}
 					]
 				},
@@ -6774,13 +6688,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7863",
-							"unit": "%"
+							"value": "7863"
 						},
 						{
 							"name": "weiblich",
-							"value": "7726",
-							"unit": "%"
+							"value": "7726"
 						}
 					]
 				},
@@ -6931,13 +6843,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2565",
-							"unit": "%"
+							"value": "2565"
 						},
 						{
 							"name": "weiblich",
-							"value": "2580",
-							"unit": "%"
+							"value": "2580"
 						}
 					]
 				},
@@ -7088,13 +6998,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "159",
-							"unit": "%"
+							"value": "159"
 						},
 						{
 							"name": "weiblich",
-							"value": "125",
-							"unit": "%"
+							"value": "125"
 						}
 					]
 				},
@@ -7245,13 +7153,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2929",
-							"unit": "%"
+							"value": "2929"
 						},
 						{
 							"name": "weiblich",
-							"value": "2797",
-							"unit": "%"
+							"value": "2797"
 						}
 					]
 				},
@@ -7402,13 +7308,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5434",
-							"unit": "%"
+							"value": "5434"
 						},
 						{
 							"name": "weiblich",
-							"value": "5234",
-							"unit": "%"
+							"value": "5234"
 						}
 					]
 				},
@@ -7559,13 +7463,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6264",
-							"unit": "%"
+							"value": "6264"
 						},
 						{
 							"name": "weiblich",
-							"value": "5931",
-							"unit": "%"
+							"value": "5931"
 						}
 					]
 				},
@@ -7716,13 +7618,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7499",
-							"unit": "%"
+							"value": "7499"
 						},
 						{
 							"name": "weiblich",
-							"value": "7338",
-							"unit": "%"
+							"value": "7338"
 						}
 					]
 				},
@@ -7873,13 +7773,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "9559",
-							"unit": "%"
+							"value": "9559"
 						},
 						{
 							"name": "weiblich",
-							"value": "9369",
-							"unit": "%"
+							"value": "9369"
 						}
 					]
 				},
@@ -8030,13 +7928,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4760",
-							"unit": "%"
+							"value": "4760"
 						},
 						{
 							"name": "weiblich",
-							"value": "4456",
-							"unit": "%"
+							"value": "4456"
 						}
 					]
 				},
@@ -8187,13 +8083,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6950",
-							"unit": "%"
+							"value": "6950"
 						},
 						{
 							"name": "weiblich",
-							"value": "6332",
-							"unit": "%"
+							"value": "6332"
 						}
 					]
 				},
@@ -8344,13 +8238,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7897",
-							"unit": "%"
+							"value": "7897"
 						},
 						{
 							"name": "weiblich",
-							"value": "7325",
-							"unit": "%"
+							"value": "7325"
 						}
 					]
 				},
@@ -8501,13 +8393,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5805",
-							"unit": "%"
+							"value": "5805"
 						},
 						{
 							"name": "weiblich",
-							"value": "5468",
-							"unit": "%"
+							"value": "5468"
 						}
 					]
 				},
@@ -8658,13 +8548,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2555",
-							"unit": "%"
+							"value": "2555"
 						},
 						{
 							"name": "weiblich",
-							"value": "2855",
-							"unit": "%"
+							"value": "2855"
 						}
 					]
 				},
@@ -8815,13 +8703,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3445",
-							"unit": "%"
+							"value": "3445"
 						},
 						{
 							"name": "weiblich",
-							"value": "3673",
-							"unit": "%"
+							"value": "3673"
 						}
 					]
 				},
@@ -8972,13 +8858,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5353",
-							"unit": "%"
+							"value": "5353"
 						},
 						{
 							"name": "weiblich",
-							"value": "5327",
-							"unit": "%"
+							"value": "5327"
 						}
 					]
 				},
@@ -9129,13 +9013,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5945",
-							"unit": "%"
+							"value": "5945"
 						},
 						{
 							"name": "weiblich",
-							"value": "6321",
-							"unit": "%"
+							"value": "6321"
 						}
 					]
 				},
@@ -9286,13 +9168,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5478",
-							"unit": "%"
+							"value": "5478"
 						},
 						{
 							"name": "weiblich",
-							"value": "5199",
-							"unit": "%"
+							"value": "5199"
 						}
 					]
 				},
@@ -9443,13 +9323,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "465",
-							"unit": "%"
+							"value": "465"
 						},
 						{
 							"name": "weiblich",
-							"value": "390",
-							"unit": "%"
+							"value": "390"
 						}
 					]
 				},
@@ -9600,13 +9478,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4642",
-							"unit": "%"
+							"value": "4642"
 						},
 						{
 							"name": "weiblich",
-							"value": "4110",
-							"unit": "%"
+							"value": "4110"
 						}
 					]
 				},
@@ -9757,13 +9633,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "10100",
-							"unit": "%"
+							"value": "10100"
 						},
 						{
 							"name": "weiblich",
-							"value": "9531",
-							"unit": "%"
+							"value": "9531"
 						}
 					]
 				},
@@ -9914,13 +9788,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "9739",
-							"unit": "%"
+							"value": "9739"
 						},
 						{
 							"name": "weiblich",
-							"value": "9072",
-							"unit": "%"
+							"value": "9072"
 						}
 					]
 				},
@@ -10071,13 +9943,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "10356",
-							"unit": "%"
+							"value": "10356"
 						},
 						{
 							"name": "weiblich",
-							"value": "9485",
-							"unit": "%"
+							"value": "9485"
 						}
 					]
 				},
@@ -10228,13 +10098,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3432",
-							"unit": "%"
+							"value": "3432"
 						},
 						{
 							"name": "weiblich",
-							"value": "3200",
-							"unit": "%"
+							"value": "3200"
 						}
 					]
 				},
@@ -10385,13 +10253,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1824",
-							"unit": "%"
+							"value": "1824"
 						},
 						{
 							"name": "weiblich",
-							"value": "1676",
-							"unit": "%"
+							"value": "1676"
 						}
 					]
 				},
@@ -10542,13 +10408,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1679",
-							"unit": "%"
+							"value": "1679"
 						},
 						{
 							"name": "weiblich",
-							"value": "1618",
-							"unit": "%"
+							"value": "1618"
 						}
 					]
 				},
@@ -10699,13 +10563,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5262",
-							"unit": "%"
+							"value": "5262"
 						},
 						{
 							"name": "weiblich",
-							"value": "5945",
-							"unit": "%"
+							"value": "5945"
 						}
 					]
 				},
@@ -10856,13 +10718,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "132",
-							"unit": "%"
+							"value": "132"
 						},
 						{
 							"name": "weiblich",
-							"value": "81",
-							"unit": "%"
+							"value": "81"
 						}
 					]
 				},
@@ -11013,13 +10873,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1046",
-							"unit": "%"
+							"value": "1046"
 						},
 						{
 							"name": "weiblich",
-							"value": "1023",
-							"unit": "%"
+							"value": "1023"
 						}
 					]
 				},
@@ -11170,13 +11028,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6783",
-							"unit": "%"
+							"value": "6783"
 						},
 						{
 							"name": "weiblich",
-							"value": "7248",
-							"unit": "%"
+							"value": "7248"
 						}
 					]
 				},
@@ -11327,13 +11183,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5104",
-							"unit": "%"
+							"value": "5104"
 						},
 						{
 							"name": "weiblich",
-							"value": "5325",
-							"unit": "%"
+							"value": "5325"
 						}
 					]
 				},
@@ -11484,13 +11338,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8450",
-							"unit": "%"
+							"value": "8450"
 						},
 						{
 							"name": "weiblich",
-							"value": "8768",
-							"unit": "%"
+							"value": "8768"
 						}
 					]
 				},
@@ -11641,13 +11493,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4995",
-							"unit": "%"
+							"value": "4995"
 						},
 						{
 							"name": "weiblich",
-							"value": "5581",
-							"unit": "%"
+							"value": "5581"
 						}
 					]
 				},
@@ -11798,13 +11648,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4045",
-							"unit": "%"
+							"value": "4045"
 						},
 						{
 							"name": "weiblich",
-							"value": "4112",
-							"unit": "%"
+							"value": "4112"
 						}
 					]
 				},
@@ -11955,13 +11803,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3353",
-							"unit": "%"
+							"value": "3353"
 						},
 						{
 							"name": "weiblich",
-							"value": "3392",
-							"unit": "%"
+							"value": "3392"
 						}
 					]
 				},
@@ -12112,13 +11958,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3303",
-							"unit": "%"
+							"value": "3303"
 						},
 						{
 							"name": "weiblich",
-							"value": "3280",
-							"unit": "%"
+							"value": "3280"
 						}
 					]
 				},
@@ -12269,13 +12113,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "554",
-							"unit": "%"
+							"value": "554"
 						},
 						{
 							"name": "weiblich",
-							"value": "574",
-							"unit": "%"
+							"value": "574"
 						}
 					]
 				},
@@ -12426,13 +12268,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2294",
-							"unit": "%"
+							"value": "2294"
 						},
 						{
 							"name": "weiblich",
-							"value": "2293",
-							"unit": "%"
+							"value": "2293"
 						}
 					]
 				},
@@ -12583,13 +12423,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4577",
-							"unit": "%"
+							"value": "4577"
 						},
 						{
 							"name": "weiblich",
-							"value": "4943",
-							"unit": "%"
+							"value": "4943"
 						}
 					]
 				},
@@ -12740,13 +12578,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1617",
-							"unit": "%"
+							"value": "1617"
 						},
 						{
 							"name": "weiblich",
-							"value": "1740",
-							"unit": "%"
+							"value": "1740"
 						}
 					]
 				},
@@ -12897,13 +12733,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "16031",
-							"unit": "%"
+							"value": "16031"
 						},
 						{
 							"name": "weiblich",
-							"value": "18202",
-							"unit": "%"
+							"value": "18202"
 						}
 					]
 				},
@@ -13054,13 +12888,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "16005",
-							"unit": "%"
+							"value": "16005"
 						},
 						{
 							"name": "weiblich",
-							"value": "17709",
-							"unit": "%"
+							"value": "17709"
 						}
 					]
 				},
@@ -13211,13 +13043,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2617",
-							"unit": "%"
+							"value": "2617"
 						},
 						{
 							"name": "weiblich",
-							"value": "2703",
-							"unit": "%"
+							"value": "2703"
 						}
 					]
 				},
@@ -13368,13 +13198,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3347",
-							"unit": "%"
+							"value": "3347"
 						},
 						{
 							"name": "weiblich",
-							"value": "3677",
-							"unit": "%"
+							"value": "3677"
 						}
 					]
 				},
@@ -13525,13 +13353,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4536",
-							"unit": "%"
+							"value": "4536"
 						},
 						{
 							"name": "weiblich",
-							"value": "4236",
-							"unit": "%"
+							"value": "4236"
 						}
 					]
 				},
@@ -13682,13 +13508,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2932",
-							"unit": "%"
+							"value": "2932"
 						},
 						{
 							"name": "weiblich",
-							"value": "2715",
-							"unit": "%"
+							"value": "2715"
 						}
 					]
 				},
@@ -13839,13 +13663,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4213",
-							"unit": "%"
+							"value": "4213"
 						},
 						{
 							"name": "weiblich",
-							"value": "4466",
-							"unit": "%"
+							"value": "4466"
 						}
 					]
 				},
@@ -13996,13 +13818,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2061",
-							"unit": "%"
+							"value": "2061"
 						},
 						{
 							"name": "weiblich",
-							"value": "2062",
-							"unit": "%"
+							"value": "2062"
 						}
 					]
 				},
@@ -14153,13 +13973,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3011",
-							"unit": "%"
+							"value": "3011"
 						},
 						{
 							"name": "weiblich",
-							"value": "3473",
-							"unit": "%"
+							"value": "3473"
 						}
 					]
 				},
@@ -14310,13 +14128,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2035",
-							"unit": "%"
+							"value": "2035"
 						},
 						{
 							"name": "weiblich",
-							"value": "2483",
-							"unit": "%"
+							"value": "2483"
 						}
 					]
 				},
@@ -14467,13 +14283,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7663",
-							"unit": "%"
+							"value": "7663"
 						},
 						{
 							"name": "weiblich",
-							"value": "7334",
-							"unit": "%"
+							"value": "7334"
 						}
 					]
 				},
@@ -14624,13 +14438,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5201",
-							"unit": "%"
+							"value": "5201"
 						},
 						{
 							"name": "weiblich",
-							"value": "4984",
-							"unit": "%"
+							"value": "4984"
 						}
 					]
 				},
@@ -14781,13 +14593,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7003",
-							"unit": "%"
+							"value": "7003"
 						},
 						{
 							"name": "weiblich",
-							"value": "7410",
-							"unit": "%"
+							"value": "7410"
 						}
 					]
 				},
@@ -14938,13 +14748,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6059",
-							"unit": "%"
+							"value": "6059"
 						},
 						{
 							"name": "weiblich",
-							"value": "6327",
-							"unit": "%"
+							"value": "6327"
 						}
 					]
 				},
@@ -15095,13 +14903,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "11286",
-							"unit": "%"
+							"value": "11286"
 						},
 						{
 							"name": "weiblich",
-							"value": "10959",
-							"unit": "%"
+							"value": "10959"
 						}
 					]
 				},
@@ -15252,13 +15058,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4683",
-							"unit": "%"
+							"value": "4683"
 						},
 						{
 							"name": "weiblich",
-							"value": "5480",
-							"unit": "%"
+							"value": "5480"
 						}
 					]
 				},
@@ -15409,13 +15213,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1431",
-							"unit": "%"
+							"value": "1431"
 						},
 						{
 							"name": "weiblich",
-							"value": "1540",
-							"unit": "%"
+							"value": "1540"
 						}
 					]
 				},
@@ -15566,13 +15368,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3008",
-							"unit": "%"
+							"value": "3008"
 						},
 						{
 							"name": "weiblich",
-							"value": "3070",
-							"unit": "%"
+							"value": "3070"
 						}
 					]
 				},
@@ -15723,13 +15523,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1969",
-							"unit": "%"
+							"value": "1969"
 						},
 						{
 							"name": "weiblich",
-							"value": "1956",
-							"unit": "%"
+							"value": "1956"
 						}
 					]
 				},
@@ -15880,13 +15678,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1152",
-							"unit": "%"
+							"value": "1152"
 						},
 						{
 							"name": "weiblich",
-							"value": "1190",
-							"unit": "%"
+							"value": "1190"
 						}
 					]
 				},
@@ -16037,13 +15833,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5489",
-							"unit": "%"
+							"value": "5489"
 						},
 						{
 							"name": "weiblich",
-							"value": "5172",
-							"unit": "%"
+							"value": "5172"
 						}
 					]
 				},
@@ -16194,13 +15988,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7392",
-							"unit": "%"
+							"value": "7392"
 						},
 						{
 							"name": "weiblich",
-							"value": "7119",
-							"unit": "%"
+							"value": "7119"
 						}
 					]
 				},
@@ -16351,13 +16143,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1370",
-							"unit": "%"
+							"value": "1370"
 						},
 						{
 							"name": "weiblich",
-							"value": "1366",
-							"unit": "%"
+							"value": "1366"
 						}
 					]
 				},
@@ -16508,13 +16298,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8460",
-							"unit": "%"
+							"value": "8460"
 						},
 						{
 							"name": "weiblich",
-							"value": "8340",
-							"unit": "%"
+							"value": "8340"
 						}
 					]
 				},
@@ -16665,13 +16453,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6093",
-							"unit": "%"
+							"value": "6093"
 						},
 						{
 							"name": "weiblich",
-							"value": "6230",
-							"unit": "%"
+							"value": "6230"
 						}
 					]
 				},
@@ -16822,13 +16608,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4917",
-							"unit": "%"
+							"value": "4917"
 						},
 						{
 							"name": "weiblich",
-							"value": "5422",
-							"unit": "%"
+							"value": "5422"
 						}
 					]
 				},
@@ -16979,13 +16763,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "472",
-							"unit": "%"
+							"value": "472"
 						},
 						{
 							"name": "weiblich",
-							"value": "300",
-							"unit": "%"
+							"value": "300"
 						}
 					]
 				},
@@ -17136,13 +16918,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3576",
-							"unit": "%"
+							"value": "3576"
 						},
 						{
 							"name": "weiblich",
-							"value": "4055",
-							"unit": "%"
+							"value": "4055"
 						}
 					]
 				},
@@ -17293,13 +17073,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "69",
-							"unit": "%"
+							"value": "69"
 						},
 						{
 							"name": "weiblich",
-							"value": "46",
-							"unit": "%"
+							"value": "46"
 						}
 					]
 				},
@@ -17450,13 +17228,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "624",
-							"unit": "%"
+							"value": "624"
 						},
 						{
 							"name": "weiblich",
-							"value": "640",
-							"unit": "%"
+							"value": "640"
 						}
 					]
 				},
@@ -17607,13 +17383,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1129",
-							"unit": "%"
+							"value": "1129"
 						},
 						{
 							"name": "weiblich",
-							"value": "1441",
-							"unit": "%"
+							"value": "1441"
 						}
 					]
 				},
@@ -17764,13 +17538,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1258",
-							"unit": "%"
+							"value": "1258"
 						},
 						{
 							"name": "weiblich",
-							"value": "1366",
-							"unit": "%"
+							"value": "1366"
 						}
 					]
 				},
@@ -17921,13 +17693,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1423",
-							"unit": "%"
+							"value": "1423"
 						},
 						{
 							"name": "weiblich",
-							"value": "1423",
-							"unit": "%"
+							"value": "1423"
 						}
 					]
 				},
@@ -18078,13 +17848,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1552",
-							"unit": "%"
+							"value": "1552"
 						},
 						{
 							"name": "weiblich",
-							"value": "1576",
-							"unit": "%"
+							"value": "1576"
 						}
 					]
 				},
@@ -18235,13 +18003,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "330",
-							"unit": "%"
+							"value": "330"
 						},
 						{
 							"name": "weiblich",
-							"value": "270",
-							"unit": "%"
+							"value": "270"
 						}
 					]
 				},
@@ -18392,13 +18158,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6663",
-							"unit": "%"
+							"value": "6663"
 						},
 						{
 							"name": "weiblich",
-							"value": "7490",
-							"unit": "%"
+							"value": "7490"
 						}
 					]
 				},
@@ -18549,13 +18313,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2335",
-							"unit": "%"
+							"value": "2335"
 						},
 						{
 							"name": "weiblich",
-							"value": "2701",
-							"unit": "%"
+							"value": "2701"
 						}
 					]
 				},
@@ -18706,13 +18468,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3639",
-							"unit": "%"
+							"value": "3639"
 						},
 						{
 							"name": "weiblich",
-							"value": "3707",
-							"unit": "%"
+							"value": "3707"
 						}
 					]
 				},
@@ -18863,13 +18623,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "9",
-							"unit": "%"
+							"value": "9"
 						},
 						{
 							"name": "weiblich",
-							"value": "0",
-							"unit": "%"
+							"value": "0"
 						}
 					]
 				},
@@ -19020,13 +18778,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1336",
-							"unit": "%"
+							"value": "1336"
 						},
 						{
 							"name": "weiblich",
-							"value": "1414",
-							"unit": "%"
+							"value": "1414"
 						}
 					]
 				},
@@ -19177,13 +18933,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4982",
-							"unit": "%"
+							"value": "4982"
 						},
 						{
 							"name": "weiblich",
-							"value": "5294",
-							"unit": "%"
+							"value": "5294"
 						}
 					]
 				},
@@ -19334,13 +19088,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5195",
-							"unit": "%"
+							"value": "5195"
 						},
 						{
 							"name": "weiblich",
-							"value": "5563",
-							"unit": "%"
+							"value": "5563"
 						}
 					]
 				},
@@ -19491,13 +19243,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4572",
-							"unit": "%"
+							"value": "4572"
 						},
 						{
 							"name": "weiblich",
-							"value": "4741",
-							"unit": "%"
+							"value": "4741"
 						}
 					]
 				},
@@ -19648,13 +19398,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2820",
-							"unit": "%"
+							"value": "2820"
 						},
 						{
 							"name": "weiblich",
-							"value": "2777",
-							"unit": "%"
+							"value": "2777"
 						}
 					]
 				},
@@ -19805,13 +19553,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4041",
-							"unit": "%"
+							"value": "4041"
 						},
 						{
 							"name": "weiblich",
-							"value": "4439",
-							"unit": "%"
+							"value": "4439"
 						}
 					]
 				},
@@ -19962,13 +19708,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1594",
-							"unit": "%"
+							"value": "1594"
 						},
 						{
 							"name": "weiblich",
-							"value": "1390",
-							"unit": "%"
+							"value": "1390"
 						}
 					]
 				},
@@ -20119,13 +19863,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4982",
-							"unit": "%"
+							"value": "4982"
 						},
 						{
 							"name": "weiblich",
-							"value": "5204",
-							"unit": "%"
+							"value": "5204"
 						}
 					]
 				},
@@ -20276,13 +20018,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2162",
-							"unit": "%"
+							"value": "2162"
 						},
 						{
 							"name": "weiblich",
-							"value": "2382",
-							"unit": "%"
+							"value": "2382"
 						}
 					]
 				},
@@ -20433,13 +20173,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2886",
-							"unit": "%"
+							"value": "2886"
 						},
 						{
 							"name": "weiblich",
-							"value": "3408",
-							"unit": "%"
+							"value": "3408"
 						}
 					]
 				},
@@ -20590,13 +20328,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5848",
-							"unit": "%"
+							"value": "5848"
 						},
 						{
 							"name": "weiblich",
-							"value": "5974",
-							"unit": "%"
+							"value": "5974"
 						}
 					]
 				},
@@ -20747,13 +20483,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2586",
-							"unit": "%"
+							"value": "2586"
 						},
 						{
 							"name": "weiblich",
-							"value": "2821",
-							"unit": "%"
+							"value": "2821"
 						}
 					]
 				},
@@ -20904,13 +20638,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6009",
-							"unit": "%"
+							"value": "6009"
 						},
 						{
 							"name": "weiblich",
-							"value": "5843",
-							"unit": "%"
+							"value": "5843"
 						}
 					]
 				},
@@ -21061,13 +20793,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4621",
-							"unit": "%"
+							"value": "4621"
 						},
 						{
 							"name": "weiblich",
-							"value": "4694",
-							"unit": "%"
+							"value": "4694"
 						}
 					]
 				},
@@ -21218,13 +20948,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2872",
-							"unit": "%"
+							"value": "2872"
 						},
 						{
 							"name": "weiblich",
-							"value": "2966",
-							"unit": "%"
+							"value": "2966"
 						}
 					]
 				},
@@ -21375,13 +21103,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2730",
-							"unit": "%"
+							"value": "2730"
 						},
 						{
 							"name": "weiblich",
-							"value": "2714",
-							"unit": "%"
+							"value": "2714"
 						}
 					]
 				},
@@ -21532,13 +21258,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1775",
-							"unit": "%"
+							"value": "1775"
 						},
 						{
 							"name": "weiblich",
-							"value": "1657",
-							"unit": "%"
+							"value": "1657"
 						}
 					]
 				},
@@ -21689,13 +21413,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6985",
-							"unit": "%"
+							"value": "6985"
 						},
 						{
 							"name": "weiblich",
-							"value": "7653",
-							"unit": "%"
+							"value": "7653"
 						}
 					]
 				},
@@ -21846,13 +21568,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "21",
-							"unit": "%"
+							"value": "21"
 						},
 						{
 							"name": "weiblich",
-							"value": "23",
-							"unit": "%"
+							"value": "23"
 						}
 					]
 				},
@@ -22003,13 +21723,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2393",
-							"unit": "%"
+							"value": "2393"
 						},
 						{
 							"name": "weiblich",
-							"value": "2586",
-							"unit": "%"
+							"value": "2586"
 						}
 					]
 				},
@@ -22160,13 +21878,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1290",
-							"unit": "%"
+							"value": "1290"
 						},
 						{
 							"name": "weiblich",
-							"value": "1472",
-							"unit": "%"
+							"value": "1472"
 						}
 					]
 				},
@@ -22317,13 +22033,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1402",
-							"unit": "%"
+							"value": "1402"
 						},
 						{
 							"name": "weiblich",
-							"value": "1588",
-							"unit": "%"
+							"value": "1588"
 						}
 					]
 				},
@@ -22474,13 +22188,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3551",
-							"unit": "%"
+							"value": "3551"
 						},
 						{
 							"name": "weiblich",
-							"value": "4178",
-							"unit": "%"
+							"value": "4178"
 						}
 					]
 				},
@@ -22631,13 +22343,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2544",
-							"unit": "%"
+							"value": "2544"
 						},
 						{
 							"name": "weiblich",
-							"value": "3053",
-							"unit": "%"
+							"value": "3053"
 						}
 					]
 				},
@@ -22788,13 +22498,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "105",
-							"unit": "%"
+							"value": "105"
 						},
 						{
 							"name": "weiblich",
-							"value": "81",
-							"unit": "%"
+							"value": "81"
 						}
 					]
 				},
@@ -22945,13 +22653,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "699",
-							"unit": "%"
+							"value": "699"
 						},
 						{
 							"name": "weiblich",
-							"value": "852",
-							"unit": "%"
+							"value": "852"
 						}
 					]
 				},
@@ -23102,13 +22808,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3096",
-							"unit": "%"
+							"value": "3096"
 						},
 						{
 							"name": "weiblich",
-							"value": "3856",
-							"unit": "%"
+							"value": "3856"
 						}
 					]
 				},
@@ -23259,13 +22963,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1811",
-							"unit": "%"
+							"value": "1811"
 						},
 						{
 							"name": "weiblich",
-							"value": "2163",
-							"unit": "%"
+							"value": "2163"
 						}
 					]
 				},
@@ -23416,13 +23118,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1644",
-							"unit": "%"
+							"value": "1644"
 						},
 						{
 							"name": "weiblich",
-							"value": "1896",
-							"unit": "%"
+							"value": "1896"
 						}
 					]
 				},
@@ -23573,13 +23273,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4794",
-							"unit": "%"
+							"value": "4794"
 						},
 						{
 							"name": "weiblich",
-							"value": "5866",
-							"unit": "%"
+							"value": "5866"
 						}
 					]
 				},
@@ -23730,13 +23428,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2898",
-							"unit": "%"
+							"value": "2898"
 						},
 						{
 							"name": "weiblich",
-							"value": "3218",
-							"unit": "%"
+							"value": "3218"
 						}
 					]
 				},
@@ -23887,13 +23583,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5062",
-							"unit": "%"
+							"value": "5062"
 						},
 						{
 							"name": "weiblich",
-							"value": "5387",
-							"unit": "%"
+							"value": "5387"
 						}
 					]
 				},
@@ -24044,13 +23738,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2458",
-							"unit": "%"
+							"value": "2458"
 						},
 						{
 							"name": "weiblich",
-							"value": "2715",
-							"unit": "%"
+							"value": "2715"
 						}
 					]
 				},
@@ -24201,13 +23893,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4412",
-							"unit": "%"
+							"value": "4412"
 						},
 						{
 							"name": "weiblich",
-							"value": "4503",
-							"unit": "%"
+							"value": "4503"
 						}
 					]
 				},
@@ -24358,13 +24048,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2049",
-							"unit": "%"
+							"value": "2049"
 						},
 						{
 							"name": "weiblich",
-							"value": "2178",
-							"unit": "%"
+							"value": "2178"
 						}
 					]
 				},
@@ -24515,13 +24203,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2611",
-							"unit": "%"
+							"value": "2611"
 						},
 						{
 							"name": "weiblich",
-							"value": "2760",
-							"unit": "%"
+							"value": "2760"
 						}
 					]
 				},
@@ -24672,13 +24358,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2056",
-							"unit": "%"
+							"value": "2056"
 						},
 						{
 							"name": "weiblich",
-							"value": "2214",
-							"unit": "%"
+							"value": "2214"
 						}
 					]
 				},
@@ -24829,13 +24513,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4483",
-							"unit": "%"
+							"value": "4483"
 						},
 						{
 							"name": "weiblich",
-							"value": "5007",
-							"unit": "%"
+							"value": "5007"
 						}
 					]
 				},
@@ -24986,13 +24668,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3222",
-							"unit": "%"
+							"value": "3222"
 						},
 						{
 							"name": "weiblich",
-							"value": "3401",
-							"unit": "%"
+							"value": "3401"
 						}
 					]
 				},
@@ -25143,13 +24823,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1359",
-							"unit": "%"
+							"value": "1359"
 						},
 						{
 							"name": "weiblich",
-							"value": "1582",
-							"unit": "%"
+							"value": "1582"
 						}
 					]
 				},
@@ -25300,13 +24978,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3364",
-							"unit": "%"
+							"value": "3364"
 						},
 						{
 							"name": "weiblich",
-							"value": "3547",
-							"unit": "%"
+							"value": "3547"
 						}
 					]
 				},
@@ -25457,13 +25133,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3597",
-							"unit": "%"
+							"value": "3597"
 						},
 						{
 							"name": "weiblich",
-							"value": "3877",
-							"unit": "%"
+							"value": "3877"
 						}
 					]
 				},
@@ -25614,13 +25288,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "43",
-							"unit": "%"
+							"value": "43"
 						},
 						{
 							"name": "weiblich",
-							"value": "24",
-							"unit": "%"
+							"value": "24"
 						}
 					]
 				},
@@ -25771,13 +25443,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4710",
-							"unit": "%"
+							"value": "4710"
 						},
 						{
 							"name": "weiblich",
-							"value": "5249",
-							"unit": "%"
+							"value": "5249"
 						}
 					]
 				},
@@ -25928,13 +25598,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2707",
-							"unit": "%"
+							"value": "2707"
 						},
 						{
 							"name": "weiblich",
-							"value": "2964",
-							"unit": "%"
+							"value": "2964"
 						}
 					]
 				},
@@ -26085,13 +25753,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3584",
-							"unit": "%"
+							"value": "3584"
 						},
 						{
 							"name": "weiblich",
-							"value": "3829",
-							"unit": "%"
+							"value": "3829"
 						}
 					]
 				},
@@ -26242,13 +25908,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1416",
-							"unit": "%"
+							"value": "1416"
 						},
 						{
 							"name": "weiblich",
-							"value": "1726",
-							"unit": "%"
+							"value": "1726"
 						}
 					]
 				},
@@ -26399,13 +26063,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "941",
-							"unit": "%"
+							"value": "941"
 						},
 						{
 							"name": "weiblich",
-							"value": "965",
-							"unit": "%"
+							"value": "965"
 						}
 					]
 				},
@@ -26556,13 +26218,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4782",
-							"unit": "%"
+							"value": "4782"
 						},
 						{
 							"name": "weiblich",
-							"value": "5163",
-							"unit": "%"
+							"value": "5163"
 						}
 					]
 				},
@@ -26713,13 +26373,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5275",
-							"unit": "%"
+							"value": "5275"
 						},
 						{
 							"name": "weiblich",
-							"value": "5841",
-							"unit": "%"
+							"value": "5841"
 						}
 					]
 				},
@@ -26870,13 +26528,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3551",
-							"unit": "%"
+							"value": "3551"
 						},
 						{
 							"name": "weiblich",
-							"value": "3913",
-							"unit": "%"
+							"value": "3913"
 						}
 					]
 				},
@@ -27027,13 +26683,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2917",
-							"unit": "%"
+							"value": "2917"
 						},
 						{
 							"name": "weiblich",
-							"value": "3097",
-							"unit": "%"
+							"value": "3097"
 						}
 					]
 				},
@@ -27184,13 +26838,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1823",
-							"unit": "%"
+							"value": "1823"
 						},
 						{
 							"name": "weiblich",
-							"value": "1938",
-							"unit": "%"
+							"value": "1938"
 						}
 					]
 				},
@@ -27341,13 +26993,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2571",
-							"unit": "%"
+							"value": "2571"
 						},
 						{
 							"name": "weiblich",
-							"value": "2929",
-							"unit": "%"
+							"value": "2929"
 						}
 					]
 				},
@@ -27498,13 +27148,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3548",
-							"unit": "%"
+							"value": "3548"
 						},
 						{
 							"name": "weiblich",
-							"value": "3222",
-							"unit": "%"
+							"value": "3222"
 						}
 					]
 				},
@@ -27655,13 +27303,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3339",
-							"unit": "%"
+							"value": "3339"
 						},
 						{
 							"name": "weiblich",
-							"value": "3158",
-							"unit": "%"
+							"value": "3158"
 						}
 					]
 				},
@@ -27812,13 +27458,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5725",
-							"unit": "%"
+							"value": "5725"
 						},
 						{
 							"name": "weiblich",
-							"value": "5946",
-							"unit": "%"
+							"value": "5946"
 						}
 					]
 				},
@@ -27969,13 +27613,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "223",
-							"unit": "%"
+							"value": "223"
 						},
 						{
 							"name": "weiblich",
-							"value": "225",
-							"unit": "%"
+							"value": "225"
 						}
 					]
 				},
@@ -28126,13 +27768,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1991",
-							"unit": "%"
+							"value": "1991"
 						},
 						{
 							"name": "weiblich",
-							"value": "1909",
-							"unit": "%"
+							"value": "1909"
 						}
 					]
 				},
@@ -28283,13 +27923,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "840",
-							"unit": "%"
+							"value": "840"
 						},
 						{
 							"name": "weiblich",
-							"value": "896",
-							"unit": "%"
+							"value": "896"
 						}
 					]
 				},
@@ -28440,13 +28078,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2854",
-							"unit": "%"
+							"value": "2854"
 						},
 						{
 							"name": "weiblich",
-							"value": "2855",
-							"unit": "%"
+							"value": "2855"
 						}
 					]
 				},
@@ -28597,13 +28233,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1939",
-							"unit": "%"
+							"value": "1939"
 						},
 						{
 							"name": "weiblich",
-							"value": "2032",
-							"unit": "%"
+							"value": "2032"
 						}
 					]
 				},
@@ -28754,13 +28388,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3115",
-							"unit": "%"
+							"value": "3115"
 						},
 						{
 							"name": "weiblich",
-							"value": "3782",
-							"unit": "%"
+							"value": "3782"
 						}
 					]
 				},
@@ -28911,13 +28543,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "480",
-							"unit": "%"
+							"value": "480"
 						},
 						{
 							"name": "weiblich",
-							"value": "449",
-							"unit": "%"
+							"value": "449"
 						}
 					]
 				},
@@ -29068,13 +28698,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1409",
-							"unit": "%"
+							"value": "1409"
 						},
 						{
 							"name": "weiblich",
-							"value": "1467",
-							"unit": "%"
+							"value": "1467"
 						}
 					]
 				},
@@ -29225,13 +28853,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3457",
-							"unit": "%"
+							"value": "3457"
 						},
 						{
 							"name": "weiblich",
-							"value": "3660",
-							"unit": "%"
+							"value": "3660"
 						}
 					]
 				},
@@ -29382,13 +29008,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5610",
-							"unit": "%"
+							"value": "5610"
 						},
 						{
 							"name": "weiblich",
-							"value": "6003",
-							"unit": "%"
+							"value": "6003"
 						}
 					]
 				},
@@ -29539,13 +29163,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2905",
-							"unit": "%"
+							"value": "2905"
 						},
 						{
 							"name": "weiblich",
-							"value": "3177",
-							"unit": "%"
+							"value": "3177"
 						}
 					]
 				},
@@ -29696,13 +29318,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3497",
-							"unit": "%"
+							"value": "3497"
 						},
 						{
 							"name": "weiblich",
-							"value": "3920",
-							"unit": "%"
+							"value": "3920"
 						}
 					]
 				},
@@ -29853,13 +29473,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8327",
-							"unit": "%"
+							"value": "8327"
 						},
 						{
 							"name": "weiblich",
-							"value": "8847",
-							"unit": "%"
+							"value": "8847"
 						}
 					]
 				},
@@ -30010,13 +29628,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1857",
-							"unit": "%"
+							"value": "1857"
 						},
 						{
 							"name": "weiblich",
-							"value": "2032",
-							"unit": "%"
+							"value": "2032"
 						}
 					]
 				},
@@ -30167,13 +29783,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "886",
-							"unit": "%"
+							"value": "886"
 						},
 						{
 							"name": "weiblich",
-							"value": "1099",
-							"unit": "%"
+							"value": "1099"
 						}
 					]
 				},
@@ -30324,13 +29938,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2066",
-							"unit": "%"
+							"value": "2066"
 						},
 						{
 							"name": "weiblich",
-							"value": "2304",
-							"unit": "%"
+							"value": "2304"
 						}
 					]
 				},
@@ -30481,13 +30093,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1910",
-							"unit": "%"
+							"value": "1910"
 						},
 						{
 							"name": "weiblich",
-							"value": "1876",
-							"unit": "%"
+							"value": "1876"
 						}
 					]
 				},
@@ -30638,13 +30248,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5432",
-							"unit": "%"
+							"value": "5432"
 						},
 						{
 							"name": "weiblich",
-							"value": "6067",
-							"unit": "%"
+							"value": "6067"
 						}
 					]
 				},
@@ -30795,13 +30403,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5548",
-							"unit": "%"
+							"value": "5548"
 						},
 						{
 							"name": "weiblich",
-							"value": "5798",
-							"unit": "%"
+							"value": "5798"
 						}
 					]
 				},
@@ -30952,13 +30558,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "811",
-							"unit": "%"
+							"value": "811"
 						},
 						{
 							"name": "weiblich",
-							"value": "596",
-							"unit": "%"
+							"value": "596"
 						}
 					]
 				},
@@ -31109,13 +30713,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2041",
-							"unit": "%"
+							"value": "2041"
 						},
 						{
 							"name": "weiblich",
-							"value": "1943",
-							"unit": "%"
+							"value": "1943"
 						}
 					]
 				},
@@ -31266,13 +30868,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "228",
-							"unit": "%"
+							"value": "228"
 						},
 						{
 							"name": "weiblich",
-							"value": "190",
-							"unit": "%"
+							"value": "190"
 						}
 					]
 				},
@@ -31423,13 +31023,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4600",
-							"unit": "%"
+							"value": "4600"
 						},
 						{
 							"name": "weiblich",
-							"value": "4724",
-							"unit": "%"
+							"value": "4724"
 						}
 					]
 				},
@@ -31580,13 +31178,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1083",
-							"unit": "%"
+							"value": "1083"
 						},
 						{
 							"name": "weiblich",
-							"value": "1065",
-							"unit": "%"
+							"value": "1065"
 						}
 					]
 				},
@@ -31737,13 +31333,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1714",
-							"unit": "%"
+							"value": "1714"
 						},
 						{
 							"name": "weiblich",
-							"value": "1851",
-							"unit": "%"
+							"value": "1851"
 						}
 					]
 				},
@@ -31894,13 +31488,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3067",
-							"unit": "%"
+							"value": "3067"
 						},
 						{
 							"name": "weiblich",
-							"value": "3753",
-							"unit": "%"
+							"value": "3753"
 						}
 					]
 				},
@@ -32051,13 +31643,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4137",
-							"unit": "%"
+							"value": "4137"
 						},
 						{
 							"name": "weiblich",
-							"value": "4618",
-							"unit": "%"
+							"value": "4618"
 						}
 					]
 				},
@@ -32208,13 +31798,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2959",
-							"unit": "%"
+							"value": "2959"
 						},
 						{
 							"name": "weiblich",
-							"value": "3375",
-							"unit": "%"
+							"value": "3375"
 						}
 					]
 				},
@@ -32365,13 +31953,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3180",
-							"unit": "%"
+							"value": "3180"
 						},
 						{
 							"name": "weiblich",
-							"value": "3650",
-							"unit": "%"
+							"value": "3650"
 						}
 					]
 				},
@@ -32522,13 +32108,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4579",
-							"unit": "%"
+							"value": "4579"
 						},
 						{
 							"name": "weiblich",
-							"value": "5048",
-							"unit": "%"
+							"value": "5048"
 						}
 					]
 				},
@@ -32679,13 +32263,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3490",
-							"unit": "%"
+							"value": "3490"
 						},
 						{
 							"name": "weiblich",
-							"value": "4148",
-							"unit": "%"
+							"value": "4148"
 						}
 					]
 				},
@@ -32836,13 +32418,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3693",
-							"unit": "%"
+							"value": "3693"
 						},
 						{
 							"name": "weiblich",
-							"value": "4170",
-							"unit": "%"
+							"value": "4170"
 						}
 					]
 				},
@@ -32993,13 +32573,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3125",
-							"unit": "%"
+							"value": "3125"
 						},
 						{
 							"name": "weiblich",
-							"value": "3308",
-							"unit": "%"
+							"value": "3308"
 						}
 					]
 				},
@@ -33150,13 +32728,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4218",
-							"unit": "%"
+							"value": "4218"
 						},
 						{
 							"name": "weiblich",
-							"value": "4837",
-							"unit": "%"
+							"value": "4837"
 						}
 					]
 				},
@@ -33307,13 +32883,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2259",
-							"unit": "%"
+							"value": "2259"
 						},
 						{
 							"name": "weiblich",
-							"value": "2628",
-							"unit": "%"
+							"value": "2628"
 						}
 					]
 				},
@@ -33464,13 +33038,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2322",
-							"unit": "%"
+							"value": "2322"
 						},
 						{
 							"name": "weiblich",
-							"value": "2663",
-							"unit": "%"
+							"value": "2663"
 						}
 					]
 				},
@@ -33621,13 +33193,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2457",
-							"unit": "%"
+							"value": "2457"
 						},
 						{
 							"name": "weiblich",
-							"value": "2934",
-							"unit": "%"
+							"value": "2934"
 						}
 					]
 				},
@@ -33778,13 +33348,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3320",
-							"unit": "%"
+							"value": "3320"
 						},
 						{
 							"name": "weiblich",
-							"value": "3929",
-							"unit": "%"
+							"value": "3929"
 						}
 					]
 				},
@@ -33935,13 +33503,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3221",
-							"unit": "%"
+							"value": "3221"
 						},
 						{
 							"name": "weiblich",
-							"value": "3666",
-							"unit": "%"
+							"value": "3666"
 						}
 					]
 				},
@@ -34092,13 +33658,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5177",
-							"unit": "%"
+							"value": "5177"
 						},
 						{
 							"name": "weiblich",
-							"value": "5962",
-							"unit": "%"
+							"value": "5962"
 						}
 					]
 				},
@@ -34249,13 +33813,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3069",
-							"unit": "%"
+							"value": "3069"
 						},
 						{
 							"name": "weiblich",
-							"value": "3346",
-							"unit": "%"
+							"value": "3346"
 						}
 					]
 				},
@@ -34406,13 +33968,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2339",
-							"unit": "%"
+							"value": "2339"
 						},
 						{
 							"name": "weiblich",
-							"value": "2485",
-							"unit": "%"
+							"value": "2485"
 						}
 					]
 				},
@@ -34563,13 +34123,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3056",
-							"unit": "%"
+							"value": "3056"
 						},
 						{
 							"name": "weiblich",
-							"value": "3421",
-							"unit": "%"
+							"value": "3421"
 						}
 					]
 				},
@@ -34720,13 +34278,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3835",
-							"unit": "%"
+							"value": "3835"
 						},
 						{
 							"name": "weiblich",
-							"value": "4387",
-							"unit": "%"
+							"value": "4387"
 						}
 					]
 				},
@@ -34877,13 +34433,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3219",
-							"unit": "%"
+							"value": "3219"
 						},
 						{
 							"name": "weiblich",
-							"value": "3665",
-							"unit": "%"
+							"value": "3665"
 						}
 					]
 				},
@@ -35034,13 +34588,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3987",
-							"unit": "%"
+							"value": "3987"
 						},
 						{
 							"name": "weiblich",
-							"value": "4458",
-							"unit": "%"
+							"value": "4458"
 						}
 					]
 				},
@@ -35191,13 +34743,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2646",
-							"unit": "%"
+							"value": "2646"
 						},
 						{
 							"name": "weiblich",
-							"value": "2936",
-							"unit": "%"
+							"value": "2936"
 						}
 					]
 				},
@@ -35348,13 +34898,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2456",
-							"unit": "%"
+							"value": "2456"
 						},
 						{
 							"name": "weiblich",
-							"value": "2994",
-							"unit": "%"
+							"value": "2994"
 						}
 					]
 				},
@@ -35505,13 +35053,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5155",
-							"unit": "%"
+							"value": "5155"
 						},
 						{
 							"name": "weiblich",
-							"value": "6117",
-							"unit": "%"
+							"value": "6117"
 						}
 					]
 				},
@@ -35662,13 +35208,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5079",
-							"unit": "%"
+							"value": "5079"
 						},
 						{
 							"name": "weiblich",
-							"value": "5879",
-							"unit": "%"
+							"value": "5879"
 						}
 					]
 				},
@@ -35819,13 +35363,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3372",
-							"unit": "%"
+							"value": "3372"
 						},
 						{
 							"name": "weiblich",
-							"value": "3561",
-							"unit": "%"
+							"value": "3561"
 						}
 					]
 				},
@@ -35976,13 +35518,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2509",
-							"unit": "%"
+							"value": "2509"
 						},
 						{
 							"name": "weiblich",
-							"value": "2766",
-							"unit": "%"
+							"value": "2766"
 						}
 					]
 				},
@@ -36133,13 +35673,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1569",
-							"unit": "%"
+							"value": "1569"
 						},
 						{
 							"name": "weiblich",
-							"value": "1672",
-							"unit": "%"
+							"value": "1672"
 						}
 					]
 				},
@@ -36290,13 +35828,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5876",
-							"unit": "%"
+							"value": "5876"
 						},
 						{
 							"name": "weiblich",
-							"value": "6094",
-							"unit": "%"
+							"value": "6094"
 						}
 					]
 				},
@@ -36447,13 +35983,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5630",
-							"unit": "%"
+							"value": "5630"
 						},
 						{
 							"name": "weiblich",
-							"value": "6217",
-							"unit": "%"
+							"value": "6217"
 						}
 					]
 				},
@@ -36604,13 +36138,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3794",
-							"unit": "%"
+							"value": "3794"
 						},
 						{
 							"name": "weiblich",
-							"value": "4365",
-							"unit": "%"
+							"value": "4365"
 						}
 					]
 				},
@@ -36761,13 +36293,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4610",
-							"unit": "%"
+							"value": "4610"
 						},
 						{
 							"name": "weiblich",
-							"value": "5021",
-							"unit": "%"
+							"value": "5021"
 						}
 					]
 				},
@@ -36918,13 +36448,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2591",
-							"unit": "%"
+							"value": "2591"
 						},
 						{
 							"name": "weiblich",
-							"value": "2769",
-							"unit": "%"
+							"value": "2769"
 						}
 					]
 				},
@@ -37075,13 +36603,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5048",
-							"unit": "%"
+							"value": "5048"
 						},
 						{
 							"name": "weiblich",
-							"value": "5668",
-							"unit": "%"
+							"value": "5668"
 						}
 					]
 				},
@@ -37232,13 +36758,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3460",
-							"unit": "%"
+							"value": "3460"
 						},
 						{
 							"name": "weiblich",
-							"value": "4023",
-							"unit": "%"
+							"value": "4023"
 						}
 					]
 				},
@@ -37389,13 +36913,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2402",
-							"unit": "%"
+							"value": "2402"
 						},
 						{
 							"name": "weiblich",
-							"value": "2876",
-							"unit": "%"
+							"value": "2876"
 						}
 					]
 				},
@@ -37546,13 +37068,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3244",
-							"unit": "%"
+							"value": "3244"
 						},
 						{
 							"name": "weiblich",
-							"value": "3983",
-							"unit": "%"
+							"value": "3983"
 						}
 					]
 				},
@@ -37703,13 +37223,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2506",
-							"unit": "%"
+							"value": "2506"
 						},
 						{
 							"name": "weiblich",
-							"value": "3247",
-							"unit": "%"
+							"value": "3247"
 						}
 					]
 				},
@@ -37860,13 +37378,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2032",
-							"unit": "%"
+							"value": "2032"
 						},
 						{
 							"name": "weiblich",
-							"value": "2118",
-							"unit": "%"
+							"value": "2118"
 						}
 					]
 				},
@@ -38017,13 +37533,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2367",
-							"unit": "%"
+							"value": "2367"
 						},
 						{
 							"name": "weiblich",
-							"value": "2602",
-							"unit": "%"
+							"value": "2602"
 						}
 					]
 				},
@@ -38174,13 +37688,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3253",
-							"unit": "%"
+							"value": "3253"
 						},
 						{
 							"name": "weiblich",
-							"value": "3601",
-							"unit": "%"
+							"value": "3601"
 						}
 					]
 				},
@@ -38331,13 +37843,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4872",
-							"unit": "%"
+							"value": "4872"
 						},
 						{
 							"name": "weiblich",
-							"value": "4525",
-							"unit": "%"
+							"value": "4525"
 						}
 					]
 				},
@@ -38488,13 +37998,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8211",
-							"unit": "%"
+							"value": "8211"
 						},
 						{
 							"name": "weiblich",
-							"value": "7239",
-							"unit": "%"
+							"value": "7239"
 						}
 					]
 				},
@@ -38645,13 +38153,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4929",
-							"unit": "%"
+							"value": "4929"
 						},
 						{
 							"name": "weiblich",
-							"value": "5027",
-							"unit": "%"
+							"value": "5027"
 						}
 					]
 				},
@@ -38802,13 +38308,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7084",
-							"unit": "%"
+							"value": "7084"
 						},
 						{
 							"name": "weiblich",
-							"value": "6428",
-							"unit": "%"
+							"value": "6428"
 						}
 					]
 				},
@@ -38959,13 +38463,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4926",
-							"unit": "%"
+							"value": "4926"
 						},
 						{
 							"name": "weiblich",
-							"value": "5409",
-							"unit": "%"
+							"value": "5409"
 						}
 					]
 				},
@@ -39116,13 +38618,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4995",
-							"unit": "%"
+							"value": "4995"
 						},
 						{
 							"name": "weiblich",
-							"value": "4837",
-							"unit": "%"
+							"value": "4837"
 						}
 					]
 				},
@@ -39273,13 +38773,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8725",
-							"unit": "%"
+							"value": "8725"
 						},
 						{
 							"name": "weiblich",
-							"value": "8573",
-							"unit": "%"
+							"value": "8573"
 						}
 					]
 				},
@@ -39430,13 +38928,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5742",
-							"unit": "%"
+							"value": "5742"
 						},
 						{
 							"name": "weiblich",
-							"value": "5653",
-							"unit": "%"
+							"value": "5653"
 						}
 					]
 				},
@@ -39587,13 +39083,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "11130",
-							"unit": "%"
+							"value": "11130"
 						},
 						{
 							"name": "weiblich",
-							"value": "12740",
-							"unit": "%"
+							"value": "12740"
 						}
 					]
 				},
@@ -39744,13 +39238,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4362",
-							"unit": "%"
+							"value": "4362"
 						},
 						{
 							"name": "weiblich",
-							"value": "4789",
-							"unit": "%"
+							"value": "4789"
 						}
 					]
 				},
@@ -39901,13 +39393,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5831",
-							"unit": "%"
+							"value": "5831"
 						},
 						{
 							"name": "weiblich",
-							"value": "6242",
-							"unit": "%"
+							"value": "6242"
 						}
 					]
 				},
@@ -40058,13 +39548,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8204",
-							"unit": "%"
+							"value": "8204"
 						},
 						{
 							"name": "weiblich",
-							"value": "8922",
-							"unit": "%"
+							"value": "8922"
 						}
 					]
 				},
@@ -40215,13 +39703,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "984",
-							"unit": "%"
+							"value": "984"
 						},
 						{
 							"name": "weiblich",
-							"value": "1118",
-							"unit": "%"
+							"value": "1118"
 						}
 					]
 				},
@@ -40372,13 +39858,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "11113",
-							"unit": "%"
+							"value": "11113"
 						},
 						{
 							"name": "weiblich",
-							"value": "12305",
-							"unit": "%"
+							"value": "12305"
 						}
 					]
 				},
@@ -40529,13 +40013,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2376",
-							"unit": "%"
+							"value": "2376"
 						},
 						{
 							"name": "weiblich",
-							"value": "2681",
-							"unit": "%"
+							"value": "2681"
 						}
 					]
 				},
@@ -40686,13 +40168,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5067",
-							"unit": "%"
+							"value": "5067"
 						},
 						{
 							"name": "weiblich",
-							"value": "5500",
-							"unit": "%"
+							"value": "5500"
 						}
 					]
 				},
@@ -40843,13 +40323,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1848",
-							"unit": "%"
+							"value": "1848"
 						},
 						{
 							"name": "weiblich",
-							"value": "1742",
-							"unit": "%"
+							"value": "1742"
 						}
 					]
 				},
@@ -41000,13 +40478,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7659",
-							"unit": "%"
+							"value": "7659"
 						},
 						{
 							"name": "weiblich",
-							"value": "8213",
-							"unit": "%"
+							"value": "8213"
 						}
 					]
 				},
@@ -41157,13 +40633,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3637",
-							"unit": "%"
+							"value": "3637"
 						},
 						{
 							"name": "weiblich",
-							"value": "4063",
-							"unit": "%"
+							"value": "4063"
 						}
 					]
 				},
@@ -41314,13 +40788,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4184",
-							"unit": "%"
+							"value": "4184"
 						},
 						{
 							"name": "weiblich",
-							"value": "4922",
-							"unit": "%"
+							"value": "4922"
 						}
 					]
 				},
@@ -41471,13 +40943,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2618",
-							"unit": "%"
+							"value": "2618"
 						},
 						{
 							"name": "weiblich",
-							"value": "2862",
-							"unit": "%"
+							"value": "2862"
 						}
 					]
 				},
@@ -41628,13 +41098,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4910",
-							"unit": "%"
+							"value": "4910"
 						},
 						{
 							"name": "weiblich",
-							"value": "5550",
-							"unit": "%"
+							"value": "5550"
 						}
 					]
 				},
@@ -41785,13 +41253,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1083",
-							"unit": "%"
+							"value": "1083"
 						},
 						{
 							"name": "weiblich",
-							"value": "1126",
-							"unit": "%"
+							"value": "1126"
 						}
 					]
 				},
@@ -41942,13 +41408,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4897",
-							"unit": "%"
+							"value": "4897"
 						},
 						{
 							"name": "weiblich",
-							"value": "5004",
-							"unit": "%"
+							"value": "5004"
 						}
 					]
 				},
@@ -42099,13 +41563,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2313",
-							"unit": "%"
+							"value": "2313"
 						},
 						{
 							"name": "weiblich",
-							"value": "2293",
-							"unit": "%"
+							"value": "2293"
 						}
 					]
 				},
@@ -42256,13 +41718,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1306",
-							"unit": "%"
+							"value": "1306"
 						},
 						{
 							"name": "weiblich",
-							"value": "1434",
-							"unit": "%"
+							"value": "1434"
 						}
 					]
 				},
@@ -42413,13 +41873,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6480",
-							"unit": "%"
+							"value": "6480"
 						},
 						{
 							"name": "weiblich",
-							"value": "7363",
-							"unit": "%"
+							"value": "7363"
 						}
 					]
 				},
@@ -42570,13 +42028,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4969",
-							"unit": "%"
+							"value": "4969"
 						},
 						{
 							"name": "weiblich",
-							"value": "5439",
-							"unit": "%"
+							"value": "5439"
 						}
 					]
 				},
@@ -42727,13 +42183,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4879",
-							"unit": "%"
+							"value": "4879"
 						},
 						{
 							"name": "weiblich",
-							"value": "5272",
-							"unit": "%"
+							"value": "5272"
 						}
 					]
 				},
@@ -42884,13 +42338,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3527",
-							"unit": "%"
+							"value": "3527"
 						},
 						{
 							"name": "weiblich",
-							"value": "3953",
-							"unit": "%"
+							"value": "3953"
 						}
 					]
 				},
@@ -43041,13 +42493,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3865",
-							"unit": "%"
+							"value": "3865"
 						},
 						{
 							"name": "weiblich",
-							"value": "4263",
-							"unit": "%"
+							"value": "4263"
 						}
 					]
 				},
@@ -43198,13 +42648,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3401",
-							"unit": "%"
+							"value": "3401"
 						},
 						{
 							"name": "weiblich",
-							"value": "3607",
-							"unit": "%"
+							"value": "3607"
 						}
 					]
 				},
@@ -43355,13 +42803,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1736",
-							"unit": "%"
+							"value": "1736"
 						},
 						{
 							"name": "weiblich",
-							"value": "1987",
-							"unit": "%"
+							"value": "1987"
 						}
 					]
 				},
@@ -43512,13 +42958,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1358",
-							"unit": "%"
+							"value": "1358"
 						},
 						{
 							"name": "weiblich",
-							"value": "1465",
-							"unit": "%"
+							"value": "1465"
 						}
 					]
 				},
@@ -43669,13 +43113,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "452",
-							"unit": "%"
+							"value": "452"
 						},
 						{
 							"name": "weiblich",
-							"value": "415",
-							"unit": "%"
+							"value": "415"
 						}
 					]
 				},
@@ -43826,13 +43268,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1875",
-							"unit": "%"
+							"value": "1875"
 						},
 						{
 							"name": "weiblich",
-							"value": "1649",
-							"unit": "%"
+							"value": "1649"
 						}
 					]
 				},
@@ -43983,13 +43423,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8506",
-							"unit": "%"
+							"value": "8506"
 						},
 						{
 							"name": "weiblich",
-							"value": "7602",
-							"unit": "%"
+							"value": "7602"
 						}
 					]
 				},
@@ -44140,13 +43578,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6034",
-							"unit": "%"
+							"value": "6034"
 						},
 						{
 							"name": "weiblich",
-							"value": "5739",
-							"unit": "%"
+							"value": "5739"
 						}
 					]
 				},
@@ -44297,13 +43733,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5331",
-							"unit": "%"
+							"value": "5331"
 						},
 						{
 							"name": "weiblich",
-							"value": "4873",
-							"unit": "%"
+							"value": "4873"
 						}
 					]
 				},
@@ -44454,13 +43888,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3722",
-							"unit": "%"
+							"value": "3722"
 						},
 						{
 							"name": "weiblich",
-							"value": "3752",
-							"unit": "%"
+							"value": "3752"
 						}
 					]
 				},
@@ -44611,13 +44043,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6680",
-							"unit": "%"
+							"value": "6680"
 						},
 						{
 							"name": "weiblich",
-							"value": "6132",
-							"unit": "%"
+							"value": "6132"
 						}
 					]
 				},
@@ -44768,13 +44198,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4312",
-							"unit": "%"
+							"value": "4312"
 						},
 						{
 							"name": "weiblich",
-							"value": "3937",
-							"unit": "%"
+							"value": "3937"
 						}
 					]
 				},
@@ -44925,13 +44353,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "14066",
-							"unit": "%"
+							"value": "14066"
 						},
 						{
 							"name": "weiblich",
-							"value": "14073",
-							"unit": "%"
+							"value": "14073"
 						}
 					]
 				},
@@ -45082,13 +44508,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1877",
-							"unit": "%"
+							"value": "1877"
 						},
 						{
 							"name": "weiblich",
-							"value": "1903",
-							"unit": "%"
+							"value": "1903"
 						}
 					]
 				},
@@ -45239,13 +44663,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4493",
-							"unit": "%"
+							"value": "4493"
 						},
 						{
 							"name": "weiblich",
-							"value": "4059",
-							"unit": "%"
+							"value": "4059"
 						}
 					]
 				},
@@ -45396,13 +44818,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "12148",
-							"unit": "%"
+							"value": "12148"
 						},
 						{
 							"name": "weiblich",
-							"value": "11249",
-							"unit": "%"
+							"value": "11249"
 						}
 					]
 				},
@@ -45553,13 +44973,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4470",
-							"unit": "%"
+							"value": "4470"
 						},
 						{
 							"name": "weiblich",
-							"value": "4565",
-							"unit": "%"
+							"value": "4565"
 						}
 					]
 				},
@@ -45710,13 +45128,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3597",
-							"unit": "%"
+							"value": "3597"
 						},
 						{
 							"name": "weiblich",
-							"value": "3434",
-							"unit": "%"
+							"value": "3434"
 						}
 					]
 				},
@@ -45867,13 +45283,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "419",
-							"unit": "%"
+							"value": "419"
 						},
 						{
 							"name": "weiblich",
-							"value": "382",
-							"unit": "%"
+							"value": "382"
 						}
 					]
 				},
@@ -46024,13 +45438,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2733",
-							"unit": "%"
+							"value": "2733"
 						},
 						{
 							"name": "weiblich",
-							"value": "2741",
-							"unit": "%"
+							"value": "2741"
 						}
 					]
 				},
@@ -46181,13 +45593,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4711",
-							"unit": "%"
+							"value": "4711"
 						},
 						{
 							"name": "weiblich",
-							"value": "4797",
-							"unit": "%"
+							"value": "4797"
 						}
 					]
 				},
@@ -46338,13 +45748,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "219",
-							"unit": "%"
+							"value": "219"
 						},
 						{
 							"name": "weiblich",
-							"value": "164",
-							"unit": "%"
+							"value": "164"
 						}
 					]
 				},
@@ -46495,13 +45903,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5434",
-							"unit": "%"
+							"value": "5434"
 						},
 						{
 							"name": "weiblich",
-							"value": "5145",
-							"unit": "%"
+							"value": "5145"
 						}
 					]
 				},
@@ -46652,13 +46058,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4447",
-							"unit": "%"
+							"value": "4447"
 						},
 						{
 							"name": "weiblich",
-							"value": "4779",
-							"unit": "%"
+							"value": "4779"
 						}
 					]
 				},
@@ -46809,13 +46213,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1153",
-							"unit": "%"
+							"value": "1153"
 						},
 						{
 							"name": "weiblich",
-							"value": "1165",
-							"unit": "%"
+							"value": "1165"
 						}
 					]
 				},
@@ -46966,13 +46368,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6593",
-							"unit": "%"
+							"value": "6593"
 						},
 						{
 							"name": "weiblich",
-							"value": "7602",
-							"unit": "%"
+							"value": "7602"
 						}
 					]
 				},
@@ -47123,13 +46523,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "583",
-							"unit": "%"
+							"value": "583"
 						},
 						{
 							"name": "weiblich",
-							"value": "681",
-							"unit": "%"
+							"value": "681"
 						}
 					]
 				},
@@ -47280,13 +46678,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "584",
-							"unit": "%"
+							"value": "584"
 						},
 						{
 							"name": "weiblich",
-							"value": "558",
-							"unit": "%"
+							"value": "558"
 						}
 					]
 				},
@@ -47437,13 +46833,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1703",
-							"unit": "%"
+							"value": "1703"
 						},
 						{
 							"name": "weiblich",
-							"value": "1628",
-							"unit": "%"
+							"value": "1628"
 						}
 					]
 				},
@@ -47594,13 +46988,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3957",
-							"unit": "%"
+							"value": "3957"
 						},
 						{
 							"name": "weiblich",
-							"value": "4334",
-							"unit": "%"
+							"value": "4334"
 						}
 					]
 				},
@@ -47751,13 +47143,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5389",
-							"unit": "%"
+							"value": "5389"
 						},
 						{
 							"name": "weiblich",
-							"value": "6047",
-							"unit": "%"
+							"value": "6047"
 						}
 					]
 				},
@@ -47908,13 +47298,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4104",
-							"unit": "%"
+							"value": "4104"
 						},
 						{
 							"name": "weiblich",
-							"value": "4182",
-							"unit": "%"
+							"value": "4182"
 						}
 					]
 				},
@@ -48065,13 +47453,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5706",
-							"unit": "%"
+							"value": "5706"
 						},
 						{
 							"name": "weiblich",
-							"value": "6621",
-							"unit": "%"
+							"value": "6621"
 						}
 					]
 				},
@@ -48222,13 +47608,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3346",
-							"unit": "%"
+							"value": "3346"
 						},
 						{
 							"name": "weiblich",
-							"value": "3926",
-							"unit": "%"
+							"value": "3926"
 						}
 					]
 				},
@@ -48379,13 +47763,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7971",
-							"unit": "%"
+							"value": "7971"
 						},
 						{
 							"name": "weiblich",
-							"value": "8896",
-							"unit": "%"
+							"value": "8896"
 						}
 					]
 				},
@@ -48536,13 +47918,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1274",
-							"unit": "%"
+							"value": "1274"
 						},
 						{
 							"name": "weiblich",
-							"value": "1483",
-							"unit": "%"
+							"value": "1483"
 						}
 					]
 				},
@@ -48693,13 +48073,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1858",
-							"unit": "%"
+							"value": "1858"
 						},
 						{
 							"name": "weiblich",
-							"value": "2083",
-							"unit": "%"
+							"value": "2083"
 						}
 					]
 				},
@@ -48850,13 +48228,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1297",
-							"unit": "%"
+							"value": "1297"
 						},
 						{
 							"name": "weiblich",
-							"value": "1389",
-							"unit": "%"
+							"value": "1389"
 						}
 					]
 				},
@@ -49007,13 +48383,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3877",
-							"unit": "%"
+							"value": "3877"
 						},
 						{
 							"name": "weiblich",
-							"value": "3970",
-							"unit": "%"
+							"value": "3970"
 						}
 					]
 				},
@@ -49164,13 +48538,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3366",
-							"unit": "%"
+							"value": "3366"
 						},
 						{
 							"name": "weiblich",
-							"value": "3436",
-							"unit": "%"
+							"value": "3436"
 						}
 					]
 				},
@@ -49321,13 +48693,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4688",
-							"unit": "%"
+							"value": "4688"
 						},
 						{
 							"name": "weiblich",
-							"value": "4944",
-							"unit": "%"
+							"value": "4944"
 						}
 					]
 				},
@@ -49478,13 +48848,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3269",
-							"unit": "%"
+							"value": "3269"
 						},
 						{
 							"name": "weiblich",
-							"value": "3421",
-							"unit": "%"
+							"value": "3421"
 						}
 					]
 				},
@@ -49635,13 +49003,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1747",
-							"unit": "%"
+							"value": "1747"
 						},
 						{
 							"name": "weiblich",
-							"value": "1978",
-							"unit": "%"
+							"value": "1978"
 						}
 					]
 				},
@@ -49792,13 +49158,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3800",
-							"unit": "%"
+							"value": "3800"
 						},
 						{
 							"name": "weiblich",
-							"value": "4191",
-							"unit": "%"
+							"value": "4191"
 						}
 					]
 				},
@@ -49949,13 +49313,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5648",
-							"unit": "%"
+							"value": "5648"
 						},
 						{
 							"name": "weiblich",
-							"value": "5682",
-							"unit": "%"
+							"value": "5682"
 						}
 					]
 				},
@@ -50106,13 +49468,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "33",
-							"unit": "%"
+							"value": "33"
 						},
 						{
 							"name": "weiblich",
-							"value": "38",
-							"unit": "%"
+							"value": "38"
 						}
 					]
 				},
@@ -50263,13 +49623,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2038",
-							"unit": "%"
+							"value": "2038"
 						},
 						{
 							"name": "weiblich",
-							"value": "2214",
-							"unit": "%"
+							"value": "2214"
 						}
 					]
 				},
@@ -50420,13 +49778,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3217",
-							"unit": "%"
+							"value": "3217"
 						},
 						{
 							"name": "weiblich",
-							"value": "3505",
-							"unit": "%"
+							"value": "3505"
 						}
 					]
 				},
@@ -50577,13 +49933,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6923",
-							"unit": "%"
+							"value": "6923"
 						},
 						{
 							"name": "weiblich",
-							"value": "7781",
-							"unit": "%"
+							"value": "7781"
 						}
 					]
 				},
@@ -50734,13 +50088,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1471",
-							"unit": "%"
+							"value": "1471"
 						},
 						{
 							"name": "weiblich",
-							"value": "1472",
-							"unit": "%"
+							"value": "1472"
 						}
 					]
 				},
@@ -50891,13 +50243,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3617",
-							"unit": "%"
+							"value": "3617"
 						},
 						{
 							"name": "weiblich",
-							"value": "4227",
-							"unit": "%"
+							"value": "4227"
 						}
 					]
 				},
@@ -51048,13 +50398,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5209",
-							"unit": "%"
+							"value": "5209"
 						},
 						{
 							"name": "weiblich",
-							"value": "5528",
-							"unit": "%"
+							"value": "5528"
 						}
 					]
 				},
@@ -51205,13 +50553,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3229",
-							"unit": "%"
+							"value": "3229"
 						},
 						{
 							"name": "weiblich",
-							"value": "2918",
-							"unit": "%"
+							"value": "2918"
 						}
 					]
 				},
@@ -51362,13 +50708,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7068",
-							"unit": "%"
+							"value": "7068"
 						},
 						{
 							"name": "weiblich",
-							"value": "7146",
-							"unit": "%"
+							"value": "7146"
 						}
 					]
 				},
@@ -51519,13 +50863,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3872",
-							"unit": "%"
+							"value": "3872"
 						},
 						{
 							"name": "weiblich",
-							"value": "3565",
-							"unit": "%"
+							"value": "3565"
 						}
 					]
 				},
@@ -51676,13 +51018,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1620",
-							"unit": "%"
+							"value": "1620"
 						},
 						{
 							"name": "weiblich",
-							"value": "1814",
-							"unit": "%"
+							"value": "1814"
 						}
 					]
 				},
@@ -51833,13 +51173,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "312",
-							"unit": "%"
+							"value": "312"
 						},
 						{
 							"name": "weiblich",
-							"value": "196",
-							"unit": "%"
+							"value": "196"
 						}
 					]
 				},
@@ -51990,13 +51328,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7866",
-							"unit": "%"
+							"value": "7866"
 						},
 						{
 							"name": "weiblich",
-							"value": "8068",
-							"unit": "%"
+							"value": "8068"
 						}
 					]
 				},
@@ -52147,13 +51483,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1393",
-							"unit": "%"
+							"value": "1393"
 						},
 						{
 							"name": "weiblich",
-							"value": "1488",
-							"unit": "%"
+							"value": "1488"
 						}
 					]
 				},
@@ -52304,13 +51638,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3617",
-							"unit": "%"
+							"value": "3617"
 						},
 						{
 							"name": "weiblich",
-							"value": "3651",
-							"unit": "%"
+							"value": "3651"
 						}
 					]
 				},
@@ -52461,13 +51793,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6138",
-							"unit": "%"
+							"value": "6138"
 						},
 						{
 							"name": "weiblich",
-							"value": "6179",
-							"unit": "%"
+							"value": "6179"
 						}
 					]
 				},
@@ -52618,13 +51948,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2836",
-							"unit": "%"
+							"value": "2836"
 						},
 						{
 							"name": "weiblich",
-							"value": "2991",
-							"unit": "%"
+							"value": "2991"
 						}
 					]
 				},
@@ -52775,13 +52103,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3878",
-							"unit": "%"
+							"value": "3878"
 						},
 						{
 							"name": "weiblich",
-							"value": "3922",
-							"unit": "%"
+							"value": "3922"
 						}
 					]
 				},
@@ -52932,13 +52258,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6048",
-							"unit": "%"
+							"value": "6048"
 						},
 						{
 							"name": "weiblich",
-							"value": "6192",
-							"unit": "%"
+							"value": "6192"
 						}
 					]
 				},
@@ -53089,13 +52413,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2736",
-							"unit": "%"
+							"value": "2736"
 						},
 						{
 							"name": "weiblich",
-							"value": "2913",
-							"unit": "%"
+							"value": "2913"
 						}
 					]
 				},
@@ -53246,13 +52568,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "875",
-							"unit": "%"
+							"value": "875"
 						},
 						{
 							"name": "weiblich",
-							"value": "889",
-							"unit": "%"
+							"value": "889"
 						}
 					]
 				},
@@ -53403,13 +52723,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1160",
-							"unit": "%"
+							"value": "1160"
 						},
 						{
 							"name": "weiblich",
-							"value": "1191",
-							"unit": "%"
+							"value": "1191"
 						}
 					]
 				},
@@ -53560,13 +52878,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6653",
-							"unit": "%"
+							"value": "6653"
 						},
 						{
 							"name": "weiblich",
-							"value": "7280",
-							"unit": "%"
+							"value": "7280"
 						}
 					]
 				},
@@ -53717,13 +53033,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "874",
-							"unit": "%"
+							"value": "874"
 						},
 						{
 							"name": "weiblich",
-							"value": "918",
-							"unit": "%"
+							"value": "918"
 						}
 					]
 				},
@@ -53874,13 +53188,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2207",
-							"unit": "%"
+							"value": "2207"
 						},
 						{
 							"name": "weiblich",
-							"value": "2638",
-							"unit": "%"
+							"value": "2638"
 						}
 					]
 				},
@@ -54031,13 +53343,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "726",
-							"unit": "%"
+							"value": "726"
 						},
 						{
 							"name": "weiblich",
-							"value": "754",
-							"unit": "%"
+							"value": "754"
 						}
 					]
 				},
@@ -54188,13 +53498,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3491",
-							"unit": "%"
+							"value": "3491"
 						},
 						{
 							"name": "weiblich",
-							"value": "3682",
-							"unit": "%"
+							"value": "3682"
 						}
 					]
 				},
@@ -54345,13 +53653,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3287",
-							"unit": "%"
+							"value": "3287"
 						},
 						{
 							"name": "weiblich",
-							"value": "3235",
-							"unit": "%"
+							"value": "3235"
 						}
 					]
 				},
@@ -54502,13 +53808,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1628",
-							"unit": "%"
+							"value": "1628"
 						},
 						{
 							"name": "weiblich",
-							"value": "1894",
-							"unit": "%"
+							"value": "1894"
 						}
 					]
 				},
@@ -54659,13 +53963,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6607",
-							"unit": "%"
+							"value": "6607"
 						},
 						{
 							"name": "weiblich",
-							"value": "7776",
-							"unit": "%"
+							"value": "7776"
 						}
 					]
 				},
@@ -54816,13 +54118,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4465",
-							"unit": "%"
+							"value": "4465"
 						},
 						{
 							"name": "weiblich",
-							"value": "4576",
-							"unit": "%"
+							"value": "4576"
 						}
 					]
 				},
@@ -54973,13 +54273,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4804",
-							"unit": "%"
+							"value": "4804"
 						},
 						{
 							"name": "weiblich",
-							"value": "5271",
-							"unit": "%"
+							"value": "5271"
 						}
 					]
 				},
@@ -55130,13 +54428,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5766",
-							"unit": "%"
+							"value": "5766"
 						},
 						{
 							"name": "weiblich",
-							"value": "6534",
-							"unit": "%"
+							"value": "6534"
 						}
 					]
 				},
@@ -55287,13 +54583,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2744",
-							"unit": "%"
+							"value": "2744"
 						},
 						{
 							"name": "weiblich",
-							"value": "2801",
-							"unit": "%"
+							"value": "2801"
 						}
 					]
 				},
@@ -55444,13 +54738,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8870",
-							"unit": "%"
+							"value": "8870"
 						},
 						{
 							"name": "weiblich",
-							"value": "8856",
-							"unit": "%"
+							"value": "8856"
 						}
 					]
 				},
@@ -55601,13 +54893,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "554",
-							"unit": "%"
+							"value": "554"
 						},
 						{
 							"name": "weiblich",
-							"value": "234",
-							"unit": "%"
+							"value": "234"
 						}
 					]
 				},
@@ -55758,13 +55048,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5048",
-							"unit": "%"
+							"value": "5048"
 						},
 						{
 							"name": "weiblich",
-							"value": "5172",
-							"unit": "%"
+							"value": "5172"
 						}
 					]
 				},
@@ -55915,13 +55203,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4057",
-							"unit": "%"
+							"value": "4057"
 						},
 						{
 							"name": "weiblich",
-							"value": "3978",
-							"unit": "%"
+							"value": "3978"
 						}
 					]
 				},
@@ -56072,13 +55358,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8087",
-							"unit": "%"
+							"value": "8087"
 						},
 						{
 							"name": "weiblich",
-							"value": "8319",
-							"unit": "%"
+							"value": "8319"
 						}
 					]
 				},
@@ -56229,13 +55513,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5195",
-							"unit": "%"
+							"value": "5195"
 						},
 						{
 							"name": "weiblich",
-							"value": "5460",
-							"unit": "%"
+							"value": "5460"
 						}
 					]
 				},
@@ -56386,13 +55668,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1126",
-							"unit": "%"
+							"value": "1126"
 						},
 						{
 							"name": "weiblich",
-							"value": "1022",
-							"unit": "%"
+							"value": "1022"
 						}
 					]
 				},
@@ -56543,13 +55823,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6901",
-							"unit": "%"
+							"value": "6901"
 						},
 						{
 							"name": "weiblich",
-							"value": "7502",
-							"unit": "%"
+							"value": "7502"
 						}
 					]
 				},
@@ -56700,13 +55978,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8638",
-							"unit": "%"
+							"value": "8638"
 						},
 						{
 							"name": "weiblich",
-							"value": "8965",
-							"unit": "%"
+							"value": "8965"
 						}
 					]
 				},
@@ -56857,13 +56133,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1306",
-							"unit": "%"
+							"value": "1306"
 						},
 						{
 							"name": "weiblich",
-							"value": "1638",
-							"unit": "%"
+							"value": "1638"
 						}
 					]
 				},
@@ -57014,13 +56288,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3196",
-							"unit": "%"
+							"value": "3196"
 						},
 						{
 							"name": "weiblich",
-							"value": "3421",
-							"unit": "%"
+							"value": "3421"
 						}
 					]
 				},
@@ -57171,13 +56443,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7226",
-							"unit": "%"
+							"value": "7226"
 						},
 						{
 							"name": "weiblich",
-							"value": "7741",
-							"unit": "%"
+							"value": "7741"
 						}
 					]
 				},
@@ -57328,13 +56598,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "808",
-							"unit": "%"
+							"value": "808"
 						},
 						{
 							"name": "weiblich",
-							"value": "850",
-							"unit": "%"
+							"value": "850"
 						}
 					]
 				},
@@ -57485,13 +56753,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2609",
-							"unit": "%"
+							"value": "2609"
 						},
 						{
 							"name": "weiblich",
-							"value": "2695",
-							"unit": "%"
+							"value": "2695"
 						}
 					]
 				},
@@ -57642,13 +56908,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2764",
-							"unit": "%"
+							"value": "2764"
 						},
 						{
 							"name": "weiblich",
-							"value": "2642",
-							"unit": "%"
+							"value": "2642"
 						}
 					]
 				},
@@ -57799,13 +57063,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4203",
-							"unit": "%"
+							"value": "4203"
 						},
 						{
 							"name": "weiblich",
-							"value": "4583",
-							"unit": "%"
+							"value": "4583"
 						}
 					]
 				},
@@ -57956,13 +57218,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2521",
-							"unit": "%"
+							"value": "2521"
 						},
 						{
 							"name": "weiblich",
-							"value": "2524",
-							"unit": "%"
+							"value": "2524"
 						}
 					]
 				},
@@ -58113,13 +57373,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2971",
-							"unit": "%"
+							"value": "2971"
 						},
 						{
 							"name": "weiblich",
-							"value": "2828",
-							"unit": "%"
+							"value": "2828"
 						}
 					]
 				},
@@ -58270,13 +57528,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1632",
-							"unit": "%"
+							"value": "1632"
 						},
 						{
 							"name": "weiblich",
-							"value": "1725",
-							"unit": "%"
+							"value": "1725"
 						}
 					]
 				},
@@ -58427,13 +57683,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2943",
-							"unit": "%"
+							"value": "2943"
 						},
 						{
 							"name": "weiblich",
-							"value": "2972",
-							"unit": "%"
+							"value": "2972"
 						}
 					]
 				},
@@ -58584,13 +57838,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3994",
-							"unit": "%"
+							"value": "3994"
 						},
 						{
 							"name": "weiblich",
-							"value": "4723",
-							"unit": "%"
+							"value": "4723"
 						}
 					]
 				},
@@ -58741,13 +57993,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3047",
-							"unit": "%"
+							"value": "3047"
 						},
 						{
 							"name": "weiblich",
-							"value": "3460",
-							"unit": "%"
+							"value": "3460"
 						}
 					]
 				},
@@ -58898,13 +58148,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3787",
-							"unit": "%"
+							"value": "3787"
 						},
 						{
 							"name": "weiblich",
-							"value": "3941",
-							"unit": "%"
+							"value": "3941"
 						}
 					]
 				},
@@ -59055,13 +58303,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2930",
-							"unit": "%"
+							"value": "2930"
 						},
 						{
 							"name": "weiblich",
-							"value": "2880",
-							"unit": "%"
+							"value": "2880"
 						}
 					]
 				},
@@ -59212,13 +58458,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1369",
-							"unit": "%"
+							"value": "1369"
 						},
 						{
 							"name": "weiblich",
-							"value": "1475",
-							"unit": "%"
+							"value": "1475"
 						}
 					]
 				},
@@ -59369,13 +58613,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4570",
-							"unit": "%"
+							"value": "4570"
 						},
 						{
 							"name": "weiblich",
-							"value": "4618",
-							"unit": "%"
+							"value": "4618"
 						}
 					]
 				},
@@ -59526,13 +58768,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3750",
-							"unit": "%"
+							"value": "3750"
 						},
 						{
 							"name": "weiblich",
-							"value": "3859",
-							"unit": "%"
+							"value": "3859"
 						}
 					]
 				},
@@ -59683,13 +58923,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1762",
-							"unit": "%"
+							"value": "1762"
 						},
 						{
 							"name": "weiblich",
-							"value": "1821",
-							"unit": "%"
+							"value": "1821"
 						}
 					]
 				},
@@ -59840,13 +59078,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3689",
-							"unit": "%"
+							"value": "3689"
 						},
 						{
 							"name": "weiblich",
-							"value": "3737",
-							"unit": "%"
+							"value": "3737"
 						}
 					]
 				},
@@ -59997,13 +59233,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4570",
-							"unit": "%"
+							"value": "4570"
 						},
 						{
 							"name": "weiblich",
-							"value": "4554",
-							"unit": "%"
+							"value": "4554"
 						}
 					]
 				},
@@ -60154,13 +59388,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1948",
-							"unit": "%"
+							"value": "1948"
 						},
 						{
 							"name": "weiblich",
-							"value": "1957",
-							"unit": "%"
+							"value": "1957"
 						}
 					]
 				},
@@ -60311,13 +59543,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7153",
-							"unit": "%"
+							"value": "7153"
 						},
 						{
 							"name": "weiblich",
-							"value": "7252",
-							"unit": "%"
+							"value": "7252"
 						}
 					]
 				},
@@ -60468,13 +59698,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "345",
-							"unit": "%"
+							"value": "345"
 						},
 						{
 							"name": "weiblich",
-							"value": "215",
-							"unit": "%"
+							"value": "215"
 						}
 					]
 				},
@@ -60625,13 +59853,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1294",
-							"unit": "%"
+							"value": "1294"
 						},
 						{
 							"name": "weiblich",
-							"value": "1268",
-							"unit": "%"
+							"value": "1268"
 						}
 					]
 				},
@@ -60782,13 +60008,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "665",
-							"unit": "%"
+							"value": "665"
 						},
 						{
 							"name": "weiblich",
-							"value": "620",
-							"unit": "%"
+							"value": "620"
 						}
 					]
 				},
@@ -60939,13 +60163,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4365",
-							"unit": "%"
+							"value": "4365"
 						},
 						{
 							"name": "weiblich",
-							"value": "4453",
-							"unit": "%"
+							"value": "4453"
 						}
 					]
 				},
@@ -61096,13 +60318,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3372",
-							"unit": "%"
+							"value": "3372"
 						},
 						{
 							"name": "weiblich",
-							"value": "3298",
-							"unit": "%"
+							"value": "3298"
 						}
 					]
 				},
@@ -61253,13 +60473,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2773",
-							"unit": "%"
+							"value": "2773"
 						},
 						{
 							"name": "weiblich",
-							"value": "3080",
-							"unit": "%"
+							"value": "3080"
 						}
 					]
 				},
@@ -61410,13 +60628,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3216",
-							"unit": "%"
+							"value": "3216"
 						},
 						{
 							"name": "weiblich",
-							"value": "3666",
-							"unit": "%"
+							"value": "3666"
 						}
 					]
 				},
@@ -61567,13 +60783,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5414",
-							"unit": "%"
+							"value": "5414"
 						},
 						{
 							"name": "weiblich",
-							"value": "5582",
-							"unit": "%"
+							"value": "5582"
 						}
 					]
 				},
@@ -61724,13 +60938,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4809",
-							"unit": "%"
+							"value": "4809"
 						},
 						{
 							"name": "weiblich",
-							"value": "4742",
-							"unit": "%"
+							"value": "4742"
 						}
 					]
 				},
@@ -61881,13 +61093,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2588",
-							"unit": "%"
+							"value": "2588"
 						},
 						{
 							"name": "weiblich",
-							"value": "2649",
-							"unit": "%"
+							"value": "2649"
 						}
 					]
 				},
@@ -62038,13 +61248,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3914",
-							"unit": "%"
+							"value": "3914"
 						},
 						{
 							"name": "weiblich",
-							"value": "3865",
-							"unit": "%"
+							"value": "3865"
 						}
 					]
 				},
@@ -62195,13 +61403,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2870",
-							"unit": "%"
+							"value": "2870"
 						},
 						{
 							"name": "weiblich",
-							"value": "3218",
-							"unit": "%"
+							"value": "3218"
 						}
 					]
 				},
@@ -62352,13 +61558,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1645",
-							"unit": "%"
+							"value": "1645"
 						},
 						{
 							"name": "weiblich",
-							"value": "1745",
-							"unit": "%"
+							"value": "1745"
 						}
 					]
 				},
@@ -62509,13 +61713,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3995",
-							"unit": "%"
+							"value": "3995"
 						},
 						{
 							"name": "weiblich",
-							"value": "4291",
-							"unit": "%"
+							"value": "4291"
 						}
 					]
 				},
@@ -62666,13 +61868,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6848",
-							"unit": "%"
+							"value": "6848"
 						},
 						{
 							"name": "weiblich",
-							"value": "7469",
-							"unit": "%"
+							"value": "7469"
 						}
 					]
 				},
@@ -62823,13 +62023,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1834",
-							"unit": "%"
+							"value": "1834"
 						},
 						{
 							"name": "weiblich",
-							"value": "1871",
-							"unit": "%"
+							"value": "1871"
 						}
 					]
 				},
@@ -62980,13 +62178,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2917",
-							"unit": "%"
+							"value": "2917"
 						},
 						{
 							"name": "weiblich",
-							"value": "3207",
-							"unit": "%"
+							"value": "3207"
 						}
 					]
 				},
@@ -63137,13 +62333,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7583",
-							"unit": "%"
+							"value": "7583"
 						},
 						{
 							"name": "weiblich",
-							"value": "8167",
-							"unit": "%"
+							"value": "8167"
 						}
 					]
 				},
@@ -63294,13 +62488,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5155",
-							"unit": "%"
+							"value": "5155"
 						},
 						{
 							"name": "weiblich",
-							"value": "5441",
-							"unit": "%"
+							"value": "5441"
 						}
 					]
 				},
@@ -63451,13 +62643,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3181",
-							"unit": "%"
+							"value": "3181"
 						},
 						{
 							"name": "weiblich",
-							"value": "1947",
-							"unit": "%"
+							"value": "1947"
 						}
 					]
 				},
@@ -63608,13 +62798,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "11077",
-							"unit": "%"
+							"value": "11077"
 						},
 						{
 							"name": "weiblich",
-							"value": "10869",
-							"unit": "%"
+							"value": "10869"
 						}
 					]
 				},
@@ -63765,13 +62953,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4950",
-							"unit": "%"
+							"value": "4950"
 						},
 						{
 							"name": "weiblich",
-							"value": "5054",
-							"unit": "%"
+							"value": "5054"
 						}
 					]
 				},
@@ -63922,13 +63108,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1841",
-							"unit": "%"
+							"value": "1841"
 						},
 						{
 							"name": "weiblich",
-							"value": "1712",
-							"unit": "%"
+							"value": "1712"
 						}
 					]
 				},
@@ -64079,13 +63263,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "13641",
-							"unit": "%"
+							"value": "13641"
 						},
 						{
 							"name": "weiblich",
-							"value": "13573",
-							"unit": "%"
+							"value": "13573"
 						}
 					]
 				},
@@ -64236,13 +63418,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2571",
-							"unit": "%"
+							"value": "2571"
 						},
 						{
 							"name": "weiblich",
-							"value": "2517",
-							"unit": "%"
+							"value": "2517"
 						}
 					]
 				},
@@ -64393,13 +63573,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2918",
-							"unit": "%"
+							"value": "2918"
 						},
 						{
 							"name": "weiblich",
-							"value": "2984",
-							"unit": "%"
+							"value": "2984"
 						}
 					]
 				},
@@ -64550,13 +63728,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1367",
-							"unit": "%"
+							"value": "1367"
 						},
 						{
 							"name": "weiblich",
-							"value": "1371",
-							"unit": "%"
+							"value": "1371"
 						}
 					]
 				},
@@ -64707,13 +63883,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "11565",
-							"unit": "%"
+							"value": "11565"
 						},
 						{
 							"name": "weiblich",
-							"value": "13132",
-							"unit": "%"
+							"value": "13132"
 						}
 					]
 				},
@@ -64864,13 +64038,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1736",
-							"unit": "%"
+							"value": "1736"
 						},
 						{
 							"name": "weiblich",
-							"value": "1684",
-							"unit": "%"
+							"value": "1684"
 						}
 					]
 				},
@@ -65021,13 +64193,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4007",
-							"unit": "%"
+							"value": "4007"
 						},
 						{
 							"name": "weiblich",
-							"value": "4233",
-							"unit": "%"
+							"value": "4233"
 						}
 					]
 				},
@@ -65178,13 +64348,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4568",
-							"unit": "%"
+							"value": "4568"
 						},
 						{
 							"name": "weiblich",
-							"value": "5027",
-							"unit": "%"
+							"value": "5027"
 						}
 					]
 				},
@@ -65335,13 +64503,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3137",
-							"unit": "%"
+							"value": "3137"
 						},
 						{
 							"name": "weiblich",
-							"value": "3354",
-							"unit": "%"
+							"value": "3354"
 						}
 					]
 				},
@@ -65492,13 +64658,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3655",
-							"unit": "%"
+							"value": "3655"
 						},
 						{
 							"name": "weiblich",
-							"value": "3794",
-							"unit": "%"
+							"value": "3794"
 						}
 					]
 				},
@@ -65649,13 +64813,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4613",
-							"unit": "%"
+							"value": "4613"
 						},
 						{
 							"name": "weiblich",
-							"value": "4567",
-							"unit": "%"
+							"value": "4567"
 						}
 					]
 				},
@@ -65806,13 +64968,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5062",
-							"unit": "%"
+							"value": "5062"
 						},
 						{
 							"name": "weiblich",
-							"value": "4977",
-							"unit": "%"
+							"value": "4977"
 						}
 					]
 				},
@@ -65963,13 +65123,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6252",
-							"unit": "%"
+							"value": "6252"
 						},
 						{
 							"name": "weiblich",
-							"value": "6765",
-							"unit": "%"
+							"value": "6765"
 						}
 					]
 				},
@@ -66120,13 +65278,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4049",
-							"unit": "%"
+							"value": "4049"
 						},
 						{
 							"name": "weiblich",
-							"value": "4502",
-							"unit": "%"
+							"value": "4502"
 						}
 					]
 				},
@@ -66277,13 +65433,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2201",
-							"unit": "%"
+							"value": "2201"
 						},
 						{
 							"name": "weiblich",
-							"value": "2387",
-							"unit": "%"
+							"value": "2387"
 						}
 					]
 				},
@@ -66434,13 +65588,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3713",
-							"unit": "%"
+							"value": "3713"
 						},
 						{
 							"name": "weiblich",
-							"value": "3292",
-							"unit": "%"
+							"value": "3292"
 						}
 					]
 				},
@@ -66591,13 +65743,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3547",
-							"unit": "%"
+							"value": "3547"
 						},
 						{
 							"name": "weiblich",
-							"value": "4004",
-							"unit": "%"
+							"value": "4004"
 						}
 					]
 				},
@@ -66748,13 +65898,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1299",
-							"unit": "%"
+							"value": "1299"
 						},
 						{
 							"name": "weiblich",
-							"value": "1304",
-							"unit": "%"
+							"value": "1304"
 						}
 					]
 				},
@@ -66905,13 +66053,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3871",
-							"unit": "%"
+							"value": "3871"
 						},
 						{
 							"name": "weiblich",
-							"value": "3817",
-							"unit": "%"
+							"value": "3817"
 						}
 					]
 				},
@@ -67062,13 +66208,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2656",
-							"unit": "%"
+							"value": "2656"
 						},
 						{
 							"name": "weiblich",
-							"value": "2878",
-							"unit": "%"
+							"value": "2878"
 						}
 					]
 				},
@@ -67219,13 +66363,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5171",
-							"unit": "%"
+							"value": "5171"
 						},
 						{
 							"name": "weiblich",
-							"value": "5154",
-							"unit": "%"
+							"value": "5154"
 						}
 					]
 				},
@@ -67376,13 +66518,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4752",
-							"unit": "%"
+							"value": "4752"
 						},
 						{
 							"name": "weiblich",
-							"value": "5628",
-							"unit": "%"
+							"value": "5628"
 						}
 					]
 				},
@@ -67533,13 +66673,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "121",
-							"unit": "%"
+							"value": "121"
 						},
 						{
 							"name": "weiblich",
-							"value": "132",
-							"unit": "%"
+							"value": "132"
 						}
 					]
 				},
@@ -67690,13 +66828,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2958",
-							"unit": "%"
+							"value": "2958"
 						},
 						{
 							"name": "weiblich",
-							"value": "3055",
-							"unit": "%"
+							"value": "3055"
 						}
 					]
 				},
@@ -67847,13 +66983,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8744",
-							"unit": "%"
+							"value": "8744"
 						},
 						{
 							"name": "weiblich",
-							"value": "9116",
-							"unit": "%"
+							"value": "9116"
 						}
 					]
 				},
@@ -68004,13 +67138,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7783",
-							"unit": "%"
+							"value": "7783"
 						},
 						{
 							"name": "weiblich",
-							"value": "8504",
-							"unit": "%"
+							"value": "8504"
 						}
 					]
 				},
@@ -68161,13 +67293,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "8004",
-							"unit": "%"
+							"value": "8004"
 						},
 						{
 							"name": "weiblich",
-							"value": "8682",
-							"unit": "%"
+							"value": "8682"
 						}
 					]
 				},
@@ -68318,13 +67448,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "7308",
-							"unit": "%"
+							"value": "7308"
 						},
 						{
 							"name": "weiblich",
-							"value": "7168",
-							"unit": "%"
+							"value": "7168"
 						}
 					]
 				},
@@ -68475,13 +67603,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2944",
-							"unit": "%"
+							"value": "2944"
 						},
 						{
 							"name": "weiblich",
-							"value": "3223",
-							"unit": "%"
+							"value": "3223"
 						}
 					]
 				},
@@ -68632,13 +67758,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2314",
-							"unit": "%"
+							"value": "2314"
 						},
 						{
 							"name": "weiblich",
-							"value": "2511",
-							"unit": "%"
+							"value": "2511"
 						}
 					]
 				},
@@ -68789,13 +67913,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2451",
-							"unit": "%"
+							"value": "2451"
 						},
 						{
 							"name": "weiblich",
-							"value": "2518",
-							"unit": "%"
+							"value": "2518"
 						}
 					]
 				},
@@ -68946,13 +68068,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1457",
-							"unit": "%"
+							"value": "1457"
 						},
 						{
 							"name": "weiblich",
-							"value": "1548",
-							"unit": "%"
+							"value": "1548"
 						}
 					]
 				},
@@ -69103,13 +68223,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "6386",
-							"unit": "%"
+							"value": "6386"
 						},
 						{
 							"name": "weiblich",
-							"value": "7140",
-							"unit": "%"
+							"value": "7140"
 						}
 					]
 				},
@@ -69260,13 +68378,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "5378",
-							"unit": "%"
+							"value": "5378"
 						},
 						{
 							"name": "weiblich",
-							"value": "5805",
-							"unit": "%"
+							"value": "5805"
 						}
 					]
 				},
@@ -69417,13 +68533,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4775",
-							"unit": "%"
+							"value": "4775"
 						},
 						{
 							"name": "weiblich",
-							"value": "5182",
-							"unit": "%"
+							"value": "5182"
 						}
 					]
 				},
@@ -69574,13 +68688,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "1612",
-							"unit": "%"
+							"value": "1612"
 						},
 						{
 							"name": "weiblich",
-							"value": "1668",
-							"unit": "%"
+							"value": "1668"
 						}
 					]
 				},
@@ -69731,13 +68843,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "2719",
-							"unit": "%"
+							"value": "2719"
 						},
 						{
 							"name": "weiblich",
-							"value": "2753",
-							"unit": "%"
+							"value": "2753"
 						}
 					]
 				},
@@ -69888,13 +68998,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "3182",
-							"unit": "%"
+							"value": "3182"
 						},
 						{
 							"name": "weiblich",
-							"value": "3270",
-							"unit": "%"
+							"value": "3270"
 						}
 					]
 				},
@@ -70045,13 +69153,11 @@
 						},
 						{
 							"name": "männlich",
-							"value": "4492",
-							"unit": "%"
+							"value": "4492"
 						},
 						{
 							"name": "weiblich",
-							"value": "5187",
-							"unit": "%"
+							"value": "5187"
 						}
 					]
 				},
