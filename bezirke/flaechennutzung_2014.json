@@ -1,0 +1,1131 @@
+{
+  "name": "Flaechennutzung",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Liste der häufigen Vornamen 2014",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 3947,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 2065,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 770,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 216,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 6,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 718,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 43,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 675,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 927,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 830,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 82,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 0,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 0,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 142,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 88,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 83,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 2041,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 1119,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 456,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 79,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 3,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 209,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 22,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 187,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 523,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 458,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 61,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 1,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 4,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 132,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 51,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 47,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 10307,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 3782,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 2214,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 306,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 128,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 1339,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 95,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 1243,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 1386,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 1181,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 188,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 1836,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 1354,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 166,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 317,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 182,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 6472,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 2488,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 1324,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 109,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 7,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 767,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 90,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 677,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 1227,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 1020,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 200,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 8,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 1622,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 281,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 71,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 68,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 9187,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 3758,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 1978,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 577,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 50,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 1023,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 128,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 896,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 862,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 769,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 92,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 762,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 1721,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 904,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 106,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 86,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 10256,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 4261,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 2913,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 150,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 31,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 917,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 113,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 804,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 1307,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 1137,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 163,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 26,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 2465,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 1119,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 129,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 120,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 5303,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 3105,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 1729,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 522,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 26,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 878,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 60,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 818,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 1030,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 862,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 166,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 57,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 48,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 43,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 116,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 113,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 4493,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 2569,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 1787,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 237,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 11,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 912,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 69,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 843,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 744,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 674,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 68,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 64,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 5,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 71,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 116,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 108,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 16842,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 4360,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 2529,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 374,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 175,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 1291,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 106,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 1185,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 1572,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 1205,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 348,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 163,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 6998,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 2161,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 123,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 72,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 6178,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 3429,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 2211,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 236,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 26,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 922,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 34,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 888,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 1374,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 1043,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 277,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 80,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 132,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 121,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 93,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 44,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 5212,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 2456,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 1014,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 307,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 55,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 916,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 73,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 842,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 919,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 712,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 190,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 557,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 77,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 104,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 128,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 63,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 8931,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Gebäude- und Freifläche",
+		  "value": 3645,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Wohnfläche",
+			  "value": 2465,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Gewerbe- und Industriefläche",
+			  "value": 337,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Betriebsfläche",
+		  "value": 11,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Erholungsfläche",
+		  "value": 783,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Sportfläche, Freibäder",
+			  "value": 81,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Grünanlagen, Camping",
+			  "value": 701,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Verkehrsfläche",
+		  "value": 1423,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Straßen, Plätze, Wege",
+			  "value": 845,
+			  "unit": "ha"
+			},
+			{
+			  "name": "Bahngelände, Flugplatzgelände",
+			  "value": 575,
+			  "unit": "ha"
+			}
+		  ]
+		},
+		{
+		  "name": "Landwirtschaftliche Fläche",
+		  "value": 290,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Waldfläche",
+		  "value": 1939,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Wasserfläche",
+		  "value": 722,
+		  "unit": "ha"
+		},
+		{
+		  "name": "Fläche anderer Nutzung",
+		  "value": 119,
+		  "unit": "ha",
+		  "values" : [
+			{
+			  "name": "Friedhöfe",
+			  "value": 103,
+			  "unit": "ha"
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
