@@ -1,0 +1,411 @@
+{
+  "name": "Volkshochschulen",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Volkshochschulen 2014 nach Bezirken",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 25073
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 3399
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 1
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 3917
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 5
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 2190
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 2
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 5179
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 2420
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 5
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 17321
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 9
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 3043
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 3
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 3054
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 3
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 736
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 133989
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 2465
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 2
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 5020
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 5
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 3473
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 3
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 6767
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 5
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 1836
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 7
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 100830
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 2140
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 1
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 187
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 5
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 2033
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	   "values": [
+{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 1
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 18500
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 5
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 1599
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	   "values": [
+		{
+		  "name": "Frei- und Sommerbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 2
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 119200
+			}
+		  ]
+		},
+		{
+		  "name": "Hallenbäder",
+		   "values" : [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Wasserfläche",
+			  "unit": "qm",
+			  "value": 1563
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
