@@ -1,0 +1,219 @@
+{
+  "name": "Öffentliche Bibliotheken",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Öffentliche Bibliotheken 2014 nach Bezirken",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 11
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 532638
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 2655353
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 6
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 338268
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1493052
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 8
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 428573
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 2145733
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 7
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 268202
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1440235
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 7
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 306792
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1332899
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 6
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 371042
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 2712338
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 8
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 304766
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1561295
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 4
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 294131
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1583171
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 9
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 277848
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1149331
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 6
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 301144
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1386103
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 4
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 274776
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1744122
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	   "values": [
+		{
+		  "name": "Bibliotheken",
+		  "value": 7
+		},
+		{
+		  "name": "Medienbestand",
+			  "value": 314992
+		},
+		{
+		  "name": "Entleihungen",
+		  "value": 1685228
+		}
+	  ]
+	}
+  ]
+}
