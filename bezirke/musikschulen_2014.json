@@ -1,0 +1,219 @@
+{
+  "name": "Musikschulen",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Musikschulen 2014 nach Bezirken",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 4657
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 239
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 15
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 3003
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 168
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 3
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 4373
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 234
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 4
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 4134
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 257
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 29
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 2443
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 119
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 16
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 7913
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 328
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 52
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 5075
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 224
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 42
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 4365
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 214
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 27
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 2593
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 193
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 17
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 3926
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 99
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 4
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 7016
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 140
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 60
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	   "values": [
+		{
+		  "name": "Teilnehmer",
+		  "value": 2433
+		},
+		{
+		  "name": "Lehrkräfte",
+			  "value": 144
+		},
+		{
+		  "name": "Lehrstätten",
+		  "value": 41
+		}
+	  ]
+	}
+  ]
+}
