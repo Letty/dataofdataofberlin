@@ -1,0 +1,483 @@
+{
+  "name": "Volkshochschulen",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Volkshochschulen 2014 nach Bezirken",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Kuse",
+		  "value": 2730
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 34175
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 12.5
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 783
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 64
+			},
+			{
+			  "name": "Besuche",
+			  "value": 709
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Kuse",
+		  "value": 1343
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 17349
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 12.9
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 313
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 17
+			},
+			{
+			  "name": "Besuche",
+			  "value": 163
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 1834
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 21483
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 11.7
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 320
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 42
+			},
+			{
+			  "name": "Besuche",
+			  "value": 846
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 1483
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 18668
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 12.6
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 287
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 7
+			},
+			{
+			  "name": "Besuche",
+			  "value": 140
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 938
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 11050
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 11.8
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 204
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 41
+			},
+			{
+			  "name": "Besuche",
+			  "value": 473
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 2278
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 24354
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 10.7
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 492
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 122
+			},
+			{
+			  "name": "Besuche",
+			  "value": 1287
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 1886
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 22513
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 11.9
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 407
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 312
+			},
+			{
+			  "name": "Besuche",
+			  "value": 1888
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 1669
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 20495
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 12.3
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 409
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 22
+			},
+			{
+			  "name": "Besuche",
+			  "value": 269
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 1518
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 16281
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 10.7
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 276
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 91
+			},
+			{
+			  "name": "Besuche",
+			  "value": 1784
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 1014
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 9792
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 9.7
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 229
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 24
+			},
+			{
+			  "name": "Besuche",
+			  "value": 349
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 998
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 10125
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 10.1
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 264
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 48
+			},
+			{
+			  "name": "Besuche",
+			  "value": 897
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	   "values": [
+		{
+		  "name": "Kuse",
+		  "value": 1445
+		},
+		{
+		  "name": "Belegungen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 16971
+			},
+			{
+			  "name": "je Kurs",
+			  "value": 11.7
+			}
+		  ]
+		},
+		{
+		  "name": "Dozenten",
+		  "value": 253
+		},
+		{
+		  "name": "Einzelveranstaltungen und Vortragsreihen",
+		  "values" : [
+			{
+			  "name": "insgesamt",
+			  "value": 29
+			},
+			{
+			  "name": "Besuche",
+			  "value": 733
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
