@@ -1,0 +1,435 @@
+{
+  "name": "Öffentliche Kinderspielplätze",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Öffentliche Bibliotheken 2014 nach Bezirken",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 268
+			},
+			{
+			  "name": "qm",
+			  "value": 368631
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 237
+			},
+			{
+			  "name": "qm",
+			  "value": 219593
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.6
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 183
+			},
+			{
+			  "name": "qm",
+			  "value": 286580
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 179
+			},
+			{
+			  "name": "qm",
+			  "value": 182929
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.7
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 219
+			},
+			{
+			  "name": "qm",
+			  "value": 403625
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 212
+			},
+			{
+			  "name": "qm",
+			  "value": 264167
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.7
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 127
+			},
+			{
+			  "name": "qm",
+			  "value": 202268
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 120
+			},
+			{
+			  "name": "qm",
+			  "value": 161671
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.5
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 114
+			},
+			{
+			  "name": "qm",
+			  "value": 200459
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 100
+			},
+			{
+			  "name": "qm",
+			  "value": 142693
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.6
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 139
+			},
+			{
+			  "name": "qm",
+			  "value": 232692
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 139
+			},
+			{
+			  "name": "qm",
+			  "value": 182064
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.6
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 165
+			},
+			{
+			  "name": "qm",
+			  "value": 385874
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 151
+			},
+			{
+			  "name": "qm",
+			  "value": 202836
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.6
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 135
+			},
+			{
+			  "name": "qm",
+			  "value": 314037
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 134
+			},
+			{
+			  "name": "qm",
+			  "value": 194076
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.6
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 147
+			},
+			{
+			  "name": "qm",
+			  "value": 241177
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 134
+			},
+			{
+			  "name": "qm",
+			  "value": 151304
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.6
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 138
+			},
+			{
+			  "name": "qm",
+			  "value": 220371
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 135
+			},
+			{
+			  "name": "qm",
+			  "value": 108813
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.4
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 136
+			},
+			{
+			  "name": "qm",
+			  "value": 286031
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 132
+			},
+			{
+			  "name": "qm",
+			  "value": 202207
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.8
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	  "values": [
+		{
+		  "name": "Kinderspielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 76
+			},
+			{
+			  "name": "qm",
+			  "value": 174910
+			}
+		  ]
+		},
+		{
+		  "name": "Darunter anrechenbare Spielplätze",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 76
+			},
+			{
+			  "name": "qm",
+			  "value": 164234
+			},
+			{
+			  "name": "qm je Einwohner",
+			  "value": 0.7
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
