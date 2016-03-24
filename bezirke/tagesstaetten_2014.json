@@ -1,0 +1,579 @@
+{
+  "name": "Tageseinrichtungen für Kinder",
+  "date": "01.03.2015",
+  "src": {
+	"name": "Öffentliche Bibliotheken 2014 nach Bezirken",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 273
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 3425
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 2824
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 18253
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 16447
+			},
+			{
+			  "name": "unter 3",
+			  "value": 4805
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 10561
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 1081
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 271
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 2931
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 2423
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 14644
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 13429
+			},
+			{
+			  "name": "unter 3",
+			  "value": 4437
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 8091
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 901
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 334
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 4146
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 3463
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 21605
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 20036
+			},
+			{
+			  "name": "unter 3",
+			  "value": 6889
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 11849
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 1298
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 237
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 2261
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 1811
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 11289
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 10253
+			},
+			{
+			  "name": "unter 3",
+			  "value": 2899
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 6721
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 633
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 120
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 1749
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 1399
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 9867
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 8783
+			},
+			{
+			  "name": "unter 3",
+			  "value": 2353
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 5772
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 658
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 186
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 2273
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 1878
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 11989
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 10716
+			},
+			{
+			  "name": "unter 3",
+			  "value": 2941
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 7070
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 705
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 227
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 2747
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 2295
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 13851
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 12695
+			},
+			{
+			  "name": "unter 3",
+			  "value": 3775
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 7982
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 938
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 197
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 2510
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 2046
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 13447
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 11818
+			},
+			{
+			  "name": "unter 3",
+			  "value": 3228
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 7780
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 810
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 147
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 2183
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 1787
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 11178
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 10469
+			},
+			{
+			  "name": "unter 3",
+			  "value": 3462
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 6317
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 690
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 100
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 2118
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 1759
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 11601
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 11007
+			},
+			{
+			  "name": "unter 3",
+			  "value": 3427
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 6728
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 852
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 123
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 2410
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 1978
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 13164
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 11929
+			},
+			{
+			  "name": "unter 3",
+			  "value": 4043
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 7118
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 768
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	  "values": [
+		{
+		  "name": "Anzahl der Einrichtungen",
+		  "value": 141
+		},
+		{
+		  "name": "Tätige Personen",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 1839
+			},
+			{
+			  "name": "darunter pädagogisches Personal",
+			  "value": 1489
+			}
+		  ]
+		},
+		{
+		  "name": "Genehmigte Plätze",
+		  "value": 9884
+		},
+		{
+		  "name": "Anzahl der Kinder",
+		  "values": [
+			{
+			  "name": "insgesamt",
+			  "value": 9001
+			},
+			{
+			  "name": "unter 3",
+			  "value": 2309
+			},
+			{
+			  "name": "3 bis unter 6",
+			  "value": 6001
+			},
+			{
+			  "name": "6 bis unter 14",
+			  "value": 691
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
