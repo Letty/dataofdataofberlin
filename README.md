@@ -1,39 +1,60 @@
 #dataofdataofberlin
 
-Befreite Daten über Berlin.
+Befreite Daten über Berlin auf verschiedenen geografischen Ebenen:
 
-##Bezirksprofile
-* enthält die Daten pro Bezirks in einer json-Datei
-* Dateiname: `<lorNummer>_Bezirksprofil.json`
-* Quelle der Berichte [GSI-Berlin](http://www.gsi-berlin.info/gsi_suchen.asp?seite=2&CBFest=Kategorie,Bereich,Thema,Unterthema&Kategorie=Berichte&Bereich=GBE&Thema=Basisberichte&Unterthema=Bezirksprofile)
-* wobei die Hierarchieebenen (blauer Balken, fettgedruckte Überschriften) erhalten geblieben sind inform von Objekten/ Unterobjekten
-* eine Zeile besteht aus einem Objekt mit den Feldern: Wert, Datum und Maßeinheit
+* Bezirke
+* Planungsräume
+* Prognoseräume
 
-		"Bevölkerung": {
-   		"Bevölkerung insgesamt": {
-   	 		"gesamt": {
-   				"Wert": 326354,
-   				"Datum": "31.12.2014",
-   				"Maßeinheit": "absolut"
-   	  		}, ...
-   		}
-   	}
 
-* Ausnahme sind Zeilen die in zwei Maßeinheiten angegebn sind, diese enthalten ein Array von Objekten
+## Aufbau der Daten
+Fast alle Daten haben eine einheitliche Datenstruktur (Ausnahme: Bezirksprofile)
 
-		"Versorgung": {
-				"Pflegerisch": {
-					  "Plätze in stationären Pflegeeinrichtungen": [
-						{
-						  "Wert": 2996,
-						  "Datum": "15.12.2013",
-						  "Maßeinheit": "absolut"
-						},
-						{
-						  "Wert": 4119.9,
-						  "Datum": "15.12.2013",
-						  "Maßeinheit": "je 100.000 EW 65 J. u.ä."
-						}
-					  ]
-				}
-		}
+	{
+		"name": "Name des Datensatzes",
+		"date": "Erhebungsdatum",
+		"src": {
+			"name": "Konkreter Name des Datensatzes in der Quelle",
+			"url": "URL zum Datensatz",
+			"license": "..",
+			"publisher": {
+	  			"name": "Herausgeber der Daten",
+	  			"url": "..."
+			}
+  		},
+  		"values": [
+  		// sofern es nur einen Datensatz gibt, erfolgt hier die Auflistung der 
+  		// einzelnen Daten
+  		
+  		// falls es mehrere Datensätze gibt, kann die Angabe der Quelle auch hier 
+  		// enthalten sein
+  		
+  		{
+	  		"geografischer Bezugsraum": "Nummer", // (zB "Bezirk": "01")
+	  		"values": [
+			{
+		  		"name": "Merkmal",
+		  		"value": Wert,
+		  		"date" : Datum,
+		  		"unit" : "Einehit"
+			},
+			{
+		  		"name": "Merkmal",
+			  	"value": Wert,
+		  		"date" : Datum,
+		  		"unit" : "Einehit"
+			  	// Einzelne Merkmale ebenfalls wieder values besitzen können
+			},
+			{...}
+	  	]
+		},
+  		{ ... }, { ... }, ... ]
+	}
+
+## Bezirksprofile
+Der Aufbau der Datei unterscheidet sich nur in den Feldern vor den values
+
+	{
+	   "area": "Bezirksname",
+	   "area_id": "Bezirksnummer",
+   		"values": [ { ... },{ ... },{ ... } ]
