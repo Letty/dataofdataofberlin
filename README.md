@@ -1,6 +1,6 @@
 #dataofdataofberlin
 
-Befreite Daten über Berlin auf verschiedenen geografischen Ebenen:
+Aufgehübschte Daten aus Berlin auf verschiedenen geografischen Ebenen:
 
 * Bezirke
 * Planungsräume
