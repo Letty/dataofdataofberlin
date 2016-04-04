@@ -1,0 +1,131 @@
+{
+  "name": "Bezirksbügermeister",
+  "date": "18. September 2011",
+  "src": {
+	"name": "Bezirksbügermeister",
+	"url": "https://www.berlin.de/rbmskzl/regierender-buergermeister/buergermeister-von-berlin/rat-der-buergermeister/artikel.6684.php",
+	"license": "CC-BY"
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Christian Hanke (SPD)",
+		  "date": "26.10.2006"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Monika Herrmann (Grüne)",
+		  "date": "01.08.2013"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Matthias Köhne (SPD)",
+		  "date": "26.10.2006"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Reinhard Naumann (SPD)",
+		  "date": "27.10.2011"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Helmut Kleebank (SPD)",
+		  "date": "02.11.2011"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Norbert Kopp (CDU)",
+		  "date": "15.11.2006"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Angelika Schöttler (SPD)",
+		  "date": "27.10.2011"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Franziska Giffey (SPD)",
+		  "date": "15.04.2015"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Oliver Igel (SPD)",
+		  "date": "27.10.2011"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Stefan Komoß (SPD)",
+		  "date": "27.10.2011"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Birgit Monteiro (SPD)",
+		  "date": "22.01.2015"
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	  "values": [
+		{
+		  "name": "Bezirksbügermeister",
+		  "value": "Frank Balzer (CDU)",
+		  "date": "10.2009"
+		}
+	  ]
+	}
+  ]
+}
