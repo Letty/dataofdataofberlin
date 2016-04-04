@@ -1,9 +1,9 @@
 {
-  "name": "Bezirksbügermeister",
+  "name": "Abgeordnete",
   "date": "18. September 2011",
   "src": {
-	"name": "Bezirksbügermeister",
-	"url": "https://www.berlin.de/rbmskzl/regierender-buergermeister/buergermeister-von-berlin/rat-der-buergermeister/artikel.6684.php",
+	"name": "Bezirksbügermeister und Abgeordnete nach Wahlkreis",
+	"url": "http://www.parlament-berlin.de/de/Das-Parlament/Abgeordnete/Suche-nach-Wahlkreisen#anc_09",
 	"license": "CC-BY"
   },
   "values": [
@@ -14,6 +14,46 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Christian Hanke (SPD)",
 		  "date": "26.10.2006"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Ramona Pop (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Carola Bluhm (Die Linke)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Thomas Isenberf (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "İlkin Özışık (fraktionslos)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Bruni Wildenhein-Lauterbach (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Ralf Wieland (SPD)"
+			}
+		  ]
+		},
+		{
+			 "name": "Abgeordnete nach Bezirksliste",
+			  "values": [
+				{
+				  "value": "Frank Henkel (CDU)"
+				},
+				{
+				  "value": "Sven Rissmann (CDU)"
+				}
+			]
 		}
 	  ]
 	},
@@ -24,6 +64,49 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Monika Herrmann (Grüne)",
 		  "date": "01.08.2013"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Heidi Kosche (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Dirk Behrendt (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Dr. Turgut Altug (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Dr. Susanne Kitschun (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Canan Bayram (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Marianne Burkert-Eulitz (Bündnis 90 / Die Grünen)"
+			}
+		  ]
+		},
+		{
+			 "name": "Abgeordnete nach Bezirksliste",
+			  "values": [
+				{
+				  "value": "Björn Eggert (SPD)"
+				},
+				{
+				  "value": "Heinemann Sven (SPD)"
+				},
+				{
+				  "value": "Kurt Wansner (CDU)"
+				}
+			]
 		}
 	  ]
 	},
@@ -34,6 +117,53 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Matthias Köhne (SPD)",
 		  "date": "26.10.2006"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Rainer-Michael Lehmann (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Alex Lubawinski (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Torsten Schneider (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Dennis Buchner (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Sandra Scheeres (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Andreas Otto (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 7",
+			  "value": "Nikolaus Karsten (SPD)"
+			}
+		  ]
+		},
+		{
+			 "name": "Abgeordnete nach Bezirksliste",
+			  "values": [
+				{
+				  "value": "Stephan Lenz (CDU)"
+				},
+				{
+				  "value": "Dr. Gottfried Ludewig (CDU)"
+				},
+				{
+				  "value": "Dirk Stettner (CDU)"
+				}
+			]
 		}
 	  ]
 	},
@@ -44,6 +174,47 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Reinhard Naumann (SPD)",
 		  "date": "27.10.2011"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Fréderic Verrycken (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Andreas Statzkowski (CDU), ausgeschieden"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Ülker Radziwill (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Frank Jahnke (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Claudio Jupe (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Franziska Becker (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 7",
+			  "value": "Dr. Michael Garmer (CDU)"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"value": "Stefan Evers (CDU)"
+		},
+		{
+			"name": "Wahlkreis 2: Bezirksliste",
+			"value": "Joachim Krüger (CDU)"
 		}
 	  ]
 	},
@@ -54,6 +225,35 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Helmut Kleebank (SPD)",
 		  "date": "02.11.2011"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Thomas Kleineidam (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Raed Saleh (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "-"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Heiko Melzer (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Peter Trapp (CDU)"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"value": "Matthias Brauner (CDU)"
 		}
 	  ]
 	},
@@ -64,6 +264,59 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Norbert Kopp (CDU)",
 		  "date": "15.11.2006"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Cerstin-Ullrike Richter-Kotowski (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Joachim Luchterhand (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Christian Goiny (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Cornelia Seibeld (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Oliver Friederici (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Dr. Uwe Lehmann-Brauns (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 7",
+			  "value": "Michael Braun (CDU)"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"values": [
+				{
+				  "value": "Dr. Michael Arndt (SPD)"
+				},
+				{
+				  "value": "Dr. Ina Czyborra (SPD)"
+				},
+				{
+				  "value": "Irene Köhne (SPD)"
+				},
+				{
+				  "value": "Andreas Kugler (SPD)"
+				},
+				{
+				  "value": "Stefan Schlede (CDU)"
+				}
+			]
 		}
 	  ]
 	},
@@ -74,6 +327,54 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Angelika Schöttler (SPD)",
 		  "date": "27.10.2011"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Thomas Birk (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Lars Oberg (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Dilek Kolat (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Frank Zimmermann (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Florian Graf (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Roman Simon (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 7",
+			  "value": "Nicolas Zimmer (CDU), ausgeschieden"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"values": [
+				{
+				  "value": "Hildegard Bentele (CDU)"
+				},
+				{
+				  "value": "Monika Hanna Thamm (CDU)"
+				}
+			]
+		},
+		{
+			"name": "Wahlkreis 8: Bezirksliste",
+			"value": "Markus Klaer (CDU)"
 		}
 	  ]
 	},
@@ -84,6 +385,49 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Franziska Giffey (SPD)",
 		  "date": "15.04.2015"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Anja Kofbinger (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Dr. Susanna Kahlefeld (Bündnis 90 / Die Grünen)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Joschka Langenbrinck (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Dr. Robbin Juhnke (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "-"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Dr. Hans-Christian Hausmann (CDU)"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"values": [
+				{
+				  "value": "Kirsten Flesch (SPD)"
+				},
+				{
+				  "value": "Michael Freiberg (CDU)"
+				},
+				{
+				  "value": "Erol Özkaraca (SPD)"
+				}
+			]
 		}
 	  ]
 	},
@@ -94,6 +438,46 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Oliver Igel (SPD)",
 		  "date": "27.10.2011"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Andy Jauch (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Karlheinz Nolte (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Ellen Hausdörfer (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Robert Schaddach (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Tom Schreiber (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Renate Harant (SPD)"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"values": [
+				{
+				  "value": "Prof. Dr. Niels Korte (CDU)"
+				},
+				{
+				  "value": "Katrin Vogel (CDU)"
+				}
+			]
 		}
 	  ]
 	},
@@ -104,6 +488,52 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Stefan Komoß (SPD)",
 		  "date": "27.10.2011"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Wolfgang Brauer (Die Linke)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Dr. Manuela Schmidt (Die Linke)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Dr. Gabriele Hiller (Die Linke)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Regina Kittler (Die Linke)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Mario Czaja (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Sven Kohlmeier (SPD)"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"values": [
+				{
+				  "value": "Christian Gräff (CDU), ausgeschieden"
+				},
+				{
+				  "value": "Alexander J. Herrmann (CDU)"
+				},
+				{
+				  "value": "Liane Ollech (SPD)"
+				},
+				{
+				  "value": "Iris Spranger (SPD)"
+				}
+			]
 		}
 	  ]
 	},
@@ -114,6 +544,49 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Birgit Monteiro (SPD)",
 		  "date": "22.01.2015"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Evrim Sommer (Die Linke)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Dr. Wolfgang Albers (Die Linke)"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Marion Platta (Die Linke)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Birgit Monteiro (SPD), ausgeschieden"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Ole Kreins (SPD)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Harald Wolf (Die Linke)"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"values": [
+				{
+				  "value": "Danny Freymark (CDU)"
+				},
+				{
+				  "value": "Karin Halsch (SPD)"
+				},
+				{
+				  "value": "Dr. Gregor Költzsch (SPD)"
+				}
+			]
 		}
 	  ]
 	},
@@ -124,6 +597,53 @@
 		  "name": "Bezirksbügermeister",
 		  "value": "Frank Balzer (CDU)",
 		  "date": "10.2009"
+		},
+		{
+		  "name": "Abgeordnete nach Wahlkreis",
+		  "values": [
+			{
+			  "name": "Wahlkreis 1",
+			  "value": "Burkard Dregger (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 2",
+			  "value": "Emine Demirbüke-Wegner (CDU), ausgeschieden"
+			},
+			{
+			  "name": "Wahlkreis 3",
+			  "value": "Dr. Manuel Heide (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 4",
+			  "value": "Andreas Gram (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 5",
+			  "value": "Michael Dietmann (CDU)"
+			},
+			{
+			  "name": "Wahlkreis 6",
+			  "value": "Jürn Jakob Schultze-Berndt (CDU)"
+			}
+		  ]
+		},
+		{
+			"name": "Abgeordnete nach Bezirksliste",
+			"values": [
+				{
+				  "value": "Torsten Karge (SPD)"
+				},
+				{
+				  "value": "Birgitte Lange (SPD)"
+				},
+				{
+				  "value": "Jörg Stroedter (SPD)"
+				}
+			]
+		},
+		{
+			"name": "Wahlkreis 2: Bezirksliste",
+			"value": "Tim-Christopher Zeelen (CDU)"
 		}
 	  ]
 	}
