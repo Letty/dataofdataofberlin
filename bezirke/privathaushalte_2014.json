@@ -1,0 +1,579 @@
+{
+  "name": "Privathaushalte",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Privathaushalte 2014 nach Bezirken und Haushaltsgröße",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 199.3,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 341.4,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.7
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 122.4,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 52.9
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 42.2
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 15.1
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 19.5
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 156.7,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 268,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.7
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 92.5,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 41.1
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 36.9
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 13.3
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 14.1
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 227.7,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 375.1,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.6
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 136.3,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 66.2
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 54.1
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 22.8
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 14.4
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 184.6,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 307.6,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.7
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 109.1,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 56
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 47.2
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 14.6
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 13.8
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 129.6,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 223.4,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.7
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 68,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 36
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 41.8
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 11.1
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 8.7
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 156.3,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 282.3,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.8
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 78.7,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 50.1
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 48.1
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 15.2
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 14.2
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 180.4,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 328.2,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.8
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 90.5,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 50
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 54.8
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 19.5
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 15.6
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 167.3,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 312.8,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.9
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 88.2,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 42.6
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 42.6
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 16.5
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 20
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 139.2,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 345.3,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.8
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 67.5,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 33.6
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 49.3
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 13
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 9.5
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 135.4,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 250.6,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.9
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 59.4,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 30.5
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 49.6
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 16.2
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 10.3
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 156.6,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 264.1,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.7
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 84.9,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 40.2
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 48.2
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 14.7
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 8.8
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	  "values": [
+		{
+		  "name": "Anzahl",
+		  "value": 130,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen",
+		  "value": 244.2,
+		  "unit": "1000"
+		},
+		{
+		  "name": "Personen je Haushalt",
+		  "value": 1.9
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "1 Person",
+			  "value": 60.2,
+			  "unit": "1000",
+			  "values": [
+				{
+				  "name": "weiblich",
+				  "value": 33.7
+				}
+			  ]
+			},
+			{
+			  "name": "2 Personen",
+			  "value": 42.9
+			},
+			{
+			  "name": "3 Personen",
+			  "value": 14.8
+			},
+			{
+			  "name": "4 und mehr Personen",
+			  "value": 12.1
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
