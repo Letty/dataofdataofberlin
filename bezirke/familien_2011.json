@@ -1,0 +1,423 @@
+{
+  "name": "Familien",
+  "date": "09.05.2011",
+  "src": {
+	"name": "Familien am 9. Mai 2011 nach Bezirken und Familiengröße",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 68816
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 39886
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 14428
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 8999
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 3475
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 2028
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 51052
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 28963
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 11865
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 6731
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 2344
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 1149
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 91224
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 56758
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 21396
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 10715
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 1946
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 409
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 70193
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 44986
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 14778
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 8134
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 1810
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 485
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 57352
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 34538
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 12432
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 7449
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 2145
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 797
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 73620
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 44311
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 16042
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 10218
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 2438
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 611
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 80669
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 49254
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 17507
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 10313
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 2618
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 977
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 70969
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 40765
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 15333
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 9442
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 3498
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 1931
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 68328
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 45164
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 14856
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 6772
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 1214
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 322
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 71449
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 44986
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 17279
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 7231
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 1450
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 503
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 69461
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 46681
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 14917
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 6287
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 1167
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 409
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	  "values": [
+		{
+		  "name": "Familien",
+		  "value": 64163
+		},
+		{
+		  "name": "Verteilung",
+		  "values": [
+			{
+			  "name": "mit 2 Personen",
+			  "value": 39066
+			},
+			{
+			  "name": "mit 3 Personen",
+			  "value": 13575
+			},
+			{
+			  "name": "mit 4 Personen",
+			  "value": 8296
+			},
+			{
+			  "name": "mit 5 Person",
+			  "value": 2355
+			},
+			{
+			  "name": "mit 6 und mehr Person",
+			  "value": 871
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
