@@ -1,8 +1,8 @@
 {
-  "name": "Flaechennutzung",
+  "name": "Staatsangehörigkeiten",
   "date": "31.12.2014",
   "src": {
-	"name": "Liste der häufigen Vornamen 2014",
+	"name": "Ausländer am 31. Dezember 2014 nach Bezirken und ausgewählten Staatsangehörigkeiten",
 	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
 	"license": "CC-BY",
 	"publisher": {
