@@ -1,0 +1,483 @@
+{
+  "name": "Flaechennutzung",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Liste der häufigen Vornamen 2014",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 107069
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 42034,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 8411
+			},
+			{
+			  "name": "Italien",
+			  "value": 4193
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 6044
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 3262
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 22034
+		},
+		{
+		  "name": "Serbien",
+		  "value": 3349
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 65364
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 27394,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 2839
+			},
+			{
+			  "name": "Italien",
+			  "value": 4269
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 1577
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 3319
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 16572
+		},
+		{
+		  "name": "Serbien",
+		  "value": 1008
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 37472
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 20865,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 2887
+			},
+			{
+			  "name": "Italien",
+			  "value": 2912
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 858
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 2392
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 988
+		},
+		{
+		  "name": "Serbien",
+		  "value": 564
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 71480
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 31297,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 7045
+			},
+			{
+			  "name": "Italien",
+			  "value": 3579
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 1701
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 2623
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 6235
+		},
+		{
+		  "name": "Serbien",
+		  "value": 2310
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 32159
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 12267,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 4850
+			},
+			{
+			  "name": "Italien",
+			  "value": 804
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 1183
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 255
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 6523
+		},
+		{
+		  "name": "Serbien",
+		  "value": 1745
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 36974
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 16318,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 4498
+			},
+			{
+			  "name": "Italien",
+			  "value": 1457
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 724
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 1022
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 3248
+		},
+		{
+		  "name": "Serbien",
+		  "value": 1114
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 56044
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 22120,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 5271
+			},
+			{
+			  "name": "Italien",
+			  "value": 2557
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 1670
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 1506
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 12025
+		},
+		{
+		  "name": "Serbien",
+		  "value": 2260
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 76517
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 29510,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 6661
+			},
+			{
+			  "name": "Italien",
+			  "value": 3185
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 3328
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 1982
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 20900
+		},
+		{
+		  "name": "Serbien",
+		  "value": 2627
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 12855
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 5897,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 1750
+			},
+			{
+			  "name": "Italien",
+			  "value": 426
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 800
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 251
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 976
+		},
+		{
+		  "name": "Serbien",
+		  "value": 643
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 15050
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 5172,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 1838
+			},
+			{
+			  "name": "Italien",
+			  "value": 177
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 500
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 56
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 476
+		},
+		{
+		  "name": "Serbien",
+		  "value": 601
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 28010
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 8986,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 2657
+			},
+			{
+			  "name": "Italien",
+			  "value": 480
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 1330
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 269
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 783
+		},
+		{
+		  "name": "Serbien",
+		  "value": 1097
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	  "values": [
+		{
+		  "name": "Insgesamt",
+		  "value": 34348
+		},
+		{
+		  "name": "Europäische Union (EU)",
+		  "value": 13081,
+		  "values" : [
+			{
+			  "name": "Polen",
+			  "value": 4597
+			},
+			{
+			  "name": "Italien",
+			  "value": 1211
+			},
+			{
+			  "name": "Bulgarien",
+			  "value": 1678
+			},
+			{
+			  "name": "Frankreich",
+			  "value": 707
+			}
+		  ]
+		},
+		{
+		  "name": "Türkei",
+		  "value": 7899
+		},
+		{
+		  "name": "Serbien",
+		  "value": 1724
+		}
+	  ]
+	}
+  ]
+}
