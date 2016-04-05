@@ -1,0 +1,747 @@
+{
+  "name": "Familien",
+  "date": "31.12.2014",
+  "src": {
+	"name": "Sportanlagen am 31. Dezember 2014 nach Bezirken",
+	"url": "https://www.statistik-berlin-brandenburg.de/produkte/Jahrbuch/BE_Kap_2015.asp",
+	"license": "CC-BY",
+	"publisher": {
+	  "name": "Amt für Statistik Berlin-Brandenburg",
+	  "url": "http://www.statistik-berlin-brandenburg.de"
+	}
+  },
+  "values": [
+	{
+	  "bezirk": "01",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 45
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 64819,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 36
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 206830,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 22
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 25214,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 22551,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "02",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 43
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 79368,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 11
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 63147,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 6
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 8946,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 4
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 20769,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "03",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 65
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 124471,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 34
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 238149,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 14
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 24128,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 12
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 64461,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "04",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 66
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 97517,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 53
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 535733,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 39
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 47860,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 11
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 59205,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "05",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 43
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 66515,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 48
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 253733,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 22
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 31010,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 11
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 57518,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "06",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 78
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 163493,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 33
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 166762,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 43
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 52844,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 9
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 49687,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "07",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 64
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 111851,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 40
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 182877,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 18
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 25992,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 7
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 37484,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "08",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 60
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 116730,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 39
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 186114,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 15
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 16446,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 7
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 38072,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "09",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 63
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 140590,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 42
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 232079,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 41
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 52868,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 7
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 38749,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "10",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 48
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 66266,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 19
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 121240,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 9
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 10451,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 6
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 31616,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "11",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 54
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 96856,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 28
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 168592,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 12
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 15785,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 6
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 34691,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	},
+	{
+	  "bezirk": "12",
+	  "values": [
+		{
+		  "name": "Kleinspielfelder",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 57
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 115291,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Großspielfelder und Gymnastikwiesen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 34
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 196793,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "Tennisanlagen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 34
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 43772,
+			  "unit": "qm"
+			}
+		  ]
+		},
+		{
+		  "name": "400-m-Rundlaufbahnen",
+		  "values": [
+			{
+			  "name": "Anzahl",
+			  "value": 10
+			},
+			{
+			  "name": "Sportfläche",
+			  "value": 51559,
+			  "unit": "qm"
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
